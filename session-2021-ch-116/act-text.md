@@ -1,0 +1,33 @@
+CHAPTER 116
+CHILDREN AND DOMESTIC MATTERS
+HOUSE BILL 21-1031
+BY REPRESENTATIVE(S) Daugherty and Woog, Bird, Bockenfeld, Duran, Exum, Gonzales-Gutierrez, Hooton, Jackson, Kipp,
+Lontine, Lynch, Michaelson Jenet, Mullica, Rich, Snyder, Titone, Valdez A., Woodrow, Young, Froelich, Herod, McCluskie,
+Sirota;
+also SENATOR(S) Lee and Gardner, Cooke, Coram, Liston.
+AN ACT
+CONCERNING CONTINUING JURISDICTION TO MODIFY FAMILY LAW ORDERS DURING THE PENDENCY
+OF AN APPEAL.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) (a) The general assembly finds and declares that:
+(I) On January 13, 2020, the Colorado supreme court issued its opinion in In re: The Parental Responsibilities Concerning W.C., 456 P.3d 1261 (Colo. 2020), in which it held that the district court does not retain jurisdiction to modify parenting time or decision-making orders based on a change in circumstances when those orders are being appealed;
+(II) The supreme court reasoned that the statutes at issue did not specifically grant trial courts continuing jurisdiction after the perfection of appeal;
+(III) Under that same reasoning, the supreme court may prohibit the modification of child support and maintenance based on changed circumstances while appeals are pending;
+(IV) Further, the supreme court declined to carve out an exception to its rule for cases involving emergency parenting time matters.
+(b) Therefore, the general assembly declares that a district court has continuing jurisdiction to modify family law orders based on changed circumstances as described in House Bill 21-1031, specifically reversing the supreme court&#x27;s holding
+and decision in In re: The Parental Responsibilities Concerning W.C.
+SECTION 2. In Colorado Revised Statutes, 14-10-122, amend (1)(a) as follows:
+14-10-122. Modification and termination of provisions for maintenance, support, and property disposition - automatic lien - definitions. (1) (a) Except as otherwise provided in sections 14-10-112 (6) and 14-10-115 (11)(c), the provisions of any decree respecting maintenance may be modified only as to installments accruing subsequent to the motion for modification and only upon a showing of changed circumstances so substantial and continuing as to make the terms unfair, and, except as otherwise provided in subsection (5) of this section, the provisions of any decree respecting child support may be modified only as to installments accruing subsequent to the filing of the motion for modification and only upon a showing of changed circumstances that are substantial and continuing or on the ground that the order does not contain a provision regarding medical support, such as insurance coverage, payment for medical insurance deductibles and copayments, or unreimbursed medical expenses. THE TRIAL COURT RETAINS CONTINUING JURISDICTION TO MODIFY A DECREE RESPECTING MAINTENANCE OR CHILD SUPPORT PURSUANT TO THIS SECTION DURING THE PENDENCY OF AN APPEAL. THE COURT SHALL NOT REVOKE OR MODIFY the provisions as to property disposition <del>may not be revoked or modified</del> unless the court finds the existence of conditions that justify the reopening of a judgment.
+SECTION 3. In Colorado Revised Statutes, 14-10-129, amend (1)(a)(I) as follows:
+14-10-129. Modification of parenting time. (1) (a) (I) Except as otherwise provided in <del>subparagraph (I) of paragraph (b) of this subsection (1)</del> SUBSECTION (1)(b)(I) OF THIS SECTION, the court may make or modify an order granting or denying parenting time rights whenever such order or modification would serve the best interests of the child. THE TRIAL COURT RETAINS CONTINUING JURISDICTION TO MAKE OR MODIFY AN ORDER GRANTING OR DENYING PARENTING TIME RIGHTS PURSUANT TO THIS SECTION DURING THE PENDENCY OF AN APPEAL.
+SECTION 4. In Colorado Revised Statutes, 14-10-131, amend (2) introductory portion as follows:
+14-10-131. Modification of custody or decision-making responsibility. (2) The court shall not modify a custody decree or a decree allocating decision-making responsibility unless it finds, upon the basis of facts that have arisen since the prior decree or that were unknown to the court at the time of the prior decree, that a change has occurred in the circumstances of the child or the child&#x27;s custodian or party to whom decision-making responsibility was allocated and that the modification is necessary to serve the best interests of the child. THE TRIAL COURT RETAINS JURISDICTION TO MODIFY AN ORDER ALLOCATING DECISION-MAKING RESPONSIBILITY PURSUANT TO THIS SECTION DURING THE PENDENCY OF AN APPEAL. In applying these standards, the court shall retain the allocation of decision-making responsibility established by the prior decree unless:
+SECTION 5. In Colorado Revised Statutes, 14-13-204, amend (1) as follows:
+14-13-204. Temporary emergency jurisdiction. (1) A court of this state has temporary emergency jurisdiction if the child is present in this state and the child has been abandoned or it is necessary in an emergency to protect the child because the child, or a sibling or parent of the child, is subjected to or threatened with mistreatment or abuse. A COURT OF THIS STATE MAY EXERCISE TEMPORARY EMERGENCY JURISDICTION DURING THE PENDENCY OF AN APPEAL OF A CHILD-CUSTODY DETERMINATION.
+SECTION 6. In Colorado Revised Statutes, 14-13.5-105, amend (1) as follows:
+14-13.5-105. Jurisdiction. (1) A petition under this <del>article</del> ARTICLE 13.5 may be filed only in a court that has jurisdiction to make a child-custody determination with respect to the child at issue under the &quot;Uniform Child-custody Jurisdiction and Enforcement Act&quot;, article 13 of this <del>title</del> TITLE 14. A COURT WITH JURISDICTION TO MODIFY AN ORDER CONCERNING THE ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES PURSUANT TO THIS ARTICLE 13.5 MAY EXERCISE JURISDICTION DURING THE PENDENCY OF AN APPEAL BROUGHT WITH RESPECT TO AN ORDER ALLOCATING PARENTAL RIGHTS AND RESPONSIBILITIES.
+SECTION 7. In Colorado Revised Statutes, 19-4-119, add (3) as follows:
+19-4-119. Modification of judgment or order. (3) THE TRIAL COURT RETAINS JURISDICTION TO MODIFY AN ORDER CONCERNING CHILD SUPPORT OR CONCERNING THE ALLOCATION OF PARENTAL RIGHTS AND RESPONSIBILITIES BASED ON A CHANGE IN CIRCUMSTANCES DURING THE PENDENCY OF AN APPEAL.
+SECTION 8. Applicability. This act applies to any request to modify an order appealed on, after, or before the effective date of this act.
+SECTION 9. Safety clause. The general assembly hereby finds, determines, and declares that this act is necessary for the immediate preservation of the public peace, health, or safety.
+Approved: May 7, 2021
