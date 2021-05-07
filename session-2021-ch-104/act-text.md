@@ -1,0 +1,21 @@
+CHAPTER 104
+HUMAN SERVICES - SOCIAL SERVICES
+HOUSE BILL 21-1018
+BY REPRESENTATIVE(S) Bernett and Van Beber, Benavidez, Bird, Caraveo, Cutter, Esgar, Exum, Gonzales-Gutierrez, Herod,
+Hooton, Jodeh, Lontine, Luck, McCormick, McLachlan, Michaelson Jenet, Mullica, Ortiz, Pelton, Pico, Ricks, Sandridge, Snyder,
+Titone, Valdez A., Valdez D., Will, Woodrow, Woog, Young, Garnett, Froelich, Gray, Sirota, Van Winkle, Williams;
+also SENATOR(S) Jaquez Lewis, Buckner, Danielson, Ginal, Kolker, Lee, Moreno, Pettersen, Priola, Rankin, Story, Winter,
+Garcia.
+AN ACT
+CONCERNING ALLOWING ADOPTIVE PARENTS WHO ARE PARTIES TO ADOPTION ASSISTANCE
+AGREEMENTS TO PAY FOR MEDICAL SERVICES THAT WOULD OTHERWISE BE REIMBURSABLE UNDER THE MEDICAL ASSISTANCE PROGRAM.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, 26-7-107, amend (3) and (5) as follows:
+26-7-107. Determination of benefits - adoption assistance agreement - review - definitions. (3) (a) Determination of the type and amount of benefits to be provided must take into consideration the circumstances of the adoptive family and the current and anticipated needs of the eligible child or youth being adopted. In no case may the amount of the monthly subsidy payment exceed the foster care maintenance payment that would have been paid if the eligible child or youth had been in foster care at the time of the eligible <del>child</del> CHILD&#x27;S or youth&#x27;s adoption or at the time of renegotiation in the case of adoption assistance adjustment. The amount of payments may be adjusted periodically if either the needs of the eligible child or youth or the circumstances of the family change, but only with the concurrence of the adoptive parents.
+(b) (I) IN ADDRESSING THE NEEDS OF AN ELIGIBLE ADOPTED CHILD OR YOUTH, ADOPTIVE PARENTS MAY KNOWINGLY TAKE ON ADDITIONAL COSTS FOR ITEMS OR SERVICES FOR THE CHILD OR YOUTH BEING ADOPTED, WHICH ITEMS OR SERVICES ARE OTHERWISE COVERED COSTS UNDER THE MEDICAL ASSISTANCE PROGRAM ESTABLISHED IN ARTICLES 4, 5, AND 6 OF TITLE 25.5 AND IDENTIFIED AS BENEFITS IN
+SECTION 26-7-106 (2)(b). THE LIMITATIONS ON RECIPIENT PAYMENTS CONTAINED IN SECTIONS 24-31-808 AND 25.5-4-301 DO NOT APPLY TO SUCH ADDITIONAL COSTS SO LONG AS THE ADOPTIVE PARENTS CONSENT TO BEAR THE COSTS AS PROVIDED IN SUBSECTION (3)(b)(II) OF THIS SECTION, AND SO LONG AS THE PROVISIONS OF THIS SUBSECTION (3)(b) ARE NOT PROHIBITED UNDER FEDERAL LAW.
+(II) THE ADOPTIVE PARENTS MAY ENTER INTO A WRITTEN AGREEMENT WITH A PROVIDER UNDER WHICH THE ADOPTIVE PARENTS AGREE TO PAY FOR ADDITIONAL COSTS ASSOCIATED WITH ITEMS OR SERVICES THAT ARE REIMBURSABLE UNDER THE MEDICAL ASSISTANCE PROGRAM BUT, IN THE JUDGMENT OF THE ADOPTIVE PARENTS, MAY BE REQUIRED FROM A PROVIDER THAT IS NOT ENROLLED IN THE MEDICAL ASSISTANCE PROGRAM. UNDER THESE CIRCUMSTANCES, THE ADOPTIVE PARENTS ARE LIABLE FOR THE COSTS OF SUCH ITEMS OR SERVICES AND SHALL NOT SEEK REIMBURSEMENT UNDER THE ADOPTION ASSISTANCE PROGRAM OR THE MEDICAL ASSISTANCE PROGRAM FOR THE COST OF SUCH ITEMS OR SERVICES AFTER THE ITEMS OR SERVICES HAVE BEEN PROVIDED AND PAID FOR PURSUANT TO A WRITTEN AGREEMENT DESCRIBED IN THIS SUBSECTION (3)(b)(II). FURTHER, THE COUNTY DEPARTMENT IS NOT REQUIRED TO COVER THE COST OF SUCH ITEMS OR SERVICES AS PART OF THE CIRCUMSTANCES OF THE FAMILY OR THE ANTICIPATED NEEDS OF THE ELIGIBLE CHILD OR YOUTH DURING SUBSIDY NEGOTIATIONS PURSUANT TO THIS SECTION. NOTHING IN THIS SECTION PRECLUDES CONSIDERATION OF ANY OTHER FAMILY CIRCUMSTANCES OR ANTICIPATED NEEDS FOR PURPOSES OF NEGOTIATING ADOPTION ASSISTANCE.
+(III) THE DEPARTMENT OF HEALTH CARE POLICY AND FINANCING SHALL SEEK ANY FEDERAL AUTHORIZATION NECESSARY UNDER THE MEDICAL ASSISTANCE PROGRAM, ESTABLISHED IN ARTICLES 4, 5, AND 6 OF TITLE 25.5, FOR PURPOSES OF THIS SUBSECTION (3)(b).
+(5) An agreement entered into pursuant to SUBSECTION (1) OF this section must be reviewed at least every three years. The county departments shall provide written notice of the upcoming review to the adoptive family.
+SECTION 2. Safety clause. The general assembly hereby finds, determines, and declares that this act is necessary for the immediate preservation of the public peace, health, or safety.
+Approved: May 7, 2021
