@@ -1,0 +1,26 @@
+CHAPTER 237
+WATER AND IRRIGATION
+SENATE BILL 21-240
+BY SENATOR(S) Danielson and Simpson, Bridges, Cooke, Coram, Donovan, Hisey, Jaquez Lewis, Kirkmeyer, Kolker, Moreno,
+Pettersen, Priola, Rankin, Scott, Sonnenberg, Woodward, Zenzinger, Garcia;
+also REPRESENTATIVE(S) Kipp and Catlin, Amabile, Bernett, Bird, Boesenecker, Cutter, Duran, Esgar, Exum,
+Gonzales-Gutierrez, Herod, Hooton, Jackson, Lontine, Lynch, McCluskie, McCormick, McLachlan, Michaelson Jenet, Mullica,
+Ricks, Roberts, Sirota, Snyder, Soper, Titone, Valdez D., Van Beber, Will, Woodrow, Young, Garnett.
+AN ACT
+CONCERNING THE TRANSFER OF MONEY FROM THE GENERAL FUND TO THE COLORADO WATER
+CONSERVATION BOARD CONSTRUCTION FUND FOR WATERSHED PROTECTION PROGRAMS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, 37-60-121, amend as added by Senate Bill 21-054 (11) as follows:
+37-60-121. Colorado water conservation board construction fund - creation - nature of fund - funds for investigations - contributions - use for augmenting the general fund - funds created - repeal. (11) (a) On the effective date of this subsection (11), the state treasurer shall transfer four million dollars from the general fund to the Colorado water conservation board construction fund.
+(b) (I) WITHIN THREE DAYS AFTER THE EFFECTIVE DATE OF THIS SUBSECTION (11)(b), THE STATE TREASURER SHALL TRANSFER THIRTY MILLION DOLLARS FROM THE GENERAL FUND TO THE COLORADO WATER CONSERVATION BOARD CONSTRUCTION FUND.
+(II) (A) EXCEPT AS SPECIFIED IN SUBSECTIONS (11)(b)(III) AND (11)(b)(IV) OF THIS SECTION, THE BOARD SHALL USE THE MONEY TRANSFERRED PURSUANT TO THIS SUBSECTION (11)(b) IN CONNECTION WITH THE WATERSHED RESTORATION PROGRAM FOR WATERSHED RESTORATION AND FLOOD MITIGATION GRANTS TO RESTORE, MITIGATE, AND PROTECT STREAM CHANNELS AND RIPARIAN AREAS SUSCEPTIBLE TO FLOOD HAZARDS AND SEDIMENT EROSION AND DEPOSITION AFTER WILDFIRE,
+INCLUDING EXPENDITURES FOR THE REPAIR, REPLACEMENT, MODIFICATION, MAINTENANCE, OR INSTALLATION OF RELATED WATER AND DEBRIS-CONTROL STRUCTURES, WITH SPECIAL CONSIDERATION OF PROJECTS WITH FEDERAL AND LOCAL MATCHING REQUIREMENTS.
+(B) THE BOARD SHALL AWARD AT LEAST TEN MILLION DOLLARS OF THE MONEY TRANSFERRED PURSUANT TO THIS SUBSECTION (11)(b) BY JULY 1, 2022, AND SHALL AWARD THE REMAINING MONEY BY DECEMBER 31, 2022.
+(III) THE BOARD SHALL EXPEND UP TO FIVE HUNDRED THOUSAND DOLLARS BY DECEMBER 31, 2022, FOR A STATEWIDE WATERSHED ANALYSIS TO INVESTIGATE THE SUSCEPTIBILITY OF LIFE, SAFETY, INFRASTRUCTURE, AND WATER SUPPLIES TO WILDFIRE IMPACTS.
+(IV) THE BOARD MAY USE UP TO FIVE PERCENT OF THE MONEY TO ADMINISTER THE GRANT PROGRAM AS SPECIFIED IN SUBSECTION (11)(b)(II) OF THIS SECTION AND MAY USE UP TO TEN PERCENT FOR THE COSTS ASSOCIATED WITH PROVIDING NECESSARY TECHNICAL ENGINEERING SERVICES TO ASSIST GRANTEES WITH DESIGN REVIEW, ENGINEERING ANALYSIS, FIRE AND FLOOD SUPPORT, CONSTRUCTION OVERSIGHT, FLUVIAL HAZARD ZONE PROGRAM IMPLEMENTATION, PROJECT MONITORING AND ADAPTIVE MANAGEMENT, AND OVERALL PROGRAM MANAGEMENT.
+(c) THE DEPARTMENT OF NATURAL RESOURCES SHALL INCLUDE UPDATES REGARDING THE BOARD&#x27;S ACTIVITIES UNDERTAKEN PURSUANT TO SUBSECTION (11)(b) OF THIS SECTION IN ITS DEPARTMENTAL PRESENTATION TO LEGISLATIVE COMMITTEES OF REFERENCE PURSUANT TO SECTION 2-7-203.
+(d) THIS SUBSECTION (11) IS REPEALED, EFFECTIVE SEPTEMBER 1, 2026.
+SECTION 2. Appropriation. (1) For the 2020-21 state fiscal year, $30,000,000 is appropriated to the department of natural resources for use by the Colorado water conservation board. This appropriation is from the Colorado water conservation board construction fund created in section 37-60-121, C.R.S. The Colorado water conservation board may use this appropriation for the purposes specified in section 37-60-121 (11)(b), C.R.S.
+(2) The money appropriated in subsection (1) of this section remains available for the designated purposes until it is fully expended.
+SECTION 3. Safety clause. The general assembly hereby finds, determines, and declares that this act is necessary for the immediate preservation of the public peace, health, or safety.
+Approved: June 15, 2021
