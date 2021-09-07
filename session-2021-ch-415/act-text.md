@@ -1,0 +1,24 @@
+CHAPTER 415
+PROPERTY
+HOUSE BILL 21-1310
+BY REPRESENTATIVE(S) Cutter, Bernett, Bird, Duran, Herod, Hooton, Lontine, Michaelson Jenet, Mullica, Titone, Valdez A.,
+Woodrow;
+also SENATOR(S) Rodriguez, Coram, Jaquez Lewis, Lee, Moreno, Sonnenberg.
+AN ACT
+CONCERNING ADDITIONAL PROTECTIONS FOR HOMEOWNERS&#x27; FREEDOM OF EXPRESSION IN
+COMMON INTEREST COMMUNITIES UNDER THE &quot;COLORADO COMMON INTEREST OWNERSHIP ACT&quot;.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, 38-33.3-106.5, amend (1)(a) and (1)(c); and repeal (1)(b) as follows:
+38-33.3-106.5. Prohibitions contrary to public policy - free expression - emergency vehicles - fire prevention - renewable energy generation devices - affordable housing - drought prevention measures - child care - definition. (1) Notwithstanding any provision in the declaration, bylaws, or rules and regulations of the association to the contrary, an association shall not prohibit any of the following:
+(a) The display of <del>the American</del> A flag on a unit owner&#x27;s property, in a window of the unit, or on a balcony adjoining the unit. <del>if the American flag is displayed in</del> <del>a manner consistent with the federal flag code, Pub.L. 94-344; 90 Stat. 810; 4</del> <del>U.S.C. secs. 4 to 10</del> THE ASSOCIATION SHALL NOT PROHIBIT OR REGULATE THE DISPLAY OF FLAGS ON THE BASIS OF THEIR SUBJECT MATTER, MESSAGE, OR CONTENT; EXCEPT THAT THE ASSOCIATION MAY PROHIBIT FLAGS BEARING COMMERCIAL MESSAGES. The association may adopt reasonable, CONTENT-NEUTRAL rules <del>regarding the placement and manner of display of the American flag. The</del> <del>association rules may</del> TO regulate the NUMBER, location, and size of flags and flagpoles, but shall not prohibit the installation of a flag or flagpole.
+(b) <del>The display of a service flag bearing a star denoting the service of the owner</del>
+<del>or occupant of the unit, or of a member of the owner&#x27;s or occupant&#x27;s immediate</del> <del>family, in the active or reserve military service of the United States during a time of</del> <del>war or armed conflict, on the inside of a window or door of the unit. The association</del> <del>may adopt reasonable rules regarding the size and manner of display of service</del> <del>flags; except that the maximum dimensions allowed shall be not less than nine</del> <del>inches by sixteen inches.</del>
+(c) <del>(I)</del> The display of a <del>political</del> sign by the owner or occupant of a unit on property within the boundaries of the unit or in a window of the unit. <del>except that:</del> THE ASSOCIATION SHALL NOT PROHIBIT OR REGULATE THE DISPLAY OF WINDOW SIGNS OR YARD SIGNS ON THE BASIS OF THEIR SUBJECT MATTER, MESSAGE, OR CONTENT; EXCEPT THAT THE ASSOCIATION MAY PROHIBIT SIGNS BEARING COMMERCIAL MESSAGES. THE ASSOCIATION MAY ESTABLISH REASONABLE, CONTENT-NEUTRAL SIGN REGULATIONS BASED ON THE NUMBER, PLACEMENT, OR SIZE OF THE SIGNS OR ON OTHER OBJECTIVE FACTORS.
+<del>(A) An association may prohibit the display of political signs earlier than</del> <del>forty-five days before the day of an election and later than seven days after an</del> <del>election day; and</del>
+<del>(B) An association may regulate the size and number of political signs in</del> <del>accordance with subparagraph (II) of this paragraph (c).</del>
+<del>(II) The association shall permit at least one political sign per political office or</del> <del>ballot issue that is contested in a pending election. The maximum dimensions of</del> <del>each sign may be limited to the lesser of the following:</del>
+<del>(A) The maximum size allowed by any applicable city, town, or county ordinance</del> <del>that regulates the size of political signs on residential property; or</del>
+<del>(B) Thirty-six inches by forty-eight inches.</del>
+<del>(III) As used in this paragraph (c), &quot;political sign&quot; means a sign that carries a</del> <del>message intended to influence the outcome of an election, including supporting or</del> <del>opposing the election of a candidate, the recall of a public official, or the passage</del> <del>of a ballot issue.</del>
+SECTION 2. Act subject to petition - effective date. This act takes effect at 12:01 a.m. on the day following the expiration of the ninety-day period after final adjournment of the general assembly; except that, if a referendum petition is filed pursuant to section 1 (3) of article V of the state constitution against this act or an item, section, or part of this act within such period, then the act, item, section, or part will not take effect unless approved by the people at the general election to be held in November 2022 and, in such case, will take effect on the date of the official declaration of the vote thereon by the governor.
+Approved: July 2, 2021
