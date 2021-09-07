@@ -1,0 +1,16 @@
+CHAPTER 155
+EDUCATION - POSTSECONDARY
+SENATE BILL 21-008
+BY SENATOR(S) Simpson, Bridges, Buckner, Cooke, Coram, Gonzales, Holbert, Jaquez Lewis, Sonnenberg, Story;
+also REPRESENTATIVE(S) Valdez D. and Holtorf, Bacon, Hooton, McCluskie, Michaelson Jenet, Ricks.
+AN ACT
+CONCERNING REMOVING THE WORD &quot;JUNIOR&quot; FROM THE NAME OF CERTAIN COLLEGES.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, amend 23-60-205 as follows:
+23-60-205. Community and technical colleges. The state system of community and technical colleges <del>shall include</del> INCLUDES: Arapahoe community college, Colorado Northwestern community college, the community college of Aurora, the community college of Denver, Front Range community college, Lamar community college, Morgan community college, northeastern junior college, Otero <del>junior</del> college, Pikes Peak community college, Pueblo community college, Red Rocks community college, Trinidad state <del>junior</del> college, and Colorado community college and occupational education system college. <del>The state system of community and</del> <del>technical colleges shall be governed by</del> The state board for community colleges and occupational education GOVERNS THE STATE SYSTEM OF COMMUNITY AND TECHNICAL COLLEGES.
+SECTION 2. In Colorado Revised Statutes, 44-30-702, amend (4) introductory portion and (4)(a) as follows:
+44-30-702. Revenues attributable to local revisions to gaming limits - extended limited gaming fund - identification - separate administration - distribution - definitions - legislative declaration. (4) Definitions. As used in this section, UNLESS THE CONTEXT OTHERWISE REQUIRES:
+(a) &quot;Colleges that were operating on and after January 1, 2008&quot; means: Aims community college, Arapahoe community college, Colorado mountain college,
+Colorado Northwestern community college, the community college of Aurora, the community college of Denver, Front Range community college, Lamar community college, Morgan community college, Northeastern junior college, Otero <del>junior</del> college, Pikes Peak community college, Pueblo community college, Red Rocks community college, Trinidad state <del>junior</del> college, the two-year role and mission of Colorado Mesa university, currently referred to as Western Colorado community college division of Colorado Mesa university, the two-year academic role and mission of Adams state university, and the state board for community colleges and occupational education, for so long as each such college or board continues operating.
+SECTION 3. Act subject to petition - effective date. This act takes effect at 12:01 a.m. on the day following the expiration of the ninety-day period after final adjournment of the general assembly; except that, if a referendum petition is filed pursuant to section 1 (3) of article V of the state constitution against this act or an item, section, or part of this act within such period, then the act, item, section, or part will not take effect unless approved by the people at the general election to be held in November 2022 and, in such case, will take effect on the date of the official declaration of the vote thereon by the governor.
+Approved: May 18, 2021
