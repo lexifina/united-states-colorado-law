@@ -1,0 +1,32 @@
+CHAPTER 121
+GOVERNMENT - STATE
+HOUSE BILL 21-1009
+BY REPRESENTATIVE(S) Bernett, Woodrow, Arndt, Caraveo, Duran, Froelich, Gonzales-Gutierrez, Hooton, Jackson,
+McCluskie, McCormick, McLachlan, Michaelson Jenet, Sirota, Tipper, Titone, Weissman;
+also SENATOR(S) Bridges and Coram, Buckner, Danielson, Fenberg, Fields, Ginal, Gonzales, Hansen, Jaquez Lewis, Kolker, Lee,
+Moreno, Pettersen, Priola, Rodriguez, Story, Winter, Garcia.
+AN ACT
+CONCERNING AN UPDATE TO STATUTORY PROVISIONS GOVERNING THE FUNCTIONS OF THE DIVISION
+OF HOUSING IN THE DEPARTMENT OF LOCAL AFFAIRS TO FACILITATE HOUSING THAT PROMOTES STATE GOALS FOR LOCAL DEVELOPMENT, AND, IN CONNECTION THEREWITH, ENABLING THE DIVISION OF HOUSING TO LEVERAGE STATE HOUSING FUNDING TO PROMOTE THE STATE&#x27;S AFFORDABLE HOUSING AND ENERGY PERFORMANCE OBJECTIVES.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, 24-32-705, amend (1)(a); repeal (1)(e)(III), (1)(l), and (1)(m); and add (1)(e)(IV), (1)(e)(V), (1)(v), (5), and (6) as follows:
+24-32-705. Functions of division. (1) The division has the following functions:
+(a) To encourage private enterprise and all public and private agencies engaged in the planning, construction, and acquisition of adequate housing or the rehabilitation or weatherization of existing housing in Colorado by providing research, advisory, and liaison services and rehabilitation, construction, acquisition, and weatherization grants and loans from appropriations made for this purpose by the general assembly. For the purposes of this subsection (1)(a), &quot;weatherization&quot; means the provision and installation of materials and devices that improve the thermal performance of a residence so as to conserve energy and reduce energy costs and includes those structural, heating, electrical, and plumbing repairs and improvements <del>which</del> THAT are necessary to safely and effectively improve thermal performance. All such grants and loans to public and private agencies must be at least equally matched from a nonstate source unless sufficient local sources are not available because of other essential public functions and must be for providing
+energy-efficient housing to <del>low-income</del> LOW- AND MODERATE-INCOME households. <del>None of</del> These grants or loans shall NOT be used for <del>development, planning, or</del> administration, which must be funded within the administrative budget of the division.
+(e) To conduct continuing research into new approaches to housing throughout the state including, but not limited to, the following:
+(III) <del>Programs for low-income housing throughout the state designed to</del> <del>discourage concentration in urban centers and particularly in urban center ghettos;</del>
+(IV) TRANSIT-ORIENTED DEVELOPMENT THAT INCLUDES INCREASED HOUSING DENSITY NEAR EMPLOYMENT, EDUCATION, AND TOWN CENTERS; AND
+(V) ADVANCED ENERGY PERFORMANCE STANDARDS THAT MINIMIZE THE TOTAL BUILDING OPERATIONAL COSTS DURING THE AFFORDABILITY PERIOD AS DETERMINED BY THE DIVISION;
+(l) <del>To provide in graphic illustrations and charts the information needed by a</del> <del>person who applies for or obtains a homeowner&#x27;s permit to build his own home to</del> <del>correlate the R-values to the U-values of the more energy conserving performance</del> <del>standards as found in section 6-7-105 (2), C.R.S. This information shall be</del> <del>distributed to local building departments and building material supply outlets in the</del> <del>state and shall be given to builders and unlicensed persons who apply for or obtain</del> <del>homeowners&#x27; permits to build their own homes.</del>
+(m) <del>To provide technical assistance to building officials, who shall instruct</del> <del>persons who apply for or obtain homeowners&#x27; permits to build their own homes on</del> <del>the use of the information provided in paragraph (l) of this subsection (1);</del>
+(v) TO COLLABORATE WITH OTHER STATE AGENCIES TO DEVELOP INCENTIVES THAT SUPPORT:
+(I) LOCAL DEVELOPMENT NEAR TRANSIT CORRIDORS;
+(II) INCREASED HOUSING DENSITY DEVELOPMENT WITHIN EMPLOYMENT, EDUCATION, AND TOWN CENTERS; AND
+(III) ENERGY PERFORMANCE STANDARDS THAT MINIMIZE TOTAL BUILDING COSTS DURING THE AFFORDABILITY PERIOD, AS DETERMINED BY THE DIVISION.
+(5) THE DIVISION SHALL COLLABORATE WITH OTHER STATE AGENCIES IN CONNECTION WITH THE DISPOSITION OF STATE-OWNED ASSETS TO BE USED FOR LOW- AND MODERATE-INCOME HOUSING.
+(6) (a) THE DIVISION SHALL MAINTAIN THE CONFIDENTIALITY OF ALL NAMES, ADDRESSES, AND PERSONAL IDENTIFYING INFORMATION OF APPLICANTS, RECIPIENTS, AND FORMER RECIPIENTS OF HOUSING ASSISTANCE, WHICH FORMS OF HOUSING ASSISTANCE INCLUDE WITHOUT LIMITATION HOUSING VOUCHERS, EMERGENCY HOUSING ASSISTANCE, AND HOMELESS SERVICES.
+(b) NOTWITHSTANDING ANY PROVISION OF THIS SUBSECTION (6), THE DIVISION MAY PUBLISH OR PROVIDE AGGREGATE OR DE-IDENTIFIED DATA CONCERNING APPLICANTS, RECIPIENTS, AND FORMER RECIPIENTS OF HOUSING ASSISTANCE TO THIRD PARTIES AND OTHER GOVERNMENTAL ENTITIES, AND MAY ENTER INTO DATA-SHARING AGREEMENTS AUTHORIZING THE TRANSFER OF NAMES, ADDRESSES, AND PERSONAL IDENTIFYING INFORMATION OF APPLICANTS, RECIPIENTS, AND FORMER RECIPIENTS OF SUCH HOUSING ASSISTANCE.
+(c) ANY THIRD PARTY OR GOVERNMENTAL ENTITY THAT RECEIVES NAMES, ADDRESSES, AND PERSONAL IDENTIFYING INFORMATION OF APPLICANTS, RECIPIENTS, AND FORMER RECIPIENTS OF HOUSING ASSISTANCE IN ACCORDANCE WITH THIS SUBSECTION (6) FROM THE DIVISION PURSUANT TO A DATA-SHARING AGREEMENT SHALL MAINTAIN THE CONFIDENTIALITY OF ALL NAMES, ADDRESSES, AND PERSONAL IDENTIFYING INFORMATION OBTAINED FROM SUCH AGREEMENTS.
+(d) AS USED IN THIS SUBSECTION (6), &quot;GOVERNMENTAL ENTITY&quot; AND &quot;PERSONAL IDENTIFYING INFORMATION&quot; HAVE THE SAME MEANINGS AS SPECIFIED IN SECTION 24-73-101 (4).
+SECTION 2. Act subject to petition - effective date. This act takes effect at 12:01 a.m. on the day following the expiration of the ninety-day period after final adjournment of the general assembly; except that, if a referendum petition is filed pursuant to section 1 (3) of article V of the state constitution against this act or an item, section, or part of this act within such period, then the act, item, section, or part will not take effect unless approved by the people at the general election to be held in November 2022 and, in such case, will take effect on the date of the official declaration of the vote thereon by the governor.
+Approved: May 10, 2021
