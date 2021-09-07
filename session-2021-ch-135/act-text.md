@@ -1,0 +1,20 @@
+CHAPTER 135
+GENERAL ASSEMBLY
+SENATE BILL 21-198
+BY SENATOR(S) Smallwood and Rodriguez;
+also REPRESENTATIVE(S) Roberts and Bockenfeld, Michaelson Jenet, Duran, Exum, McCluskie, Ricks, Snyder, Young.
+AN ACT
+CONCERNING THE REPEAL OF A REQUIREMENT THAT THE STATE AUDITOR ANNUALLY REPORT USES
+OF STATE EDUCATION FUND MONEY FOR SCHOOL CAPITAL CONSTRUCTION TO CERTAIN COMMITTEES OF THE GENERAL ASSEMBLY.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. In Colorado Revised Statutes, 2-3-115, repeal (2) as follows:
+2-3-115. Use of state education fund money for school capital construction - audits - reports. (2) <del>No later than February 1 of each school district budget year</del> <del>commencing on or after July 1, 2002, the state auditor shall report to the education</del> <del>committees of the senate and the house of representatives, the legislative audit</del> <del>committee, and the joint budget committee of the general assembly:</del>
+<del>(a) The total amount of state education fund moneys that districts throughout the</del> <del>state expended for capital construction and the amount of state education fund</del> <del>moneys that each district expended for capital construction during the prior budget</del> <del>year;</del>
+<del>(b) The total amount of state education fund moneys that qualified charter schools</del> <del>throughout the state expended for capital construction and the amount of state</del> <del>education fund moneys that each qualified charter school throughout the state</del> <del>expended for capital construction during the prior budget year;</del>
+<del>(c) For budget years 2000-01 through 2006-07, the total amount of state</del> <del>education fund moneys received indirectly from the school capital construction</del> <del>expenditures reserve, as said reserve existed prior to July 1, 2008, and for the budget</del> <del>year 2007-08, the total amount of state education fund moneys received indirectly</del> <del>from the school capital construction expenditures reserve fund, as said fund existed</del>
+<del>prior to July 1, 2008, by districts throughout the state and by each district that were</del> <del>expended for capital construction during the prior budget year;</del>
+<del>(d) The schools and projects on which state education fund moneys were</del> <del>expended;</del>
+<del>(e) For budget years 2000-01 through 2006-07, the balances of all moneys and</del> <del>all state education fund moneys in the school capital construction expenditures</del> <del>reserve, as said reserve existed prior to July 1, 2008, as of the immediately</del> <del>preceding January 1, and for the budget year 2007-08, the balances of all moneys</del> <del>and all state education fund moneys in the school capital construction expenditures</del> <del>reserve fund, as said fund existed prior to July 1, 2008, as of the immediately</del> <del>preceding January 1; and</del>
+<del>(f) The total pupil enrollment of all school districts in the state in which state</del> <del>education fund moneys were expended for capital construction during the prior</del> <del>budget year, the pupil enrollment of each school district in which state education</del> <del>fund moneys were expended for capital construction during the prior budget year,</del> <del>and the pupil enrollment of each school in the state on which state education fund</del> <del>moneys were expended for capital construction during the prior budget year.</del>
+SECTION 2. Act subject to petition - effective date. This act takes effect at 12:01 a.m. on the day following the expiration of the ninety-day period after final adjournment of the general assembly; except that, if a referendum petition is filed pursuant to section 1 (3) of article V of the state constitution against this act or an item, section, or part of this act within such period, then the act, item, section, or part will not take effect unless approved by the people at the general election to be held in November 2022 and, in such case, will take effect on the date of the official declaration of the vote thereon by the governor.
+Approved: May 13, 2021
