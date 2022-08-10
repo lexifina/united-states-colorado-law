@@ -1,0 +1,2 @@
+# Section 28. Rights reserved not disparaged.
+The enumeration in this constitution of certain rights shall not be construed to deny, impair or disparage others retained by the people.

@@ -1,0 +1,2 @@
+# Section 15. State minimum wage rate.
+Effective January 1, 2017, Colorado's minimum wage is increased to $9.30 per hour and is increased annually by $0.90 each January 1 until it reaches $12 per hour effective January 2020, and thereafter is adjusted annually for cost of living increases, as measured by the Consumer Price Index used for Colorado. This minimum wage shall be paid to employees who receive the state or federal minimum wage. No more than $3.02 per hour in tip income may be used to offset the minimum wage of employees who regularly receive tips.

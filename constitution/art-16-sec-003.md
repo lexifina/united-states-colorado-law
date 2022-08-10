@@ -1,0 +1,2 @@
+# Section 3. Drainage.
+The general assembly may make such regulations from time to time, as may be necessary for the proper and equitable drainage of mines.
