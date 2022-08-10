@@ -1,0 +1,2 @@
+# Section 9. Terms probate court, probate judge, apply to county court, county judge.
+The terms "Probate Court" or "Probate Judge", whenever occurring in the statutes of Colorado territory, shall, after the adoption of this constitution, be held to apply to the county court or county judge, and all laws specially applicable to the probate court in any county, shall be construed to apply to and be in force as to the county court in the same county, until repealed.

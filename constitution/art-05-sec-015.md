@@ -1,0 +1,2 @@
+# Section 15. Adjournment for more than three days.
+Neither house shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which the two houses shall be sitting.

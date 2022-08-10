@@ -1,0 +1,2 @@
+# Section 14. Open sessions.
+The sessions of each house, and of the committees of the whole, shall be open, unless when the business is such as ought to be kept secret.

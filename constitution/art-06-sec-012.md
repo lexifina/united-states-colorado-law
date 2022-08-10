@@ -1,0 +1,2 @@
+# Section 12. Terms of court.
+The time of holding courts within the judicial districts shall be as provided by rule of court, but at least one term of the district court shall be held annually in each county.
