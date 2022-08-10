@@ -1,0 +1,2 @@
+# Section 10. Refusal to qualify - vacancy.
+If any person elected or appointed to any office shall refuse or neglect to qualify therein within the time prescribed by law, such office shall be deemed vacant.

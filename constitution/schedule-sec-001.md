@@ -1,0 +1,2 @@
+# Section 1. All laws remain till repealed.
+That all laws in force at the adoption of this constitution shall, so far as not inconsistent therewith, remain of the same force as if this constitution had not been adopted, until they expire by their own limitation or are altered or repealed by the general assembly; and all rights, actions, prosecutions, claims and contracts of the territory of Colorado, counties, individuals or bodies corporate (not inconsistent therewith) shall continue as if the form of government had not been changed and this constitution adopted.

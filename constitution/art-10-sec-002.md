@@ -1,0 +1,2 @@
+# Section 2. Tax provided for state expenses.
+The general assembly shall provide by law for an annual tax sufficient, with other resources, to defray the estimated expenses of the state government for each fiscal year.

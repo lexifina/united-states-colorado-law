@@ -1,0 +1,2 @@
+# Section 11. Purity of elections.
+The general assembly shall pass laws to secure the purity of elections, and guard against abuses of the elective franchise.
