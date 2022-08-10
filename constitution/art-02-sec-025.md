@@ -1,0 +1,2 @@
+# Section 25. Due process of law.
+No person shall be deprived of life, liberty or property, without due process of law.

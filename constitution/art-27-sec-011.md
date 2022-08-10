@@ -1,0 +1,2 @@
+# Section 11. Effective date.
+This article shall become effective upon proclamation by the governor, and shall be self-implementing. This article shall apply to each distribution of net proceeds from the programs operated under the authority of Article XVIII, Section 2 of the Colorado Constitution, whether by the Colorado Lottery Commission or otherwise, made after July 1, 1993 and shall supersede any provision to the contrary in Article XVIII, Section 2 or any other provision of law.

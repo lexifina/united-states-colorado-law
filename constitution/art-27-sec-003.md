@@ -1,0 +1,12 @@
+# Section 3. Moneys allocated to Trust Fund.
+(1) Beginning with the proceeds from the fourth quarter of the State's Fiscal Year 1992-1993, all proceeds from all programs, including Lotto and every other state-supervised lottery game operated under the authority of Article XVIII, Section 2 of the Colorado Constitution, whether by the Colorado Lottery Commission or otherwise (such programs defined hereafter in this Article as "Lottery Programs"), net of prizes and expenses of the state lottery division and after a sufficient amount of money has been reserved, as of the end of any fiscal quarter, to ensure the operation of the lottery for the ensuing fiscal quarter (such netted proceeds defined hereafter in this Article as "Net Proceeds") are set aside, allocated, allotted, and continuously appropriated as follows, and the Treasurer shall distribute such proceeds no less frequently than quarterly, as follows:
+(a) Repealed.
+(b) For each quarter including and after the first quarter of the State's Fiscal Year 1998-1999:
+(I) Forty percent to the Conservation Trust Fund for distribution to municipalities and counties and other eligible entities for parks, recreation and open space purposes;
+(II) Ten percent to the Division of Parks and Outdoor Recreation for the acquisition, development and improvement of new and existing state parks, recreation areas and recreational trails; and
+(III) All remaining Net Proceeds in trust to the Board of the Trust Fund, provided, however, that in any state fiscal year in which the portion of the Net Proceeds which would otherwise be given in trust to the State Board of the Trust Fund exceeds the amount of $35 million, to be adjusted each year for changes from the 1992 Consumer Price Index-Denver, the Net Proceeds in excess of such amount or adjusted amount shall be allocated to the General Fund of the State of Colorado.
+(c) to (e) Repealed.
+(2) From July 1, 1993, the following sums of money and property, in addition to Net Proceeds as set forth in Section 3(1) above, are set aside, allocated, allotted, and continuously appropriated in trust to the Board of the Trust Fund:
+(a) All interest derived from moneys held in the Trust Fund;
+(b) Any property donated specifically to the State of Colorado for the specific purpose of benefitting the Trust Fund, including contributions, grants, gifts, bequests, donations, and federal, state, or local grants; and
+(c) Such other moneys as may be allocated to the Trust Fund by the General Assembly.
