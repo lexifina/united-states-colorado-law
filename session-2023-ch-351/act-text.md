@@ -1,0 +1,36 @@
+CHAPTER 351
+INSURANCE
+SENATE BILL 23-195
+BY SENATOR(S) Winter F. and Will, Buckner, Cutter, Gonzales, Jaquez Lewis, Marchman, Moreno, Priola, Sullivan;
+also REPRESENTATIVE(S) Jodeh and Pugliese, Hartsook, Amabile, Bird, Brown, Dickson, Duran, Marshall, Michaelson Jenet,
+Sirota, Soper, Story, Valdez, Velasco, Vigil.
+AN ACT
+CONCERNING THE CALCULATION OF CONTRIBUTIONS TOWARD AN INSURED&#x27;S REQUIRED COST
+SHARING UNDER A HEALTH BENEFIT PLAN.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) The general assembly finds and declares that:
+(a) Cost-sharing assistance is indispensable in helping many patients with rare, serious, and chronic diseases afford out-of-pocket costs for their essential, often life-saving, medications;
+(b) Patients need cost-sharing assistance because of the high out-of-pocket cost of medications;
+(c) When patients face unexpected charges during the plan year, they are less likely to adhere to their medication regimen;
+(d) Lack of patient adherence to their necessary medication regimen leads to potential negative health consequences for patients, such as unnecessary emergency room visits, doctors&#x27; visits, surgeries, and other interventions;
+(e) Patients are only able to use cost-sharing assistance after they have met requirements for coverage of their medication, which requirements can include that the medication is included on the drug formulary in the patient&#x27;s health benefit plan and compliance with utilization management protocols, such as prior authorization and step therapy;
+(f) Health insurers and pharmacy benefit managers (PBMs) have implemented programs, such as accumulator adjustment programs, that restrict the applicability of cost-sharing assistance toward a deductible or an annual out-of-pocket limit under a patient&#x27;s health benefit plan;
+(g) As a result of an accumulator adjustment program, a patient is required to continue to make out-of-pocket payments, even if the patient would have reached the out-of-pocket limit if amounts received through cost-sharing assistance were counted toward the out-of-pocket limit under the patient&#x27;s health benefit plan;
+(h) By excluding cost-sharing assistance from a patient&#x27;s deductible and annual out-of-pocket limit, an accumulator adjustment program makes the patient responsible for paying the full deductible under the patient&#x27;s plan and for meeting the annual out-of-pocket limit for a second time, thus limiting or eliminating the benefit the patient receives from a cost-sharing assistance program;
+(i) Most patients are not aware of the inclusion of accumulator adjustment programs in their health benefit plans and often learn about these types of programs when they attempt to obtain their medication after their cost-sharing assistance has been exhausted, whether at a pharmacy, an infusion center, or at home through the mail; and
+(j) Accumulator adjustment programs allow health insurers and PBMs to &quot;double dip&quot; by accepting funds from both the cost-sharing assistance program and the patient beyond the original deductible amount and the annual out-of-pocket limit.
+(2) Therefore, the general assembly declares it a matter of public interest to require health insurers and PBMs to count any amount paid by the patient or on behalf of the patient by another person, including through a cost-sharing assistance program, toward the patient&#x27;s annual out-of-pocket limit and any cost-sharing requirement, such as deductibles, under the patient&#x27;s health benefit plan.
+SECTION 2. In Colorado Revised Statutes, add 10-16-161 as follows:
+10-16-161. Calculation of contribution to out-of-pocket and cost-sharing requirements - exception - definitions - rules. (1) (a) WHEN CALCULATING A COVERED PERSON&#x27;S OVERALL CONTRIBUTION TO AN OUT-OF-POCKET MAXIMUM OR COST-SHARING REQUIREMENT UNDER THE COVERED PERSON&#x27;S HEALTH BENEFIT PLAN, A CARRIER OR PBM SHALL INCLUDE ANY AMOUNT PAID BY THE COVERED PERSON OR BY ANOTHER PERSON ON BEHALF OF THE COVERED PERSON FOR A PRESCRIPTION DRUG IF:
+(I) THE PRESCRIPTION DRUG DOES NOT HAVE A GENERIC EQUIVALENT OR, FOR A PRESCRIPTION DRUG THAT IS A BIOLOGICAL PRODUCT, THE PRESCRIPTION DRUG DOES NOT HAVE A BIOSIMILAR DRUG, AS DEFINED IN 42 U.S.C. SEC. 262 (i)(2), OR AN INTERCHANGEABLE BIOLOGICAL PRODUCT, AS DEFINED IN 42 U.S.C. SEC. 262 (i)(3); OR
+(II) THE PRESCRIPTION DRUG HAS A GENERIC EQUIVALENT, A BIOSIMILAR DRUG, OR AN INTERCHANGEABLE BIOLOGICAL PRODUCT, AND THE COVERED PERSON IS USING THE BRAND-NAME PRESCRIPTION DRUG AFTER:
+(A) OBTAINING PRIOR AUTHORIZATION FROM THE CARRIER OR PHARMACY BENEFIT MANAGER;
+(B) COMPLYING WITH A STEP-THERAPY PROTOCOL REQUIRED BY THE CARRIER OR PHARMACY BENEFIT MANAGER; OR
+(C) RECEIVING APPROVAL FROM THE CARRIER OR PHARMACY BENEFIT MANAGER THROUGH THE CARRIER&#x27;S OR PHARMACY BENEFIT MANAGER&#x27;S EXCEPTIONS, APPEAL, OR REVIEW PROCESS.
+(b) A COVERED PERSON IS NOT REQUIRED TO COMPLY WITH THE UTILIZATION MANAGEMENT PROCESSES DESCRIBED IN SUBSECTION (1)(a)(II) OF THIS SECTION, INCLUDING PRIOR AUTHORIZATION AND STEP-THERAPY PROTOCOL REQUIREMENTS, WHEN THOSE PROCESSES ARE PROHIBITED UNDER THIS ARTICLE 16 OR OTHER APPLICABLE STATE LAW.
+(2) IF APPLICATION OF SUBSECTION (1) OF THIS SECTION WOULD MAKE A COVERED PERSON&#x27;S HEALTH SAVINGS ACCOUNT CONTRIBUTIONS INELIGIBLE UNDER SECTION 223 OF THE FEDERAL &quot;INTERNAL REVENUE CODE OF 1986&quot;, 26 U.S.C. SEC. 223, AS AMENDED, SUBSECTION (1) OF THIS SECTION APPLIES TO THE DEDUCTIBLE APPLICABLE TO THE COVERED PERSON&#x27;S HEALTH BENEFIT PLAN AFTER THE COVERED PERSON HAS SATISFIED THE MINIMUM DEDUCTIBLE AMOUNT UNDER 26 U.S.C. SEC. 223; EXCEPT THAT, WITH RESPECT TO ITEMS OR SERVICES THAT ARE PREVENTIVE CARE PURSUANT TO 26 U.S.C. SEC. 223 (c)(2)(C), SUBSECTION (1) OF THIS SECTION APPLIES, REGARDLESS OF WHETHER THE MINIMUM DEDUCTIBLE UNDER 26 U.S.C. SEC. 223 HAS BEEN SATISFIED.
+(3) THE COMMISSIONER MAY ADOPT RULES AS NECESSARY TO IMPLEMENT THIS SECTION.
+(4) AS USED IN THIS SECTION, &quot;COST-SHARING REQUIREMENT&quot; MEANS ANY COPAYMENT, COINSURANCE, DEDUCTIBLE, OR ANNUAL LIMITATION ON COST SHARING, INCLUDING A LIMITATION SUBJECT TO 42 U.S.C. SEC. 18022 (c) OR 42 U.S.C. SEC. 300gg-6 (b), REQUIRED BY OR ON BEHALF OF A COVERED PERSON IN ORDER TO RECEIVE A PRESCRIPTION DRUG COVERED BY THE COVERED PERSON&#x27;S HEALTH BENEFIT PLAN, WHETHER COVERED AS A MEDICAL OR PHARMACY BENEFIT.
+SECTION 3. Act subject to petition - effective date - applicability. (1) This act takes effect at 12:01 a.m. on the day following the expiration of the ninety-day period after final adjournment of the general assembly; except that, if a referendum petition is filed pursuant to section 1 (3) of article V of the state constitution against this act or an item, section, or part of this act within such period, then the act, item, section, or part will not take effect unless approved by the people at the general election to be held in November 2024 and, in such case, will take effect on the date of the official declaration of the vote thereon by the governor.
+(2) This act applies to health benefit plans issued or renewed on or after January 1, 2025.
+Approved: June 5, 2023
