@@ -1,0 +1,23 @@
+CHAPTER 273
+EDUCATION - PUBLIC SCHOOLS
+HOUSE BILL 23-1263
+BY REPRESENTATIVE(S) Garcia and Young, Amabile, Bacon, Bird, Bockenfeld, Boesenecker, Brown, deGruy Kennedy,
+Dickson, Duran, Epps, Gonzales-Gutierrez, Jodeh, Joseph, Kipp, Lindsay, Lindstedt, Mabrey, Marshall, Martinez, McLachlan,
+Michaelson Jenet, Ortiz, Parenti, Sharbini, Sirota, Story, Titone, Velasco, Weissman, Willford, Woodrow, Bradley, English,
+Froelich, Hamrick, Herod, Lieder, Lukens, Ricks, Valdez, Weinberg, McCluskie, McCormick, Snyder, Vigil;
+also SENATOR(S) Zenzinger and Gonzales, Buckner, Danielson, Hinrichsen, Jaquez Lewis, Kirkmeyer, Moreno, Winter F.,
+Bridges, Cutter, Exum, Ginal, Hansen, Kolker, Marchman, Mullica, Priola, Roberts, Rodriguez, Sullivan, Fenberg.
+AN ACT
+CONCERNING TRANSLATING INDIVIDUALIZED EDUCATION PROGRAMS FOR CHILDREN WHO MAY BE
+ELIGIBLE FOR SPECIAL EDUCATION SERVICES.
+Be it enacted by the General Assembly of the State of Colorado:
+SECTION 1. Legislative declaration. (1) The general assembly finds and declares that:
+(a) The federal &quot;Individuals with Disabilities Education Act&quot;, 20 U.S.C. sec. 1400 et seq., as amended, states that parents, guardians, or legal custodians shall be a meaningful part of the individualized education program (IEP) development team;
+(b) Meaningful engagement includes the participation of parents, guardians, or legal custodians, which is possible only if parents or guardians understand the proposed IEP;
+(c) School districts currently cover costs necessary to meaningfully engage families, which does not include financial support from the federal government; and
+(d) By adding translation services to the &quot;Exceptional Children&#x27;s Educational Act&quot; pursuant to article 20 of title 22, Colorado Revised Statutes, school districts can access resources from the state to support the translation of IEPs, including draft documents, into the dominant language spoken in the home of the parents, guardians, or legal custodians receiving the IEP.
+(2) The general assembly finds, therefore, that children who require an IEP deserve the best chance at success, which includes engaging parents, guardians, or legal custodians by translating IEPs into the dominant language spoken in the home of the parents, guardians, or legal custodians. It also includes engagement between parents, guardians, or legal custodians and critical school district partners.
+SECTION 2. In Colorado Revised Statutes, 22-20-108, add (4.8) as follows:
+22-20-108. Determination of disability - enrollment. (4.8) IN DEVELOPING AN IEP PURSUANT TO SUBSECTION (4) OF THIS SECTION FOR A CHILD WHO IS AN ENGLISH LANGUAGE LEARNER, IN ADDITION TO ANY OTHER REQUIREMENTS ESTABLISHED BY THE STATE BOARD, THE IEP SHALL CONSIDER THE RELATED SERVICES AND PROGRAM OPTIONS THAT PROVIDE THE CHILD WITH AN APPROPRIATE AND EQUAL OPPORTUNITY FOR COMMUNICATION ACCESS. COMMUNICATION ACCESS MUST INCLUDE ACCESS TO EFFECTIVE COMMUNICATION PURSUANT TO TITLE II OF THE FEDERAL &quot;AMERICANS WITH DISABILITIES ACT OF 1990&quot;, 42 U.S.C. SEC. 12131 ET SEQ., AS AMENDED. THE IEP TEAM SHALL CONSIDER THE CHILD&#x27;S SPECIFIC COMMUNICATION NEEDS AND, TO THE EXTENT POSSIBLE, ADDRESS THOSE NEEDS AS APPROPRIATE IN THE CHILD&#x27;S IEP. IN CONSIDERING THE CHILD&#x27;S NEEDS, THE IEP TEAM MAY TRANSLATE OR CONTRACT WITH A TRANSLATION SERVICE PROVIDER TO TRANSLATE ANY IEP DRAFT DOCUMENTS INTO THE DOMINANT LANGUAGE SPOKEN IN THE HOME OF THE CHILD&#x27;S PARENT, GUARDIAN, OR LEGAL CUSTODIAN. UPON REQUEST OF THE CHILD&#x27;S PARENT, GUARDIAN, OR LEGAL CUSTODIAN, THE IEP TEAM SHALL TRANSLATE OR CONTRACT WITH A TRANSLATION SERVICE PROVIDER TO TRANSLATE THE FINAL IEP DOCUMENT INTO A WRITTEN TRANSLATION OR AN ORAL RECORDING IN THE DOMINANT LANGUAGE SPOKEN IN THE HOME OF THE CHILD&#x27;S PARENT, GUARDIAN, OR LEGAL CUSTODIAN. THE IEP TEAM SHALL VERBALLY INFORM THE CHILD&#x27;S PARENT, GUARDIAN, OR LEGAL CUSTODIAN OF THE RIGHT TO REQUEST TRANSLATION SERVICES.
+SECTION 3. Act subject to petition - effective date. This act takes effect at 12:01 a.m. on the day following the expiration of the ninety-day period after final adjournment of the general assembly; except that, if a referendum petition is filed pursuant to section 1 (3) of article V of the state constitution against this act or an item, section, or part of this act within such period, then the act, item, section, or part will not take effect unless approved by the people at the general election to be held in November 2024 and, in such case, will take effect on the date of the official declaration of the vote thereon by the governor.
+Approved: May 25, 2023
