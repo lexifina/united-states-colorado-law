@@ -44,8 +44,17 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `title-33/` | Colorado Revised Statutes, Title 33: Parks and Wildlife (315 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-34/` | Colorado Revised Statutes, Title 34: Mineral Resources (305 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-35/` | Colorado Revised Statutes, Title 35: Agriculture (1021 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-36/` | Colorado Revised Statutes, Title 36: Natural Resources - General (158 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-37/` | Colorado Revised Statutes, Title 37: Water and Irrigation (1164 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-38/` | Colorado Revised Statutes, Title 38: Property - Real and Personal (1103 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-39/` | Colorado Revised Statutes, Title 39: Taxation (907 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-40/` | Colorado Revised Statutes, Title 40: Utilities (480 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-41/` | Colorado Revised Statutes, Title 41: Aeronautics: Aircraft and Airports (46 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-42/` | Colorado Revised Statutes, Title 42: Vehicles and Traffic (721 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-43/` | Colorado Revised Statutes, Title 43: Transportation (402 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-44/` | Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities (463 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 
-24970 sections and constitutional units. That is all the law this repository holds today: any title not listed above, the session laws and the regulations are not in it yet, and it has no amendment history yet.
+30414 sections and constitutional units. That is all the law this repository holds today: any title not listed above, the session laws and the regulations are not in it yet, and it has no amendment history yet.
 
 ## Where the text comes from
 

@@ -532,6 +532,132 @@
      "sha256": "20f5ff2e11834d1c24df2750e7ca535fb59998eee4fa7312b6a9c341e49d8e89"
     }
    ]
+  },
+  {
+   "slug": "title-36",
+   "short": "C.R.S. tit. 36",
+   "title": "Colorado Revised Statutes, Title 36: Natural Resources - General",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 158,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.36.odt",
+     "sha256": "fb0b81475c8ce7e003dcb98099cabbec8efc18fd61ffb96faafe630a5de1ac96"
+    }
+   ]
+  },
+  {
+   "slug": "title-37",
+   "short": "C.R.S. tit. 37",
+   "title": "Colorado Revised Statutes, Title 37: Water and Irrigation",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1164,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.37.odt",
+     "sha256": "e57a34aac23ce72fddd6023d283a78680d8b1ed682d9cf9bdec7b329bd2c3157"
+    }
+   ]
+  },
+  {
+   "slug": "title-38",
+   "short": "C.R.S. tit. 38",
+   "title": "Colorado Revised Statutes, Title 38: Property - Real and Personal",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1103,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.38.odt",
+     "sha256": "716b72b23d3dc0ca84755dc40dead1082a5e4644874c458b9c27ed9a0d8e32cd"
+    }
+   ]
+  },
+  {
+   "slug": "title-39",
+   "short": "C.R.S. tit. 39",
+   "title": "Colorado Revised Statutes, Title 39: Taxation",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 907,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.39.odt",
+     "sha256": "af64a2e9cbe3442219ff8675838bca9e14884a947ab81bfe12e812aa527e1a04"
+    }
+   ]
+  },
+  {
+   "slug": "title-40",
+   "short": "C.R.S. tit. 40",
+   "title": "Colorado Revised Statutes, Title 40: Utilities",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 480,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.40.odt",
+     "sha256": "e76f6f809fdcc87ba7dfa2014a086d2e83b8bbc92524456528fe9e3551653547"
+    }
+   ]
+  },
+  {
+   "slug": "title-41",
+   "short": "C.R.S. tit. 41",
+   "title": "Colorado Revised Statutes, Title 41: Aeronautics: Aircraft and Airports",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 46,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.41.odt",
+     "sha256": "517911b2cd1d8c85861ba78a06d2421d5f3cf54d3f6f3c02cb3f9aa75b1aac21"
+    }
+   ]
+  },
+  {
+   "slug": "title-42",
+   "short": "C.R.S. tit. 42",
+   "title": "Colorado Revised Statutes, Title 42: Vehicles and Traffic",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 721,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.42.odt",
+     "sha256": "8dd739bc3405818449867235524fb557aef1089fe09cbab43fc791b5e963ef42"
+    }
+   ]
+  },
+  {
+   "slug": "title-43",
+   "short": "C.R.S. tit. 43",
+   "title": "Colorado Revised Statutes, Title 43: Transportation",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 402,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.43.odt",
+     "sha256": "cae278922f0ef4e744ba1b10155bc101f91ed9f66cc407adc89f7f123be5eb4b"
+    }
+   ]
+  },
+  {
+   "slug": "title-44",
+   "short": "C.R.S. tit. 44",
+   "title": "Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 463,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.44.odt",
+     "sha256": "d261454665e9e4397624bd8eee6f404d08d2ad64cc24adeecdb7c823005f0ecd"
+    }
+   ]
   }
  ]
 }
