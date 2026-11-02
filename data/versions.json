@@ -224,6 +224,160 @@
      "sha256": "2e2eade0d3e2831aa4b3f19ab89cd3ef63fdeccccfc1b4bd5af926990b84d26b"
     }
    ]
+  },
+  {
+   "slug": "title-16",
+   "short": "C.R.S. tit. 16",
+   "title": "Colorado Revised Statutes, Title 16: Criminal Proceedings",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 493,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.16.odt",
+     "sha256": "a10a4c7c182d07129ffd281e96cee39e38a750f2dda046d6e3fab7db90eb69b6"
+    }
+   ]
+  },
+  {
+   "slug": "title-17",
+   "short": "C.R.S. tit. 17",
+   "title": "Colorado Revised Statutes, Title 17: Corrections",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 248,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.17.odt",
+     "sha256": "5fff0c59a879dcd6e331b349d2b0967e2a150525cdaea83fc4dae7dc538a0e03"
+    }
+   ]
+  },
+  {
+   "slug": "title-18",
+   "short": "C.R.S. tit. 18",
+   "title": "Colorado Revised Statutes, Title 18: Criminal Code",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 850,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.18.odt",
+     "sha256": "3ac54382b0b853624c13ea842a8eb5da9a66d3c96cb027df566472ade2a5fb5c"
+    }
+   ]
+  },
+  {
+   "slug": "title-19",
+   "short": "C.R.S. tit. 19",
+   "title": "Colorado Revised Statutes, Title 19: Children's Code",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 374,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.19.odt",
+     "sha256": "5c0fbcfcc94303e4d3a5b388a9700a79793fc61c8c8acb108479eeb75b531e67"
+    }
+   ]
+  },
+  {
+   "slug": "title-20",
+   "short": "C.R.S. tit. 20",
+   "title": "Colorado Revised Statutes, Title 20: District Attorneys",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 31,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.20.odt",
+     "sha256": "79d05e7e73ef4795fc984135d9d06b3dc89944d4a7ba2a71e0e1949001b2720d"
+    }
+   ]
+  },
+  {
+   "slug": "title-21",
+   "short": "C.R.S. tit. 21",
+   "title": "Colorado Revised Statutes, Title 21: State Public Defender",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 15,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.21.odt",
+     "sha256": "1795a60631258be38f7382c341b50afa2c39f38e1b68f6bd079b070bf534966a"
+    }
+   ]
+  },
+  {
+   "slug": "title-22",
+   "short": "C.R.S. tit. 22",
+   "title": "Colorado Revised Statutes, Title 22: Education",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1104,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.22.odt",
+     "sha256": "86e8655676d40970b2c612c7f4e1d6637a31ee1a4f9c0ab056a7f69c54b3a8cf"
+    }
+   ]
+  },
+  {
+   "slug": "title-23",
+   "short": "C.R.S. tit. 23",
+   "title": "Colorado Revised Statutes, Title 23: Postsecondary Education",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 963,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.23.odt",
+     "sha256": "3a19b10c1c4ed58eef6c65a7f48eb467b7344f2c3f0469bc5c0c4f8bfbef18e2"
+    }
+   ]
+  },
+  {
+   "slug": "title-24",
+   "short": "C.R.S. tit. 24",
+   "title": "Colorado Revised Statutes, Title 24: Government - State",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 2866,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.24.odt",
+     "sha256": "8f8c292c747bf0a4b74799f14c4f0e79705b195bde44dd5c6430493456822eac"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-5",
+   "short": "C.R.S. tit. 25.5",
+   "title": "Colorado Revised Statutes, Title 25.5: Health Care Policy and Financing",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 382,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.25.5.odt",
+     "sha256": "bdf80aaca4f077f8457462de9e83f93557b3b549305709e79468487ed3511c99"
+    }
+   ]
+  },
+  {
+   "slug": "title-25",
+   "short": "C.R.S. tit. 25",
+   "title": "Colorado Revised Statutes, Title 25: Public Health and Environment",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1473,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.25.odt",
+     "sha256": "b2956796cd8e36b1e86ac6ce64551ecaa83c57061f9d579ba94821a09c5574d6"
+    }
+   ]
   }
  ]
 }

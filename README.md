@@ -22,8 +22,19 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `title-13/` | Colorado Revised Statutes, Title 13: Courts and Court Procedure (1140 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-14/` | Colorado Revised Statutes, Title 14: Domestic Matters (308 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-15/` | Colorado Revised Statutes, Title 15: Probate, Trusts, and Fiduciaries (1034 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-16/` | Colorado Revised Statutes, Title 16: Criminal Proceedings (493 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-17/` | Colorado Revised Statutes, Title 17: Corrections (248 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-18/` | Colorado Revised Statutes, Title 18: Criminal Code (850 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-19/` | Colorado Revised Statutes, Title 19: Children's Code (374 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-20/` | Colorado Revised Statutes, Title 20: District Attorneys (31 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-21/` | Colorado Revised Statutes, Title 21: State Public Defender (15 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-22/` | Colorado Revised Statutes, Title 22: Education (1104 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-23/` | Colorado Revised Statutes, Title 23: Postsecondary Education (963 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-24/` | Colorado Revised Statutes, Title 24: Government - State (2866 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-25/` | Colorado Revised Statutes, Title 25: Public Health and Environment (1473 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-25-5/` | Colorado Revised Statutes, Title 25.5: Health Care Policy and Financing (382 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 
-10268 sections and constitutional units. That is all the law this repository holds today: any title not listed above, the session laws and the regulations are not in it yet, and it has no amendment history yet.
+19067 sections and constitutional units. That is all the law this repository holds today: any title not listed above, the session laws and the regulations are not in it yet, and it has no amendment history yet.
 
 ## Where the text comes from
 
