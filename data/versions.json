@@ -378,6 +378,160 @@
      "sha256": "b2956796cd8e36b1e86ac6ce64551ecaa83c57061f9d579ba94821a09c5574d6"
     }
    ]
+  },
+  {
+   "slug": "title-26-5",
+   "short": "C.R.S. tit. 26.5",
+   "title": "Colorado Revised Statutes, Title 26.5: Early Childhood Programs and Services",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 163,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.26.5.odt",
+     "sha256": "eec10cd3330fb2a3f7f1be7757c33be10c69a26d761c62488937c73816e7c933"
+    }
+   ]
+  },
+  {
+   "slug": "title-26",
+   "short": "C.R.S. tit. 26",
+   "title": "Colorado Revised Statutes, Title 26: Human Services Code",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 427,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.26.odt",
+     "sha256": "acbd6bb20cabdf3048be025a658412c29233e77a1d8e084fff052b05923e1973"
+    }
+   ]
+  },
+  {
+   "slug": "title-27",
+   "short": "C.R.S. tit. 27",
+   "title": "Colorado Revised Statutes, Title 27: Behavioral Health",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 276,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.27.odt",
+     "sha256": "29961eb9be80a84384197a2b47df57ecc3b526e09d611fbecb5dd50321f18e3b"
+    }
+   ]
+  },
+  {
+   "slug": "title-28",
+   "short": "C.R.S. tit. 28",
+   "title": "Colorado Revised Statutes, Title 28: Military and Veterans",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 310,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.28.odt",
+     "sha256": "d76cc2558906e6c627a5f44e0c754e01465130ec9ae4944fc8b00047e3f026ac"
+    }
+   ]
+  },
+  {
+   "slug": "title-29",
+   "short": "C.R.S. tit. 29",
+   "title": "Colorado Revised Statutes, Title 29: Government - Local",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 542,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.29.odt",
+     "sha256": "64fcd3b1f070595c6993e570664189094ae748664f88d1583c161553917f134b"
+    }
+   ]
+  },
+  {
+   "slug": "title-30",
+   "short": "C.R.S. tit. 30",
+   "title": "Colorado Revised Statutes, Title 30: Government - County",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 746,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.30.odt",
+     "sha256": "2ac85624d7bd1a6934eb245d5a94482d63d11b3267270988f0761998cbebd6ee"
+    }
+   ]
+  },
+  {
+   "slug": "title-31",
+   "short": "C.R.S. tit. 31",
+   "title": "Colorado Revised Statutes, Title 31: Government - Municipal",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1025,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.31.odt",
+     "sha256": "438cea4d1c831ec05abf8634b05fee52cc0cafa78a2b0a164e2ff7d796609fcd"
+    }
+   ]
+  },
+  {
+   "slug": "title-32",
+   "short": "C.R.S. tit. 32",
+   "title": "Colorado Revised Statutes, Title 32: Special Districts",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 773,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.32.odt",
+     "sha256": "136e7ca58d4356d45848107e2c664d070b6ef164cc905d8816cd9047d99abd96"
+    }
+   ]
+  },
+  {
+   "slug": "title-33",
+   "short": "C.R.S. tit. 33",
+   "title": "Colorado Revised Statutes, Title 33: Parks and Wildlife",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 315,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.33.odt",
+     "sha256": "5a4410295a63a0462019e3f8da704c9b14e6c950ca35a4dc49a645c4db0306f4"
+    }
+   ]
+  },
+  {
+   "slug": "title-34",
+   "short": "C.R.S. tit. 34",
+   "title": "Colorado Revised Statutes, Title 34: Mineral Resources",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 305,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.34.odt",
+     "sha256": "a8c6a3d166affa51d62f687d05fe601045abce395340f219a4a11ffce2c07e7d"
+    }
+   ]
+  },
+  {
+   "slug": "title-35",
+   "short": "C.R.S. tit. 35",
+   "title": "Colorado Revised Statutes, Title 35: Agriculture",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1021,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.35.odt",
+     "sha256": "20f5ff2e11834d1c24df2750e7ca535fb59998eee4fa7312b6a9c341e49d8e89"
+    }
+   ]
   }
  ]
 }

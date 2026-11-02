@@ -33,8 +33,19 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `title-24/` | Colorado Revised Statutes, Title 24: Government - State (2866 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-25/` | Colorado Revised Statutes, Title 25: Public Health and Environment (1473 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-25-5/` | Colorado Revised Statutes, Title 25.5: Health Care Policy and Financing (382 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-26/` | Colorado Revised Statutes, Title 26: Human Services Code (427 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-26-5/` | Colorado Revised Statutes, Title 26.5: Early Childhood Programs and Services (163 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-27/` | Colorado Revised Statutes, Title 27: Behavioral Health (276 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-28/` | Colorado Revised Statutes, Title 28: Military and Veterans (310 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-29/` | Colorado Revised Statutes, Title 29: Government - Local (542 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-30/` | Colorado Revised Statutes, Title 30: Government - County (746 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-31/` | Colorado Revised Statutes, Title 31: Government - Municipal (1025 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-32/` | Colorado Revised Statutes, Title 32: Special Districts (773 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-33/` | Colorado Revised Statutes, Title 33: Parks and Wildlife (315 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-34/` | Colorado Revised Statutes, Title 34: Mineral Resources (305 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-35/` | Colorado Revised Statutes, Title 35: Agriculture (1021 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 
-19067 sections and constitutional units. That is all the law this repository holds today: any title not listed above, the session laws and the regulations are not in it yet, and it has no amendment history yet.
+24970 sections and constitutional units. That is all the law this repository holds today: any title not listed above, the session laws and the regulations are not in it yet, and it has no amendment history yet.
 
 ## Where the text comes from
 
