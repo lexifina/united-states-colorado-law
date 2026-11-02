@@ -1,0 +1,229 @@
+{
+ "country": "US-CO",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Colo. Const.",
+   "title": "Constitution of the State of Colorado",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 354,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.constitution.co.odt",
+     "sha256": "961320f811cba7054613c58371ba2023d88bfd45e0a5a7793edafa361039a9e8"
+    }
+   ]
+  },
+  {
+   "slug": "title-01",
+   "short": "C.R.S. tit. 1",
+   "title": "Colorado Revised Statutes, Title 1: Elections",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 748,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.01.odt",
+     "sha256": "8ab2b8760f94d79821c01c2112ae36b041d461e12c6e8d5909fc644639a44f89"
+    }
+   ]
+  },
+  {
+   "slug": "title-02",
+   "short": "C.R.S. tit. 2",
+   "title": "Colorado Revised Statutes, Title 2: Legislative",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 229,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.02.odt",
+     "sha256": "06939cf74e0a6ecb41c8a762bb071d86398b80fc594b63d25f1916221e6bb03e"
+    }
+   ]
+  },
+  {
+   "slug": "title-03",
+   "short": "C.R.S. tit. 3",
+   "title": "Colorado Revised Statutes, Title 3: United States",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 41,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.03.odt",
+     "sha256": "136510753a1f232f6ce66603d22b25fad90e4936c35442090ec670cde5ed8e4c"
+    }
+   ]
+  },
+  {
+   "slug": "title-04",
+   "short": "C.R.S. tit. 4",
+   "title": "Colorado Revised Statutes, Title 4: Uniform Commercial Code",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 646,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.04.odt",
+     "sha256": "8fbd381666223e32760af6832a16a106d9df26f09e2677bbd54d5c3c4e33eddf"
+    }
+   ]
+  },
+  {
+   "slug": "title-05",
+   "short": "C.R.S. tit. 5",
+   "title": "Colorado Revised Statutes, Title 5: Consumer Credit Code",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 394,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.05.odt",
+     "sha256": "3928d75aac9607e541ce9242911df2c1ccfada5de87360863da08f6b089f4dec"
+    }
+   ]
+  },
+  {
+   "slug": "title-06",
+   "short": "C.R.S. tit. 6",
+   "title": "Colorado Revised Statutes, Title 6: Consumer and Commercial Affairs",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 331,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.06.odt",
+     "sha256": "f02b0203f1a745b9db0c9392a3db859c56ce8428dd4bf7670f5c696d718e2a2f"
+    }
+   ]
+  },
+  {
+   "slug": "title-07",
+   "short": "C.R.S. tit. 7",
+   "title": "Colorado Revised Statutes, Title 7: Corporations and Associations",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1047,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.07.odt",
+     "sha256": "d44a65b7fb4c9bec05d5a02b30bb96ab44e20a2027df9d09625a0f1092f83da9"
+    }
+   ]
+  },
+  {
+   "slug": "title-08",
+   "short": "C.R.S. tit. 8",
+   "title": "Colorado Revised Statutes, Title 8: Labor and Industry",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 877,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.08.odt",
+     "sha256": "56ad4ab7bdfcf703979eb64429c5295b1a01789d4f3698e8457fedd41e8839f2"
+    }
+   ]
+  },
+  {
+   "slug": "title-09",
+   "short": "C.R.S. tit. 9",
+   "title": "Colorado Revised Statutes, Title 9: Safety - Industrial and Commercial",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 98,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.09.odt",
+     "sha256": "d67bed81fdabe80194e09eef0d6f36bb5d6ebe47407e6b5e9419cf490359d6f9"
+    }
+   ]
+  },
+  {
+   "slug": "title-10",
+   "short": "C.R.S. tit. 10",
+   "title": "Colorado Revised Statutes, Title 10: Insurance",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1232,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.10.odt",
+     "sha256": "9722e79402d24bc7743a066bcc8d51583624a5fba86606bbb3a4791fa698e181"
+    }
+   ]
+  },
+  {
+   "slug": "title-11",
+   "short": "C.R.S. tit. 11",
+   "title": "Colorado Revised Statutes, Title 11: Financial Institutions",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 657,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.11.odt",
+     "sha256": "a9a6894a73579cfcb5aef054d37c9a20cdbf630a0603e6c1e4595feb08def57a"
+    }
+   ]
+  },
+  {
+   "slug": "title-12",
+   "short": "C.R.S. tit. 12",
+   "title": "Colorado Revised Statutes, Title 12: Professions and Occupations",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1132,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.12.odt",
+     "sha256": "175db4d053f219d47c8f6a0494212931895138e02f272c03fe3aa964d76c9239"
+    }
+   ]
+  },
+  {
+   "slug": "title-13",
+   "short": "C.R.S. tit. 13",
+   "title": "Colorado Revised Statutes, Title 13: Courts and Court Procedure",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1140,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.13.odt",
+     "sha256": "edf93943e4684bcfae8c821d961ad015d0ea7722bda6a9a49ec99a11561dc0c9"
+    }
+   ]
+  },
+  {
+   "slug": "title-14",
+   "short": "C.R.S. tit. 14",
+   "title": "Colorado Revised Statutes, Title 14: Domestic Matters",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 308,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.14.odt",
+     "sha256": "08fe54c4171d133ed00208c488bec27e6b9879f772137e359f465eb9699a0ce8"
+    }
+   ]
+  },
+  {
+   "slug": "title-15",
+   "short": "C.R.S. tit. 15",
+   "title": "Colorado Revised Statutes, Title 15: Probate, Trusts, and Fiduciaries",
+   "url": "https://archive.org/details/gov.co.crs.bulk",
+   "versions": [
+    {
+     "from": "2022-08-10",
+     "units": 1034,
+     "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.15.odt",
+     "sha256": "2e2eade0d3e2831aa4b3f19ab89cd3ef63fdeccccfc1b4bd5af926990b84d26b"
+    }
+   ]
+  }
+ ]
+}
