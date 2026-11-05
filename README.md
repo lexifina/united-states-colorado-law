@@ -9,7 +9,7 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `constitution/` | Constitution of the State of Colorado (354 units) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-01/` | Colorado Revised Statutes, Title 1: Elections (748 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-02/` | Colorado Revised Statutes, Title 2: Legislative (229 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
-| `title-03/` | Colorado Revised Statutes, Title 3: United States (41 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-03/` | Colorado Revised Statutes, Title 3: United States (41 sections) | 1 | As printed in the Colorado Revised Statutes 2022; latest source-noted change effective 7 September 2021 (oldest version available) |
 | `title-04/` | Colorado Revised Statutes, Title 4: Uniform Commercial Code (646 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-05/` | Colorado Revised Statutes, Title 5: Consumer Credit Code (394 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-06/` | Colorado Revised Statutes, Title 6: Consumer and Commercial Affairs (331 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
@@ -22,7 +22,7 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `title-13/` | Colorado Revised Statutes, Title 13: Courts and Court Procedure (1140 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-14/` | Colorado Revised Statutes, Title 14: Domestic Matters (308 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-15/` | Colorado Revised Statutes, Title 15: Probate, Trusts, and Fiduciaries (1034 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
-| `title-16/` | Colorado Revised Statutes, Title 16: Criminal Proceedings (493 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-16/` | Colorado Revised Statutes, Title 16: Criminal Proceedings (494 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available; section 16-8.5-103 restored by correction) |
 | `title-17/` | Colorado Revised Statutes, Title 17: Corrections (248 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-18/` | Colorado Revised Statutes, Title 18: Criminal Code (850 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-19/` | Colorado Revised Statutes, Title 19: Children's Code (374 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
@@ -52,9 +52,9 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `title-41/` | Colorado Revised Statutes, Title 41: Aeronautics: Aircraft and Airports (46 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-42/` | Colorado Revised Statutes, Title 42: Vehicles and Traffic (721 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-43/` | Colorado Revised Statutes, Title 43: Transportation (402 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
-| `title-44/` | Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities (463 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
+| `title-44/` | Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities (463 sections) | 2 | 2022 edition baseline and SB 23-019, chapter 2 of the 2023 advance legislative service, effective 3 March 2023 |
 
-30414 sections and constitutional units. That is all the law this repository holds today: any title not listed above, the session laws and the regulations are not in it yet, and it has no amendment history yet.
+30415 sections and constitutional units. The corpus includes one dated 2023 amendment chapter; the remaining 2023 advance legislative service chapters, other session laws and regulations are not in it yet.
 
 ## Where the text comes from
 
@@ -72,12 +72,13 @@ No annotation, case note, editor's note or other vendor material is included. Th
 ## Dates
 
 - Release r83.2023.06 holds the Colorado Revised Statutes 2022: the laws through the 2022 regular session (no 2023 session law is cited in it).
-- Each title is one version, dated **10 August 2022**, the day the 2022 session's acts without a safety clause took effect (90 days after the General Assembly adjourned on 11 May 2022), the latest general effective date the edition contains. It is credited to the publisher as "oldest version available".
+- The 2022 title snapshots use **10 August 2022**, the day the 2022 session's acts without a safety clause took effect (90 days after the General Assembly adjourned on 11 May 2022), except Title 3, whose latest source-noted change took effect **7 September 2021**. The snapshots are credited to the publisher as "oldest version available".
+- Title 44 also records SB 23-019, approved **3 March 2023** with a safety clause, as a later version changing sections 44-20-104 and 44-20-404.
 - A section is left out when it was not yet in force that day: its editor's note gives a later effective date, its source note credits a change with a later effective date (the edition prints such text ahead of time), or a 2022 change takes effect on a governor's proclamation. Of two printed versions, the one "effective until" a later day is used.
 
 ## What it does not show
 
-- Any history before the 2022 edition, and any change after it. Earlier OLLS releases (2020 to 2022) are in the same Internet Archive item and may be added as earlier history in a separate build.
+- History before the 2022 edition, and 2023 changes beyond the one chapter named above. Earlier OLLS releases (2020 to 2022) are in the same Internet Archive item and may be added as earlier history in a separate build.
 - The source notes, annotations and editor's notes; the sections left out as above.
 - Nothing here is an official publication or legal advice. For anything that matters, read the official text.
 

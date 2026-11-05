@@ -1,6 +1,6 @@
 # Colorado Revised Statutes, Title 3: United States
 
-C.R.S. tit. 3 · 1 versions, from 2022-08-10 (latest in force: 2022-08-10) · <https://archive.org/details/gov.co.crs.bulk>
+C.R.S. tit. 3 · 1 versions, from 2021-09-07 (latest in force: 2021-09-07) · <https://archive.org/details/gov.co.crs.bulk>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

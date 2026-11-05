@@ -1,6 +1,6 @@
 # How this repository was made (Colorado)
 
-This file is written by the build on 2026-11-02, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -53,6 +53,10 @@ This file is written by the build on 2026-11-02, the day the source data was ret
 | Colorado Revised Statutes 2022, title 42 (OLLS bulk release r83.2023.06, ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.42.odt> | 2026-11-02 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
 | Colorado Revised Statutes 2022, title 43 (OLLS bulk release r83.2023.06, ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.43.odt> | 2026-11-02 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
 | Colorado Revised Statutes 2022, title 44 (OLLS bulk release r83.2023.06, ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.44.odt> | 2026-11-02 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
+| Colorado Revised Statutes 2022, title 3 (OLLS bulk release r83.2023.06, ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.03.odt> | 2026-11-02 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
+| Colorado Revised Statutes 2022, title 16 (OLLS bulk release r83.2023.06, ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.16.odt> | 2026-11-02 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
+| Colorado Revised Statutes 2022, title 44 (OLLS bulk release r83.2023.06, ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.44.odt> | 2026-11-02 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
+| Colorado 2023 Advance Legislative Service, chapter 2 (OLLS ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt> | 2026-11-05 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -63,7 +67,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `constitution` | Constitution of the State of Colorado | 1 | 2022-08-10 to 2022-08-10 |
 | `title-01` | Colorado Revised Statutes, Title 1: Elections | 1 | 2022-08-10 to 2022-08-10 |
 | `title-02` | Colorado Revised Statutes, Title 2: Legislative | 1 | 2022-08-10 to 2022-08-10 |
-| `title-03` | Colorado Revised Statutes, Title 3: United States | 1 | 2022-08-10 to 2022-08-10 |
+| `title-03` | Colorado Revised Statutes, Title 3: United States | 1 | 2021-09-07 to 2021-09-07 |
 | `title-04` | Colorado Revised Statutes, Title 4: Uniform Commercial Code | 1 | 2022-08-10 to 2022-08-10 |
 | `title-05` | Colorado Revised Statutes, Title 5: Consumer Credit Code | 1 | 2022-08-10 to 2022-08-10 |
 | `title-06` | Colorado Revised Statutes, Title 6: Consumer and Commercial Affairs | 1 | 2022-08-10 to 2022-08-10 |
@@ -106,21 +110,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-41` | Colorado Revised Statutes, Title 41: Aeronautics: Aircraft and Airports | 1 | 2022-08-10 to 2022-08-10 |
 | `title-42` | Colorado Revised Statutes, Title 42: Vehicles and Traffic | 1 | 2022-08-10 to 2022-08-10 |
 | `title-43` | Colorado Revised Statutes, Title 43: Transportation | 1 | 2022-08-10 to 2022-08-10 |
-| `title-44` | Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities | 1 | 2022-08-10 to 2022-08-10 |
+| `title-44` | Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities | 2 | 2022-08-10 to 2023-03-03 |
 
-The build made 47 commits:
+The build made 51 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | first version of an act |
-| 0 | one law on its in-force day |
+| 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-02.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 0 laws in the record.
-- 47 tags.
+- 1 laws in the record.
+- 49 tags.
 
 ## Dates
 
@@ -132,13 +136,13 @@ When a law gives no date of its own, the default rule applies: Colo. Const. art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2ff8c13396063402f0a1cfdf3b80d4bc8bdc8d9e6dcd9aa173a635e1810187a7` (68720940 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `023fa7af48f9d6a58c425651dd8713ceb53fa311f454daa8fae0471304fe14b2` (71379845 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-47 versions of 47 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -192,6 +196,9 @@ No second build of this corpus has been compared yet.
 - C.R.S. title 42: one version, the Colorado Revised Statutes 2022 as released by OLLS (release r83.2023.06), dated 2022-08-10, the general effective date of the 2022 session's acts; sections not in force on that day are left out.
 - C.R.S. title 43: one version, the Colorado Revised Statutes 2022 as released by OLLS (release r83.2023.06), dated 2022-08-10, the general effective date of the 2022 session's acts; sections not in force on that day are left out.
 - C.R.S. title 44: one version, the Colorado Revised Statutes 2022 as released by OLLS (release r83.2023.06), dated 2022-08-10, the general effective date of the 2022 session's acts; sections not in force on that day are left out.
+- Title 3 CRS 2022 source text is retained verbatim; the latest cited source amendment became effective September 7, 2021, so the published August 10, 2022 date is corrected.
+- C.R.S. section 16-8.5-103 is restored verbatim from the OLLS CRS 2022 Title 16 ODT; its latest source-noted amendment took effect July 1, 2022; the published title snapshot is dated August 10, 2022.
+- Title 44, chapter 2 of the 2023 advance legislative service: SB 23-019 has a safety clause and was approved March 3, 2023; its changed subsections are applied on that date. Other Title 44 sections retain their unchanged 2022 text.
 
 ## What AI did and did not do
 
@@ -202,6 +209,9 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- none
+- none
+- none
 - none
 - none
 - none

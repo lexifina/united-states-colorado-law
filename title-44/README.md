@@ -1,6 +1,6 @@
 # Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities
 
-C.R.S. tit. 44 · 1 versions, from 2022-08-10 (latest in force: 2022-08-10) · <https://archive.org/details/gov.co.crs.bulk>
+C.R.S. tit. 44 · 2 versions, from 2022-08-10 (latest in force: 2023-03-03) · <https://archive.org/details/gov.co.crs.bulk>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -159,7 +159,7 @@ C.R.S. tit. 44 · 1 versions, from 2022-08-10 (latest in force: 2022-08-10) · <
 | C.R.S. § 44-20-101 | [020-0101.md](020-0101.md) | 0 |  |
 | C.R.S. § 44-20-102 | [020-0102.md](020-0102.md) | 0 |  |
 | C.R.S. § 44-20-103 | [020-0103.md](020-0103.md) | 0 |  |
-| C.R.S. § 44-20-104 | [020-0104.md](020-0104.md) | 0 |  |
+| C.R.S. § 44-20-104 | [020-0104.md](020-0104.md) | 1 | 2023-03-03 |
 | C.R.S. § 44-20-105 | [020-0105.md](020-0105.md) | 0 |  |
 | C.R.S. § 44-20-106 | [020-0106.md](020-0106.md) | 0 |  |
 | C.R.S. § 44-20-107 | [020-0107.md](020-0107.md) | 0 |  |
@@ -219,7 +219,7 @@ C.R.S. tit. 44 · 1 versions, from 2022-08-10 (latest in force: 2022-08-10) · <
 | C.R.S. § 44-20-401 | [020-0401.md](020-0401.md) | 0 |  |
 | C.R.S. § 44-20-402 | [020-0402.md](020-0402.md) | 0 |  |
 | C.R.S. § 44-20-403 | [020-0403.md](020-0403.md) | 0 |  |
-| C.R.S. § 44-20-404 | [020-0404.md](020-0404.md) | 0 |  |
+| C.R.S. § 44-20-404 | [020-0404.md](020-0404.md) | 1 | 2023-03-03 |
 | C.R.S. § 44-20-405 | [020-0405.md](020-0405.md) | 0 |  |
 | C.R.S. § 44-20-406 | [020-0406.md](020-0406.md) | 0 |  |
 | C.R.S. § 44-20-407 | [020-0407.md](020-0407.md) | 0 |  |
