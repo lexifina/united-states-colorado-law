@@ -62,6 +62,7 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Colorado General Assembly: 2023 regular session laws, chapter effective dates | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 |  |
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
+| Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -522,20 +523,38 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-2023-ch-309` | CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING MOTOR VEHICLE OFFENSES COMMITTED BY A PERSON WHO IS NOT THE OWNER OF THE MOTOR VEHICLE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-07-01 to 2023-07-01 |
 | `session-2023-ch-316` | CONCERNING THE DEFINITION OF SERIOUS BODILY INJURY IN SECTION 18-1-901, COLORADO REVISED STATUTES. | 1 | 2023-07-01 to 2023-07-01 |
 | `session-2023-ch-428` | CONCERNING CLARIFYING THAT WORKERS' COMPENSATION IS NOT THE EXCLUSIVE REMEDY FOR PERSONS AGGRIEVED BY VIOLATIONS OF THE "COLORADO YOUTH EMPLOYMENT OPPORTUNITY ACT OF 1971". | 1 | 2023-07-01 to 2023-07-01 |
+| `session-2023-ch-207` | CONCERNING REMOVING BARRIERS TO WATER-WISE LANDSCAPING IN COMMON INTEREST COMMUNITIES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-267` | CONCERNING THE JURISDICTION OF MUNICIPAL COURTS TO HEAR DOMESTIC VIOLENCE OFFENSES. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-289` | CONCERNING MODIFICATIONS TO THE PERFORMANCE-BASED INCENTIVE FOR FILM PRODUCTION IN COLORADO, AND, IN CONNECTION THEREWITH, CLARIFYING THE DEFINITION OF "QUALIFIED LOCAL EXPENDITURE" FOR PAYMENTS TO PERSONAL SERVICE CORPORATIONS, REQUIRING PRODUCTION COMPANIES TO FILE INFORMATION INCOME TAX RETURNS REGARDING SUCH PAYMENTS, AND ELIMINATING THE WITHHOLDING EXEMPTION FOR PAYMENTS TO NONRESIDENTS WHO PERFORM SERVICES IN CONNECTION WITH A FILM PRODUCTION FOR LESS THAN ONE HUNDRED TWENTY DAYS IN A YEAR. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-320` | CONCERNING RESTRICTIONS ON NONDISCLOSURE AGREEMENTS THAT AFFECT GOVERNMENT EMPLOYEES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-326` | CONCERNING PROPERTY USED TO ILLEGALLY MANUFACTURE DRUGS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-339` | CONCERNING A PROHIBITION AGAINST WAGERING ON RACES OF GREYHOUNDS THAT ARE SIMULCAST FROM OUT-OF-STATE TRACKS AT WHICH THE RACES ARE CONDUCTED. | 1 | 2024-10-01 to 2024-10-01 |
+| `session-2023-ch-347` | CONCERNING THE IMPLEMENTATION OF MEASURES TO ENSURE EQUAL PAY FOR EQUAL WORK, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-351` | CONCERNING THE CALCULATION OF CONTRIBUTIONS TOWARD AN INSURED'S REQUIRED COST SHARING UNDER A HEALTH BENEFIT PLAN. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-353` | CONCERNING PROCEDURES FOR THE ISSUANCE OF MARIJUANA LICENSES, AND, IN CONNECTION THEREWITH, CLARIFYING THAT THE STATE LICENSING AUTHORITY MAY REFUND LICENSING FEES WHEN AN APPLICATION IS DENIED AND ALLOWING APPLICANTS THE OPPORTUNITY TO RENEW A STATE LICENSE WHILE LOCAL JURISDICTION APPROVAL IS PENDING. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-356` | CONCERNING INFORMATION ABOUT RADON IN RESIDENTIAL REAL PROPERTY TRANSACTIONS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-372` | CONCERNING PROHIBITING THE INCLUSION OF CERTAIN PROVISIONS IN WRITTEN RENTAL AGREEMENTS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-374` | CONCERNING THE INCLUSION OF CERTAIN ITEMS OF INFORMATION IN CONSUMER REPORTS, AND, IN CONNECTION THEREWITH, PROHIBITING THE REPORTING OF MEDICAL DEBT INFORMATION BY CONSUMER REPORTING AGENCIES, PROHIBITING DEBT COLLECTORS AND COLLECTION AGENCIES FROM FALSELY REPRESENTING THAT MEDICAL DEBT INFORMATION WILL BE INCLUDED IN A CONSUMER REPORT OR FAILING TO TIMELY DISCLOSE THAT, WITH CERTAIN EXCEPTIONS, MEDICAL DEBT WILL NOT BE INCLUDED IN A CONSUMER REPORT, AND, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-382` | CONCERNING INCREASED PENALTIES FOR SPEEDING VIOLATIONS ON HIGHWAYS WITH STEEP DOWNHILL GRADES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-389` | CONCERNING PROTECTIONS FOR COLORADO WORKERS AGAINST DISCRIMINATORY EMPLOYMENT PRACTICES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-402` | CONCERNING PROTECTIONS FOR RESIDENTIAL TENANTS, AND, IN CONNECTION THEREWITH, PROHIBITING A LANDLORD FROM CONSIDERING CERTAIN INFORMATION RELATING TO A PROSPECTIVE TENANT'S INCOME OR RENTAL HISTORY, ESTABLISHING A MAXIMUM AMOUNT THAT A LANDLORD CAN REQUIRE AS A SECURITY DEPOSIT, AND ALLOWING A TENANT TO ASSERT AS AN AFFIRMATIVE DEFENSE IN AN EVICTION PROCEEDING THAT A LANDLORD VIOLATED ANTI-DISCRIMINATORY HOUSING LAWS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-417` | CONCERNING REQUIREMENTS UNDER THE "FAIR CAMPAIGN PRACTICES ACT" FOR MUNICIPAL ELECTIONS. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-419` | CONCERNING ENACTMENT OF THE "DUE PROCESS ASSET FORFEITURE ACT", AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-09-01 to 2023-09-01 |
+| `session-2023-ch-425` | CONCERNING THE REGULATION OF GUARANTEED ASSET PROTECTION AGREEMENTS. | 1 | 2024-01-01 to 2024-01-01 |
 
-The build made 457 commits:
+The build made 475 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 453 | first version of an act |
+| 471 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 407 laws in the record.
-- 861 tags.
+- 425 laws in the record.
+- 897 tags.
 
 ## Dates
 
@@ -547,7 +566,7 @@ When a law gives no date of its own, the default rule applies: Colo. Const. art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `347234f93652796037cc7c1ba7bafa423df7e5aca45426546d387eadfbe73c12` (77647487 bytes).
+- Corpus: sha256 `f0daf028455dbb7f51fba339c5c1a36275e240c18b544cd800b56357e30e67fb` (77909438 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -614,6 +633,7 @@ No second build of this corpus has been compared yet.
 - 2023 advance legislative service gap: 120 further as-enacted chapters; 8 held individually. No reconstruction of consolidated CRS wording. Every admitted chapter equals an independent reading of official source XML; all deleted wording checked separately. Effective dates agree with the official General Assembly chapter listing and the source commencement clause.
 - Official 2023 chapters 251–474: 159 admitted; 65 held individually for date, text or image review. Complete as-enacted acts are single-file text units; no consolidated CRS reconstruction. Every admitted character stream matches independent PDF text extraction and every deletion flag is independently checked against source operators. All admitted commencement dates and metadata agree with the official PDF and chapter listing. No retrieval-day dates are used.
 - Five 2023 regular-session chapters with one explicit effective date followed by a safety clause. Each complete single-file as-enacted act agrees character for character with an independent PDF text reader; deletion marks match source drawings, approval and commencement dates agree with the official chapter listing. No OCR or retrieval-day date is used.
+- 18 complete as-enacted 2023 chapters admitted after inspection of every remaining chapter. Applicability clauses are preserved verbatim alongside commencement; staged and conditional whole-act dates remain excluded. Every non-whitespace character agrees with an independent PDF reader, all deletion drawings match source characters, and dates agree with the official chapter listing. No OCR or retrieval-day date used.
 
 ## What AI did and did not do
 
@@ -677,5 +697,6 @@ Model use at data-build time:
 - none
 - A model wrote extraction and validation code; no model-authored law text or OCR.
 - A model wrote extraction and validation code; no model-authored law text or OCR.
+- GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
