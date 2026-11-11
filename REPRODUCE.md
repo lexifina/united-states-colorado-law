@@ -58,6 +58,9 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Colorado Revised Statutes 2022, title 44 (OLLS bulk release r83.2023.06, ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.44.odt> | 2026-11-02 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
 | Colorado 2023 Advance Legislative Service, chapter 2 (OLLS ODT), Public.Resource.Org item gov.co.crs.bulk on the Internet Archive | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt> | 2026-11-05 | Public Domain Mark 1.0 (item licence); "These are edicts of government and are thus the property of the people and not subject to copyright." (Public.Resource.Org, item description). Statute text is not copyrightable (Georgia v. Public.Resource.Org, 590 U.S. 255 (2020)). |
 | Colorado General Assembly, Office of Legislative Legal Services: 2023 advance legislative service, chapters 1–250 (Public.Resource.Org mirror) | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt> | 2026-11-11 | Public Domain Mark 1.0; edicts of government. |
+| Colorado General Assembly, Office of Legislative Legal Services: 2023 advance legislative service, chapters 1–250 (Public.Resource.Org mirror) | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt> | 2026-11-11 | Public Domain Mark 1.0; edicts of government. |
+| Colorado General Assembly: 2023 regular session laws, chapter effective dates | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 |  |
+| Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -234,20 +237,301 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-2023-ch-247` | Concerning labor requirements for energy sector construction, and, in connection therewith, making an appropriation. | 1 | 2024-01-01 to 2024-01-01 |
 | `session-2023-ch-248` | Concerning the provision of compensation to people who suffer damages because of gray wolf depredation, and, in connection therewith, making and reducing appropriations. | 1 | 2023-05-23 to 2023-05-23 |
 | `session-2023-ch-249` | Concerning natural medicine, and, in connection therewith, making an appropriation. | 1 | 2023-07-01 to 2023-07-01 |
+| `session-2023-ch-006` | Concerning the authority of a licensed psychologist to prescribe psychotropic medication for the treatment of mental health disorders. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-009` | Concerning persons with whom the office of alternate defense counsel may contract. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-012` | Concerning changes to the new energy improvement program, and, in connection therewith, adding resiliency improvements and water efficiency improvements to the program, modifying the new energy improvement district's notice requirements, and removing the district's hearing requirement. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-014` | Concerning the water resources and agriculture review committee. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-015` | Concerning measures to expand postconviction DNA testing. | 1 | 2023-10-01 to 2023-10-01 |
+| `session-2023-ch-018` | Concerning the enactment of the "Interstate Teacher Mobility Compact". | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-019` | Concerning a requirement that motor vehicle drivers take certain actions to mitigate the risk their vehicles present to stationary vehicles on the road. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-020` | Concerning the safety of children and youth through required background checks on adults when a child or youth is placed out of the home with kin, including relatives. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-022` | Concerning the dollar amount of a special district contract that requires notice for bids. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-024` | Concerning modifications to the Colorado agricultural future loan program, and, in connection therewith, modifying the eligibility requirements for the program and eliminating the repeal date for the loan program. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-025` | Concerning CPR training for high school students. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-026` | Concerning extending the length of an employment contract for a non-tenure-track appointment. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-027` | Concerning the continuation of the EPIC (evidence-based practices implementation for capacity) advisory board, and, in connection therewith, implementing the recommendation in the 2022 sunset report by the department of regulatory agencies to repeal the advisory board. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-032` | Concerning the state licensing authority's ability to act regarding the movement of marijuana in certain circumstances to protect the public. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-033` | Concerning the continuation of high cost support mechanism funding for rural telecommunications providers, and, in connection therewith, aligning the repeal date of such high cost support mechanism funding with the sunset repeal date of the high cost support mechanism. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-034` | Concerning authorizing the board of the fire and police pension association to provide noncompounding cost of living adjustments. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-035` | Concerning the repeal of infrequently used tax expenditures. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-036` | Concerning vehicle value protection agreements. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-038` | Concerning the modification of the salary categorization of locally elected officers in specified counties. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-043` | Concerning mandatory provisions in home warranty service contracts, and, in connection therewith, requiring a home warranty service contract to include terms allowing a homeowner to replace any of certain gas-fueled devices with a device that operates on electricity. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-044` | Concerning the requirement that businesses licensed to sell powersports vehicles have a principal place of business. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-045` | Concerning a requirement that the state controller promulgate fiscal rules governing advance payment for the purchase of state agricultural products by a charitable food organization using state grant money. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-047` | Concerning the modernization of the process to change groundwater well owner contact information. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-048` | Concerning the notice requirements of employers regarding income tax credits, and, in connection therewith, requiring employers to notify employees of the availability of the federal earned income tax credit, the state earned income tax credit, the federal child tax credit, and the state child tax credit. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-050` | Concerning prohibiting the inclusion of certain terms in a broker engagement contract. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-051` | Concerning warranty reimbursements made by a motor vehicle manufacturer to motor vehicle dealers. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-052` | Concerning transparency for metropolitan districts. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-054` | Concerning modifications to the operations of a public hospital board of trustees created by a board of county commissioners. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-055` | Concerning a municipal priority lien that a county treasurer is required to accept for collection if a municipality follows a specified procedure. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-057` | Concerning an exemption for mental health professionals from requirements to report information about individuals with a sexually transmitted infection to public health entities. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-058` | Concerning permitting higher education staff to take a sabbatical. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-059` | Concerning insurance contracts for health-care services that involve electronic payments to a health-care provider, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-060` | Concerning modernization of the public airport authority act. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-061` | Concerning requirements for solicitations related to the secretary of state. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-063` | Concerning a requirement that certain persons label disposable wipes. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-065` | Concerning requirements for affidavits of support related to eligibility for public benefits in Colorado. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-066` | Concerning awarding earned time to nonviolent offenders who complete an accredited higher education program. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-067` | Concerning changes to child welfare proceedings. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-071` | Concerning updates to the Colorado state apprenticeship resource directory. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-075` | Concerning policies to be established by the Colorado commission on higher education related to postgraduate student exchange programs. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-077` | Concerning the hourly rate compensation for attorneys who contract with state agencies to provide legal representation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-080` | Concerning a merit system for county employees who provide employment services that are paid for with federal funds pursuant to the federal "Wagner-Peyser Act". | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-084` | Concerning the authority of a metropolitan district to levy a sales tax with voter approval for the purpose of providing parks or recreational facilities or programs. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-085` | Concerning measures to stabilize net metering credits calculated for an electric retail utility's purchase of electric output from a community solar garden. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-087` | Concerning procedures relating to the replacement of elected officials. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-091` | Concerning extending the transitional jobs program. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-094` | Concerning funding to the department of early childhood for the Colorado universal preschool program. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-103` | Concerning the maximum uncommitted reserve that may be retained in the agricultural products inspection cash fund. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-104` | Concerning the cessation of advance payment of premiums for state employee family and medical leave insurance coverage, and, in connection therewith, transferring money from the family and medical leave insurance fund back to the revenue loss restoration cash fund. | 1 | 2023-04-24 to 2023-04-24 |
+| `session-2023-ch-110` | Concerning extension of charter school applications. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-111` | Concerning a requirement that electric load-serving entities periodically report about the adequacy of their electric resources, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-113` | Concerning opportunities for youth involvement in the review of the state's education standards, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-114` | Concerning an expansion of a physician assistant's ability to practice, and, in connection therewith, changing the relationship between a physician assistant and a physician or podiatrist from supervision to collaboration. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-115` | Concerning measures to improve services for students who use substances, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-121` | Concerning measures related to seeking federal authorization for certain immigrants to possess firearms to be a peace officer. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-123` | Concerning increasing the legal age to purchase a firearm to twenty-one years of age, with limited exceptions. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-126` | Concerning continuing human trafficking prevention training, and, in connection therewith, implementing the recommendations contained in the 2022 sunset report by the department of regulatory agencies. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-127` | Concerning the continuation of the sexual misconduct advisory committee, and, in connection therewith, implementing the recommendations in the 2022 sunset report by the department of regulatory agencies. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-128` | Concerning the continuation of the regulation of the custom processing of meat animals, and, in connection therewith, implementing the recommendations in the 2022 sunset report by the department of regulatory agencies. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-129` | Concerning the continuation of the veterans one-stop center in Grand Junction, and, in connection therewith, implementing the recommendations in the 2022 sunset report by the department of regulatory agencies. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-134` | Concerning the operation of automated pharmacy dispensing systems. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-135` | Concerning the timely issuance of a certified death certificate. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-136` | Concerning the enactment of the 2022 amendments to the "Uniform Commercial Code". | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-137` | Concerning the continuation of the issuance of certain tax information to a taxpayer by the department of revenue, and, in connection therewith, implementing the recommendations contained in the 2022 sunset report by the department of regulatory agencies for the issuance of private letter rulings and information letters by the department of revenue and making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-138` | Concerning changes to the state's payroll system to codify current pay periods for state employees. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-140` | Concerning the continuation of the noxious weed advisory committee, and, in connection therewith, implementing the recommendation contained in the 2022 sunset report by the department of regulatory agencies. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-145` | Concerning the discharge of a client from a recovery residence. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-148` | Concerning increasing access to pharmacy services. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-151` | Concerning tenant screening documentation for residential leases. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-155` | Concerning requiring that a health-care facility inform patients as part of the informed consent process of services that the health-care facility refuses to provide to patients when the refusal is for nonmedical reasons, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-156` | Concerning changes to the hospital community benefit, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-157` | Concerning seeking federal authorization for medicaid reimbursement for services provided by a community health worker, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-158` | Concerning prescription drug benefits contract term requirements, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-160` | Concerning the enforcement of requirements imposed on pharmacy benefit managers, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-162` | Concerning the prescription drug affordability board, and, in connection therewith, modifying the affordability review process, allowing the board to establish upper payment limits for an additional number of prescription drugs, clarifying which board functions are subject to judicial review, authorizing an individual to request an independent external review of a denial of a request for benefits for a prescription drug that has been withdrawn from sale or distribution in the state, and extending the repeal date of the board. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-163` | Concerning the public utilities commission's regulation of energy utilities, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-164` | Concerning the streamlined solar permitting and inspection grant program, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-165` | Concerning measures to promote reductions in greenhouse gas emissions in Colorado, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-166` | Concerning the implementation of measures to advance thermal energy service. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-168` | Concerning homeowner's insurance, and, in connection therewith, requiring certain reports related to the cost of reconstructing a home, increasing the notice requirement before an insurer can cancel or refuse to renew a homeowner's insurance policy, creating guaranteed replacement cost coverage in homeowner's insurance, and making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-170` | Concerning fair access to insurance coverage for persons unable to obtain insurance coverage for their real property. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-175` | Concerning the creation of the wildfire resilient homes grant program, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-179` | Concerning the enforcement of safety requirements for intrastate motor vehicle carriers, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-180` | Concerning the continuation of the defense counsel on first appearance grant program, and, in connection therewith, implementing the recommendations in the 2022 sunset report by the department of regulatory agencies and making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-182` | Concerning the correction of a defective date reference to properly reflect the legislative intent that agricultural equipment that is used in any controlled environment agricultural facility be exempt from the property taxation for only five years. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-184` | Concerning creation of a teacher degree apprenticeship program as an alternative route to teacher licensure, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-185` | Concerning updates to the Colorado state forest service seedling tree nursery, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-186` | Concerning creation of a family and community intervener program to support children experiencing deafblindness, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-193` | Concerning relief for crime victims whose motor vehicles have been towed because of the crime, and, in connection therewith, requiring the transportation legislation review committee study the issue and make legislative recommendations. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-194` | Concerning the bridge and tunnel enterprise, and, in connection therewith, expanding the scope of the enterprise's powers to include the completion of preventative maintenance bridge projects and allowing the enterprise to repair, reconstruct, replace, and maintain a fair-rated bridge under certain circumstances. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-196` | Concerning a study regarding workforce transitions to other industries, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-197` | Concerning the creation of a navigator program to promote apprenticeships to high school students, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-198` | Concerning changes to the career development success program, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-200` | Concerning a scholarship program for Colorado high school graduates that prioritizes awards for students pursuing high-priority postsecondary pathways, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-204` | Concerning the continuation of the health equity commission, and, in connection therewith, implementing the recommendation contained in the 2022 sunset report by the department of regulatory agencies. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-205` | Concerning issues related to juvenile competency to proceed, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-209` | Concerning standards for products represented as compostable in the state, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-210` | Concerning a requirement that the commissioner of agriculture designate neonicotinoid pesticides as limited-use pesticides. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-211` | Concerning changes to the advanced industry acceleration programs. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-213` | Concerning the continuation of the offender reentry grant program, and, in connection therewith, implementing the recommendations in the department of regulatory agencies' 2022 sunset report. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-214` | Concerning the continuation of the community crime victims grant program, and, in connection therewith, implementing the recommendations of the 2022 sunset report on the community crime victims grant program by the department of regulatory agencies. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-218` | Concerning opportunities for voluntary emission reductions in agriculture, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-221` | Concerning narrowing admissibility standards for juvenile statements to protect the voluntariness of such statements, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-223` | Concerning providing funding to local governments to support access to state-owned outdoor recreational areas, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-224` | Concerning measures designed to encourage the use of nontoxic bullets for hunting, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-225` | Concerning efforts to remediate risks associated with certain closed landfills, and, in connection therewith, creating the closed landfill remediation grant program, and making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-228` | Concerning the creation of the rural opportunity office in the office of economic development, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-229` | Concerning a requirement that the Colorado energy office conduct studies to assess advanced energy solutions in rural Colorado, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-231` | Concerning the creation of a "Born to Be Wild" special license plate to raise funds for nonlethal means of mitigating conflict with gray wolves, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-232` | Concerning access to behavioral health services for medicaid recipients under twenty-one years of age. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-233` | Concerning changes to the process for a person serving a criminal sentence in Colorado for a conviction in another state to participate in a private treatment program. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-236` | Concerning carbon management, and, in connection therewith, ensuring that carbon management projects are eligible for grants under the industrial and manufacturing operations clean air grant program and providing for the creation of a carbon management roadmap. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-237` | Concerning measures to advance the use of clean hydrogen in the state, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-238` | Concerning the creation of a special license plate to commemorate the stegosaurus as the Colorado state fossil, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-239` | Concerning a statewide teacher externship program to provide kindergarten through twelfth grade teachers work-based learning opportunities in specified disciplines, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-241` | Concerning the income tax credit for a qualifying contribution to promote child care in the state, and, in connection therewith, continuing the credit for three years, requiring the department of revenue to develop recommendations for the expansion of the types of contributions that qualify for the credit, and making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-242` | Concerning the deletion of children's identifying information from criminal justice records released to the public, and, in connection therewith, making an appropriation. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-243` | Concerning family time for grandparents. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-244` | Concerning the expansion of the tax credit for conversion costs for employee business ownership. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-246` | Concerning alternatives in the criminal justice system for pregnant persons. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-251` | CONCERNING UPDATES TO ADMINISTRATIVE STATUTES FOR SPECIFIC ADMINISTRATIVE ENTITIES THAT FOCUS ON HUMAN AND SOCIAL SERVICES. | 1 | 2023-05-24 to 2023-05-24 |
+| `session-2023-ch-252` | CONCERNING A PROHIBITION ON A REGULATOR IMPOSING DISCIPLINE AGAINST A PERSON BASED ON CERTAIN ACTIVITIES INVOLVING MARIJUANA. | 1 | 2023-05-24 to 2023-05-24 |
+| `session-2023-ch-253` | CONCERNING THE CREATION OF "JURY APPRECIATION DAY". | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-254` | CONCERNING A REQUIREMENT THAT CERTAIN PUBLIC BUILDINGS HAVE RESTROOMS WITH AMENITIES FOR ALL GENDERS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-255` | CONCERNING THE CREATION OF TASK FORCES TO EXAMINE ISSUES AFFECTING CERTAIN HOMEOWNERS' RIGHTS, AND, IN CONNECTION THEREWITH, CREATING THE HOA HOMEOWNERS' RIGHTS TASK FORCE AND THE METROPOLITAN DISTRICT HOMEOWNERS' RIGHTS TASK FORCE, AND MAKING AN APPROPRIATION. | 1 | 2023-05-24 to 2023-05-24 |
+| `session-2023-ch-256` | CONCERNING CREATING A TASK FORCE TO STUDY THE STATEWIDE K-12 EDUCATION ACCOUNTABILITY SYSTEM IN ORDER TO ADDRESS RESOURCE INEQUITIES CONTRIBUTING TO STUDENT PERFORMANCE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-24 to 2023-05-24 |
+| `session-2023-ch-257` | CONCERNING THE CREATION OF AN IDENTICAL REFUND PAYMENT OF EXCESS STATE REVENUES FROM ALL SOURCES AS A MECHANISM TO REFUND A PORTION OF THE EXCESS STATE REVENUES FOR THE 2022-23 STATE FISCAL YEAR ONLY. | 1 | 2023-05-24 to 2023-05-24 |
+| `session-2023-ch-259` | CONCERNING CHANGES TO PROPERTY TAX VALUATION PRACTICES, AND, IN CONNECTION THEREWITH, REQUIRING PROPERTY TAX ASSESSORS TO CONSIDER CERTAIN INFORMATION WHEN VALUING REAL PROPERTY, REQUIRING CERTAIN COUNTIES USE AN ALTERNATIVE PROTEST AND APPEAL PROCEDURE IN ANY YEAR OF GENERAL REASSESSMENT OF REAL PROPERTY THAT IS VALUED BIENNIALLY, AND CLARIFYING THAT DATA THAT A PROPERTY TAX ASSESSOR IS REQUIRED TO PROVIDE AT THE REQUEST OF A TAXPAYER MUST INCLUDE CERTAIN INFORMATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-260` | CONCERNING CERTAIN LOW-INCOME HOUSING PROPERTY THAT IS DEEMED TO BE USED FOR A STRICTLY CHARITABLE PURPOSE, AND, IN CONNECTION THEREWITH, CLARIFYING AND EXPANDING THE PROPERTY TAX EXEMPTION FOR PROPERTY ACQUIRED BY NONPROFIT HOUSING PROVIDERS FOR A STRICTLY CHARITABLE LOW-INCOME HOUSING PURPOSE AND CREATING A PROPERTY TAX EXEMPTION FOR PROPERTY HELD BY COMMUNITY LAND TRUSTS OR NONPROFIT AFFORDABLE HOMEOWNERSHIP DEVELOPERS AND USED FOR A STRICTLY CHARITABLE PURPOSE. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-262` | CONCERNING A REQUIREMENT TO OBTAIN A PATIENT'S INFORMED CONSENT BEFORE PERFORMING AN INTIMATE EXAMINATION OF THE PATIENT UNDER SPECIFIED CIRCUMSTANCES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-263` | CONCERNING MEASURES TO PROVIDE ADDITIONAL ACCESS TO SERVICES FOR VICTIMS OF SEXUAL ASSAULT, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-25 to 2023-05-25 |
+| `session-2023-ch-264` | CONCERNING FUNDING FOR CRIME VICTIM SERVICES. | 1 | 2023-05-25 to 2023-05-25 |
+| `session-2023-ch-265` | CONCERNING THE CREATION OF A TASK FORCE TO STUDY VICTIM AND SURVIVOR AWARENESS AND RESPONSIVENESS TRAINING REQUIREMENTS FOR JUDICIAL PERSONNEL, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-25 to 2023-05-25 |
+| `session-2023-ch-268` | CONCERNING HEALTH INSURANCE COVERAGE FOR A PROSTHETIC DEVICE NECESSARY FOR A COVERED PERSON TO ENGAGE IN CERTAIN TYPES OF ACTIVITIES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-269` | CONCERNING THE CREATION OF A TASK FORCE TO STUDY ISSUES RELATED TO THE RIGHTS OF COLORADANS WITH DISABILITIES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-25 to 2023-05-25 |
+| `session-2023-ch-271` | CONCERNING CIVIL ACTION REMEDY PROVISIONS FOR CIVIL RIGHTS VIOLATIONS OF PERSONS WITH DISABILITIES. | 1 | 2023-05-25 to 2023-05-25 |
+| `session-2023-ch-272` | CONCERNING LEGAL REPRESENTATION IN DUE PROCESS COMPLAINT HEARINGS FOR THE PARENTS OF A STUDENT WHO MAY BE ELIGIBLE FOR SPECIAL EDUCATION SERVICES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-25 to 2023-05-25 |
+| `session-2023-ch-273` | CONCERNING TRANSLATING INDIVIDUALIZED EDUCATION PROGRAMS FOR CHILDREN WHO MAY BE ELIGIBLE FOR SPECIAL EDUCATION SERVICES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-274` | CONCERNING ESTABLISHING THE DISORDERED EATING PREVENTION PROGRAM IN THE DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-276` | CONCERNING REQUIREMENTS FOR CONTRACEPTION INSURANCE COVERAGE THAT INCREASES CONSISTENT ACCESS TO THE CONTRACEPTION MOST SUITED TO THE INDIVIDUAL. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-277` | CONCERNING LIMITATIONS ON HOSPITAL FACILITY FEES, AND, IN CONNECTION THEREWITH, MAKING AND REDUCING AN APPROPRIATION. | 1 | 2023-05-30 to 2023-05-30 |
+| `session-2023-ch-278` | CONCERNING NURSING FACILITY REIMBURSEMENT RATE SETTING, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-30 to 2023-05-30 |
+| `session-2023-ch-279` | CONCERNING MEASURES TO DETERMINE COVERAGE FOR DOULA SERVICES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-30 to 2023-05-30 |
+| `session-2023-ch-280` | CONCERNING AN EXTENSION OF THE INCOME TAX CREDIT FOR RETROFITTING A RESIDENCE TO INCREASE THE RESIDENCE'S VISITABILITY. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-281` | CONCERNING REQUIRING THE DEPARTMENT OF HEALTH CARE POLICY AND FINANCING TO ENGAGE IN A STAKEHOLDER PROCESS TO ADDRESS THE OVERSIGHT OF HOST HOME PROVIDERS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-30 to 2023-05-30 |
+| `session-2023-ch-283` | CONCERNING A FEASIBILITY STUDY TO DETERMINE PATHWAYS TO BEHAVIORAL HEALTH CARE FOR PEOPLE WITH SERIOUS MENTAL ILLNESS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-05-30 to 2023-05-30 |
+| `session-2023-ch-285` | CONCERNING ENVIRONMENTAL STANDARDS FOR CERTAIN PRODUCTS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-286` | CONCERNING THE REGULATION OF CONSUMER LEGAL FUNDING TRANSACTIONS, AND, IN CONNECTION THEREWITH, AUTHORIZING THE ADMINISTRATOR OF THE "UNIFORM CONSUMER CREDIT CODE" TO ADOPT RULES REGULATING CREDITOR-IMPOSED CHARGES FOR CERTAIN CONSUMER CREDIT TRANSACTIONS THAT ARE SECURED BY A CONSUMER'S POTENTIAL PROCEEDS FROM A SETTLEMENT OR JUDGMENT OBTAINED IN AN ASSOCIATED LEGAL CLAIM. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-287` | CONCERNING MEASURES TO IMPROVE OUTCOMES FOR YOUNG CHILDREN BY REPLACING JUSTICE INVOLVEMENT WITH COMMUNITY-BASED SERVICES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-288` | CONCERNING THE CREATION OF THE URGENT INCIDENT RESPONSE FUND FOR THE PURPOSE OF REIMBURSING CERTAIN GOVERNMENTAL ENTITIES FOR THE COSTS OF RESPONDING TO URGENT INCIDENTS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-291` | CONCERNING MEASURES PERMITTING PARTIES TO CERTAIN LEGAL RELATIONSHIPS TO SATISFY CERTAIN REQUIREMENTS WITHOUT HAVING TO APPEAR IN PERSON. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-292` | CONCERNING THE ABILITY OF A LICENSED RETAIL MARIJUANA STORE TO SELL RETAIL MARIJUANA TO A PERSON WHO IS NOT PHYSICALLY PRESENT ON THE STORE'S LICENSED PREMISES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-293` | CONCERNING THE TRANSFER OF THE COLORADO REFUGEE SERVICES PROGRAM FROM THE DEPARTMENT OF HUMAN SERVICES TO THE OFFICE OF NEW AMERICANS IN THE DEPARTMENT OF LABOR AND EMPLOYMENT, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2024-10-01 to 2024-10-01 |
+| `session-2023-ch-294` | CONCERNING MODIFICATIONS TO THE PROPERTY TAX DEFERRAL PROGRAM. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-295` | CONCERNING THE REQUIREMENT THAT A STORE USE FEES COLLECTED FROM SINGLE-USE BAGS TO PURCHASE CERTAIN ITEMS FOR THE STORE. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-296` | CONCERNING PROCEDURES FOR EXPULSION HEARING OFFICERS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-299` | CONCERNING THE REVIEW OF PAYMENTS MADE BY THE DEPARTMENT OF HEALTH CARE POLICY AND FINANCING TO PROVIDERS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-300` | CONCERNING THE DATE UPON WHICH THE DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT MUST BEGIN PROVIDING REIMBURSEMENTS TO CERTAIN PUBLIC SCHOOLS FOR COSTS ASSOCIATED WITH TESTING THE LEAD CONTENT OF DRINKING WATER. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-301` | CONCERNING THE JUSTICE REINVESTMENT CRIME PREVENTION INITIATIVE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-302` | CONCERNING EXTENDING CONTINUOUS ELIGIBILITY MEDICAL COVERAGE FOR CERTAIN INDIVIDUALS, AND, IN CONNECTION THEREWITH, SEEKING FEDERAL AUTHORIZATION AND MAKING AN APPROPRIATION. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-304` | CONCERNING THE PROGRAM TO PROVIDE THE CONTINUATION OF HEALTH BENEFITS FOR DEPENDENTS OF CERTAIN LOCAL GOVERNMENT PUBLIC SAFETY EMPLOYEES WHO DIE IN A WORK-RELATED DEATH, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-01 to 2023-06-01 |
+| `session-2023-ch-305` | CONCERNING HOSPITAL MEDICAL PRICE TRANSPARENCY. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-306` | CONCERNING TRANSPARENCY REQUIREMENTS FOR HOSPITALS, AND, IN CONNECTION THEREWITH, CREATING MORE TIMELY SUBMISSIONS OF DATA; PROVIDING INSIGHTS INTO TRANSFERS OF CASH AND PROFITS AND RESERVES, INCLUDING THOSE LEAVING COLORADO; REPORTING ON ALL INFORMATION RECEIVED; REPORTING INFORMATION BY EACH HOSPITAL IN ADDITION TO HEALTH SYSTEMS; DISCLOSING EXECUTIVE COMPENSATION, INCLUDING COMPENSATED INCENTIVES; REPORTING MERGERS AND ACQUISITIONS OF HOSPITALS AND PHYSICIANS; REPORTING INVESTMENTS IN CAPITAL EQUIPMENT AND CONSTRUCTION; AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-307` | CONCERNING VICTIM NOTIFICATION MATTERS RELATED TO CRIMINAL PROCEEDINGS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-308` | CONCERNING THE CODIFICATION OF THE COLORADO ACCESS TO JUSTICE COMMISSION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-310` | CONCERNING FUNDING FOR AUTO THEFT PREVENTION PROGRAMS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-312` | CONCERNING ENHANCING ADULT EDUCATION IN COLORADO, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-313` | CONCERNING THE ADDITION OF QUALIFYING USES OF PAID SICK LEAVE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-314` | CONCERNING THE CREATION OF THE "IN GOD WE TRUST" LICENSE PLATE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-315` | CONCERNING ADDRESSING DISPROPORTIONATE DISCIPLINE IN PUBLIC SCHOOLS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-317` | CONCERNING THE OPERATION OF THE MIDDLE-INCOME HOUSING AUTHORITY, AND, IN CONNECTION THEREWITH, ADDING MEMBERS TO THE BOARD OF DIRECTORS, EXPANDING THE POWER OF THE AUTHORITY TO ENTER INTO PUBLIC-PRIVATE PARTNERSHIPS, AND MAKING AN APPROPRIATION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-318` | CONCERNING UPDATES TO THE VETERINARY EDUCATION LOAN REPAYMENT PROGRAM. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-319` | CONCERNING THE REGISTRATION EXEMPTION FOR SPECIAL MOBILE MACHINERY, AND, IN CONNECTION THEREWITH, ELIMINATING THE REQUIREMENT THAT AN OWNER OF SUCH MACHINERY REGULARLY HAVE AT LEAST ONE THOUSAND ITEMS OF SUCH MACHINERY IN THE STATE TO OBTAIN A REGISTRATION EXEMPT CERTIFICATE FOR THE MACHINERY AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-321` | CONCERNING THE DUTIES OF THE OFFICE OF LIAISON FOR MISSING AND MURDERED INDIGENOUS RELATIVES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-322` | CONCERNING A REQUIREMENT THAT THE STATE MAKE A DIRECT DISTRIBUTION TO THE PUBLIC EMPLOYEES' RETIREMENT ASSOCIATION IN ADDITION TO A PREVIOUS ADDITIONAL DIRECT DISTRIBUTION TO RECOMPENSE THE ASSOCIATION FOR THE CANCELLATION OF THE JULY 1, 2020, DIRECT DISTRIBUTION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-323` | CONCERNING REQUIRED DISCLOSURES OF AGE-RELATED INFORMATION ON JOB APPLICATIONS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-324` | CONCERNING A RECIDIVISM REDUCTION PROGRAM FOR PERSONS SENTENCED TO THE DEPARTMENT OF CORRECTIONS FACILITATED BY PROGRAM PARTICIPANTS IN PARTNERSHIP WITH DEPARTMENT OF CORRECTIONS STAFF, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-325` | CONCERNING THE CONTINUATION OF THE COLORADO YOUTH ADVISORY COUNCIL, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-328` | CONCERNING THE CONTINUATION OF THE COLORADO FOOD SYSTEMS ADVISORY COUNCIL, AND, IN CONNECTION THEREWITH, EXTENDING THE SUNSET DATE BY THREE YEARS AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-329` | CONCERNING THE CONTINUATION OF THE REGULATION OF RACING, AND, IN CONNECTION THEREWITH, CONTINUING THE DIVISION OF RACING EVENTS IN THE DEPARTMENT OF REVENUE, CONTINUING THE ACTIVITIES OF THE COLORADO RACING COMMISSION, AND IMPLEMENTING RECOMMENDATIONS CONTAINED IN THE 2022 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY AGENCIES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-331` | CONCERNING THE USE OF TAX INCREMENT FINANCING BY DOWNTOWN DEVELOPMENT AUTHORITIES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-332` | CONCERNING INSURANCE CARRIER REQUIREMENTS FOR HEALTH COVERAGE PLANS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-333` | CONCERNING METHANE SEEPAGE IN THE RATON BASIN OF COLORADO, AND, IN CONNECTION THEREWITH, REQUIRING THE COLORADO OIL AND GAS CONSERVATION COMMISSION TO COMPLETE A STUDY AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-334` | CONCERNING CONSOLIDATING DUTIES UNDER THE AUTHORIZATION PROCESS FOR COLORADO EDUCATOR PREPARATION PROGRAMS FROM THE DEPARTMENT OF HIGHER EDUCATION TO THE DEPARTMENT OF EDUCATION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-335` | CONCERNING THE ESTABLISHMENT OF LUNAR NEW YEAR DAY AS AN OBSERVED STATE HOLIDAY. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-336` | CONCERNING CREATING A BONUS PAYMENT PROGRAM TO INCENTIVIZE COLORADO PRESCHOOL PROVIDERS TO PARTICIPATE IN THE COLORADO UNIVERSAL PRESCHOOL PROGRAM, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-337` | CONCERNING THE REFERRAL OF A BALLOT ISSUE RELATED TO THE UNDERESTIMATION OF REVENUE FROM THE TAXES ON PRODUCTS THAT CONTAIN NICOTINE IN A REQUIRED NOTICE TO VOTERS, AND, IN CONNECTION THEREWITH, REFERRING A BALLOT ISSUE TO THE VOTERS TO ALLOW THE STATE TO RETAIN AND SPEND STATE REVENUES THAT WOULD OTHERWISE NEED TO BE REFUNDED FOR EXCEEDING THE ESTIMATE IN THE BALLOT INFORMATION BOOKLET ANALYSIS FOR PROPOSITION EE AND TO ALLOW THE STATE TO MAINTAIN THE TAX RATES ON CIGARETTES, TOBACCO PRODUCTS, AND NICOTINE PRODUCTS ESTABLISHED IN PROPOSITION EE THAT WOULD OTHERWISE NEED TO BE DECREASED. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-338` | CONCERNING TAX POLICIES RELATED TO THE ACCESSIBILITY OF FOOD, AND, IN CONNECTION THEREWITH, REQUIRING ADDITIONS TO COLORADO TAXABLE INCOME IN AMOUNTS EQUAL TO THE BUSINESS MEALS FEDERAL ITEMIZED DEDUCTION, CREATING A TAX CREDIT TO SUPPORT THE SMALL BUSINESS RECOVERY AND RESILIENCE GRANT PROGRAM, PROVIDING FUNDING FOR HEALTHY EATING PROGRAM INCENTIVES, AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-340` | CONCERNING PERMITTING A RETAIL ESTABLISHMENT TO SERVE COMPLIMENTARY ALCOHOL BEVERAGES AT A PLACE OF BUSINESS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-341` | CONCERNING CHANGES TO MONETARY PENALTIES FOR THE OFFENSE OF CRUELTY TO ANIMALS FOR WORKING ANIMALS THAT ARE USED IN CONNECTION WITH GOVERNMENTAL ENTITIES. | 1 | 2023-06-02 to 2023-06-02 |
+| `session-2023-ch-342` | CONCERNING A STUDY REGARDING THE ECONOMIC IMPACT OF THE ELIMINATION OF LARGE-CAPACITY GROUNDWATER WITHDRAWAL WITHIN THE REPUBLICAN RIVER BASIN, AND, IN CONNECTION THEREWITH, REQUIRING THE COLORADO WATER CENTER TO CONDUCT THE STUDY AND REPORT ITS FINDINGS AND CONCLUSIONS TO CERTAIN LEGISLATIVE COMMITTEES AND MAKING AN APPROPRIATION. | 1 | 2023-06-03 to 2023-06-03 |
+| `session-2023-ch-343` | CONCERNING ALLOWING CERTAIN PUBLIC HOSPITALS TO IMPROVE ACCESS TO HEALTH CARE THROUGH COLLABORATION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-344` | CONCERNING IMPROVING OLDER COLORADANS' ACCESS TO TRAINED GERIATRIC SPECIALIST HEALTH-CARE PROVIDERS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-346` | CONCERNING CREATION OF THE COLORADO FOSTERING SUCCESS VOUCHER PROGRAM TO ASSIST FOSTER YOUTH, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-348` | CONCERNING TEMPORARY REDUCTIONS IN PROPERTY TAXES DUE. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-349` | CONCERNING THE CONTINUATION OF THE SEX OFFENDER MANAGEMENT BOARD, AND, IN CONNECTION THEREWITH, IMPLEMENTING THE RECOMMENDATIONS CONTAINED IN THE 2022 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY AGENCIES AND MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-350` | CONCERNING THE CONTINUATION OF THE "PESTICIDE APPLICATORS' ACT", AND, IN CONNECTION THEREWITH, IMPLEMENTING RECOMMENDATIONS CONTAINED IN THE 2022 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY AGENCIES REGARDING THE ACT, AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-352` | CONCERNING THE VERIFICATION OF CLEAN ENERGY PLANS TO ENSURE THAT THE PLANS ACHIEVE THE STATE'S GREENHOUSE GAS EMISSION REDUCTION TARGETS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-355` | CONCERNING THE AUTHORITY OF THE OFFICE OF THE INSPECTOR GENERAL IN THE DEPARTMENT OF CORRECTIONS TO APPREHEND FUGITIVES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-357` | CONCERNING MODIFICATIONS TO CERTAIN TAX STATUTES TO CORRECT DEFECTIVE CROSS REFERENCES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-358` | CONCERNING THE CREATION OF A SEABEES LICENSE PLATE TO HONOR THE SEABEES TRADITION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-359` | CONCERNING THE ESTABLISHMENT OF THE DIVISION OF CIVIL PROTECTIONS AND RIGHTS IN THE DEPARTMENT OF LAW. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-360` | CONCERNING CONSUMER PROTECTION IN CERTAIN CREDIT TRANSACTIONS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-361` | CONCERNING A REQUIREMENT THAT THE ATTORNEY GENERAL REPRESENT THE DEPARTMENT OF REVENUE IN ALL DRIVER'S LICENSE AND STATE IDENTIFICATION CARD APPEALS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-362` | CONCERNING THE CREATION OF THE DIRECT CARE WORKFORCE STABILIZATION BOARD TO DEVELOP RECOMMENDATIONS REGARDING DIRECT CARE WORKERS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-363` | CONCERNING THE CREATION OF THE "SIXTH THROUGH TWELFTH GRADE MENTAL HEALTH SCREENING ACT", AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-364` | CONCERNING MEASURES TO REGULATE THE USE OF RESTRICTIVE PRACTICES ON INDIVIDUALS IN CORRECTIONAL FACILITIES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-365` | CONCERNING IMPROVEMENTS TO THE ELECTRONIC SALES AND USE TAX SIMPLIFICATION SYSTEM, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-366` | CONCERNING JUDICIAL DISCIPLINE, AND, IN CONNECTION THEREWITH, ENSURING COMPLAINANT RIGHTS IN JUDICIAL DISCIPLINE PROCEEDINGS AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-367` | CONCERNING MEASURES TO INCREASE FAMILY RESILIENCY THROUGH PROVIDING GREATER SUPPORTS AND PROTECTIONS FOR CHILDREN PLACED WITH KIN, INCLUDING RELATIVES, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-368` | CONCERNING DELINEATOR POSTS ON A TWO-LANE STATE HIGHWAY. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-369` | CONCERNING MODERNIZING RECORD KEEPING BY THE STATE ARCHIVES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-370` | CONCERNING WORKERS' COMPENSATION, AND, IN CONNECTION THEREWITH, INCREASING THE DURATION OF BENEFITS BASED ON MENTAL IMPAIRMENT, REMOVING THE AUTHORITY TO PETITION OVER ARTIFICIAL DEVICES, ALLOWING AN EMPLOYEE TO REQUEST A HEARING ON THE LOSS OF TOTAL TEMPORARY DISABILITY BENEFITS UNDER CERTAIN CIRCUMSTANCES, UPDATING PROVISIONS RELATED TO INDEPENDENT MEDICAL EXAMINATIONS, INCREASING THE AMOUNT OF ATTORNEY FEES THAT ARE PRESUMED UNREASONABLE, AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-371` | CONCERNING THE CONTINUATION OF THE INCOME TAX DEDUCTION FOR MILITARY RETIREMENT BENEFITS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-373` | CONCERNING THE HIGH-VISIBILITY ALCOHOL AND DRUG IMPAIRED DRIVING ENFORCEMENT PROGRAM. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-375` | CONCERNING CHANGES TO CONSUMER LENDING LAWS TO LIMIT CHARGES TO CONSUMERS. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-376` | CONCERNING WATER QUALITY IN MOBILE HOME PARKS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-377` | CONCERNING EFFORTS TO PROMOTE CLINICAL STABILIZATION FOR YOUTH INVOLVED IN THE BEHAVIORAL HEALTH SYSTEM, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-378` | CONCERNING THE USE OF SOCIAL MEDIA ADMINISTERED BY AN ELECTED OFFICIAL THAT IS NOT SUPPORTED BY GOVERNMENT RESOURCES, AND, IN CONNECTION THEREWITH, ALLOWING AN ELECTED OFFICIAL TO RESTRICT OR BAR AN INDIVIDUAL FROM USING THE SOCIAL MEDIA ADMINISTERED BY THE ELECTED OFFICIAL FOR ANY REASON INCLUDING ATTEMPTING TO CHILL THE SPEECH OF ANOTHER INDIVIDUAL. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-379` | CONCERNING THE RESTRUCTURING OF THE PERFORMANCE-BASED INCENTIVE FOR FILM PRODUCTION IN COLORADO, AND, IN CONNECTION THEREWITH, REDUCING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-380` | CONCERNING A COUNTY'S REGULATORY AUTHORITY RELATED TO SHORT-TERM RENTALS OF LODGING UNITS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-381` | CONCERNING MODIFICATIONS TO THE AFFORDABLE HOUSING PROGRAMS CREATED BY THE VOTERS' APPROVAL OF PROPOSITION 123. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-383` | CONCERNING THE FUNDING OF COLORADO WATER CONSERVATION BOARD PROJECTS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-384` | CONCERNING ACTIVITIES THAT RESTORE THE ENVIRONMENTAL HEALTH OF NATURAL STREAM SYSTEMS WITHOUT ADMINISTRATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-385` | CONCERNING AN APPROPRIATION FOR SPECIES CONSERVATION TRUST FUND PROJECTS. | 1 | 2023-06-05 to 2023-06-05 |
+| `session-2023-ch-386` | CONCERNING THE CLASSIFICATION OF CERTAIN EMPLOYEES OF THE DIVISION OF PARKS AND WILDLIFE WHO ARE CERTIFIED BY THE PEACE OFFICERS STANDARDS AND TRAINING BOARD AS STATE TROOPERS FOR THE PURPOSE OF DETERMINING PUBLIC EMPLOYEES' RETIREMENT ASSOCIATION SERVICE RETIREMENT ELIGIBILITY AND BENEFITS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-387` | CONCERNING A COLORADO DEPARTMENT OF EDUCATION PARTNERSHIP WITH A NONPROFIT ENTITY TO CREATE A PROGRAM FOR ADULT EDUCATION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-388` | CONCERNING THE CREATION OF A PROGRAM TO PROVIDE HIGHER EDUCATION FINANCIAL ASSISTANCE TO STUDENTS WHO PERFORM YOUTH MENTORSHIP, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-390` | CONCERNING PROTECTIONS FOR STUDENTS AGAINST DISCRIMINATORY PRACTICES AT SCHOOL. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-391` | CONCERNING THE PENALTY FOR COMMITTING ANY OF CERTAIN OFFENSES INVOLVING THE OPERATION OF A COMMERCIAL VEHICLE. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-392` | CONCERNING AN OFFENDER'S ELIGIBILITY FOR RELEASE FROM CONFINEMENT. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-393` | CONCERNING PUBLIC EMPLOYEES' WORKPLACE PROTECTION FROM EMPLOYER RETALIATION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-394` | CONCERNING REQUIREMENTS FOR PRESCRIPTION DRUG COVERAGE FOR SERIOUS MENTAL ILLNESS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-395` | CONCERNING ENTRY INTO A DWELLING BY A PEACE OFFICER. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-396` | CONCERNING A LOAN FROM THE GENERAL FUND TO THE NATURAL DISASTER MITIGATION ENTERPRISE TO DEFRAY EXPENSES INCURRED BEFORE THE RECEIPT OF FEE REVENUE OR REVENUE BOND PROCEEDS. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-397` | CONCERNING A WATER QUALITY FEE TO BE PAID FOR ADMISSION TO CHATFIELD STATE PARK, AND, IN CONNECTION THEREWITH, REQUIRING THE DIVISION OF PARKS AND WILDLIFE TO COLLECT THE FEE AND TRANSFER THE AMOUNT OF THE FEE TO THE CHATFIELD WATERSHED AUTHORITY. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-398` | CONCERNING THE PROVISION OF INFORMATION REGARDING THE TEN-YEAR TRANSPORTATION PLAN. | 1 | 2023-09-01 to 2023-09-01 |
+| `session-2023-ch-400` | CONCERNING A MODIFICATION TO THE REQUIREMENT THAT A PORTION OF EVERY CAPITAL CONSTRUCTION APPROPRIATION BE ALLOCATED FOR THE ACQUISITION OF WORKS OF ART. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-401` | CONCERNING MEASURES TO PROTECT COMMUNITIES FROM POLLUTION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-403` | CONCERNING A JOINT LEGISLATIVE COMMITTEE MEETING ABOUT A DISASTER EMERGENCY DECLARATION BY THE GOVERNOR. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-404` | CONCERNING THE MITIGATION OF CERTAIN TRANSPORTATION-RELATED ENVIRONMENTAL HAZARDS, AND, IN CONNECTION THEREWITH, CREATING THE FUELS IMPACT ENTERPRISE TO ADMINISTER PROGRAMS AND IMPOSE FEES THAT ARE RELATED TO THE TRANSPORTATION OF FUEL WITHIN THE STATE, MODIFYING THE FEE COLLECTED FOR THE DISTRIBUTION TO THE PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES CASH FUND, MODIFYING THE PETROLEUM STORAGE TANK FUND, ALLOWING THE COLORADO STATE PATROL TO CONFORM HAZARD MATERIALS ROUTING REGULATIONS TO TRANSPORTATION COMMISSION RULES, AND MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-405` | CONCERNING A REQUIRED NOTICE OF LIMITED TRANSFERABILITY OF COLLEGE CREDITS FROM A NON-REGIONALLY-ACCREDITED HIGHER EDUCATION INSTITUTION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-406` | CONCERNING IMPROVING PUBLIC ACCESS TO GOVERNMENT RECORDS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-407` | CONCERNING COMPENSATION OF A STUDENT ATHLETE FOR USE OF THE STUDENT ATHLETE'S NAME, IMAGE, OR LIKENESS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-408` | CONCERNING INCREASES IN THE AMOUNT OF TRANSFERS FROM THE GENERAL FUND TO THE CAPITAL CONSTRUCTION FUND TO BE MADE ON JULY 1, 2023. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-409` | CONCERNING THE EXPANSION OF THE AMERICA 250 - COLORADO 150 COMMISSION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-410` | CONCERNING THE REQUIREMENT TO ACQUIRE EPINEPHRINE AUTO-INJECTORS FOR PLACEMENT AT INSTITUTIONS OF HIGHER EDUCATION. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-411` | CONCERNING CHANGES TO THE COLORADO VETERANS' SERVICE-TO-CAREER PROGRAM. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-412` | CONCERNING STATE CAPITAL ASSETS, AND, IN CONNECTION THEREWITH, DETERMINING OFFICE SPACE FOR THE LEGISLATIVE DEPARTMENT IN THE CAPITOL COMPLEX, SPECIFYING ADDITIONAL SOURCES OF FUNDING AND MODIFYING THE TIMING OF THE FUNDING FOR CERTAIN CAPITAL CONSTRUCTION PROJECTS FOR STATE-OWNED BUILDINGS, AND MAKING AN APPROPRIATION. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-413` | CONCERNING RESTRICTIONS ON GOVERNMENTAL PARTICIPATION IN CIVIL IMMIGRATION DETENTION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-414` | CONCERNING EVICTION PROTECTIONS FOR RESIDENTIAL TENANTS WHO RECEIVE PUBLIC ASSISTANCE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-06 to 2023-06-06 |
+| `session-2023-ch-415` | CONCERNING REMOTE PARTICIPATION IN A RESIDENTIAL EVICTION FILED IN COUNTY COURT, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-416` | CONCERNING PET ANIMAL OWNERSHIP IN HOUSING, AND, IN CONNECTION THEREWITH, PROHIBITING RESTRICTIONS ON DOG BREEDS FOR OBTAINING HOMEOWNER'S INSURANCE, PROVIDING FOR THE MANNER IN WHICH PET ANIMALS ARE HANDLED WHEN A WRIT OF RESTITUTION IS EXECUTED, LIMITING SECURITY DEPOSITS AND RENT FOR PET ANIMALS, AND EXCLUDING PET ANIMALS FROM PERSONAL PROPERTY LIENS. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-418` | CONCERNING FALSE REPORTING OF AN EMERGENCY. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-420` | CONCERNING THE COURT DATA-SHARING TASK FORCE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-421` | CONCERNING THE COST OF COMMUNICATIONS SERVICES FOR PERSONS IN CUSTODY, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-422` | CONCERNING THE OFFENSE CLASSIFICATION FOR INDECENT EXPOSURE IN VIEW OF A MINOR, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-424` | CONCERNING THE CREATION OF THE COLORADO COMMODITY SUPPLEMENTAL FOOD GRANT PROGRAM, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-426` | CONCERNING A REQUIREMENT FOR REMOTE PUBLIC ACCESS TO OBSERVE CRIMINAL COURT PROCEEDINGS. | 1 | 2023-09-01 to 2023-09-01 |
+| `session-2023-ch-427` | CONCERNING THE CREATION OF ADDITIONAL PROTECTIONS IN THE CONSUMER CODE. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-429` | CONCERNING IMPROVED OUTCOMES FOR PERSONS WITH BEHAVIORAL HEALTH DISORDERS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-430` | CONCERNING THE CREATION OF THE OFFICE OF THE JUDICIAL DISCIPLINE OMBUDSMAN, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-431` | CONCERNING MEASURES TO PROMOTE SAFETY IN THE DISTRIBUTION OF NATURAL GAS. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-432` | CONCERNING A CORRECTION TO THE COLORADO REVISED STATUTES TO ENSURE THAT THE ATTORNEY GENERAL'S POWERS AND DUTIES INCLUDE CONCURRENT JURISDICTION WITH THE RELEVANT DISTRICT ATTORNEY OVER THE REGULATION OF ARCHITECTS. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-433` | CONCERNING THE CREATION OF A TASK FORCE TO ESTABLISH SHARED GUIDANCE FOR ENTITIES TO UTILIZE IN PRIORITIZING GRANT MONEY TO ACHIEVE MAXIMUM IMPACT TO REDUCE NEGATIVE OUTCOMES FOR YOUTH, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-434` | CONCERNING TECHNICAL MODIFICATIONS TO THE DEPARTMENT OF EARLY CHILDHOOD. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-435` | CONCERNING WATER USED IN OIL AND GAS OPERATIONS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-436` | CONCERNING THE TRANSFER OF THE REGIONAL HEALTH CONNECTOR PROGRAM FROM THE UNIVERSITY OF COLORADO SCHOOL OF MEDICINE TO THE PREVENTION SERVICES DIVISION IN THE DEPARTMENT OF PUBLIC HEALTH AND ENVIRONMENT, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-437` | CONCERNING THE REPEAL OF OBSOLETE PROVISIONS IN TITLE 39 OF THE COLORADO REVISED STATUTES. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-438` | CONCERNING A TASK FORCE TO STUDY CORPORATE OWNERSHIP OF HOUSING IN COLORADO, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-439` | CONCERNING ALLOWING A STUDENT TO RECEIVE AN ASSOCIATE DEGREE FROM THE COLORADO RE-ENGAGED INITIATIVE AFTER EARNING A CERTAIN NUMBER OF CREDIT HOURS FROM A DIFFERENT INSTITUTION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-440` | CONCERNING THE SUSPENSION OF A REVERSE MORTGAGE FROM THE REPAYMENT REQUIREMENT WHEN A FORCE MAJEURE RENDERS THE SUBJECT PROPERTY UNINHABITABLE AS A PRINCIPAL RESIDENCE. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-441` | CONCERNING PROHIBITING A CORPORATION FROM ISSUING A SCRIP IN BEARER FORM UPON THE HOLDER SURRENDERING ENOUGH SCRIP TO EQUAL A FULL SHARE. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-442` | CONCERNING ENHANCED SUPPORTS FOR YOUTH WHO ARE IN DETENTION, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-443` | CONCERNING MEASURES TO PROVIDE RESOURCES TO INCREASE PUBLIC SAFETY, AND, IN CONNECTION THEREWITH, EXTENDING RELATED EXISTING APPROPRIATIONS. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-444` | CONCERNING THE REGULATION OF COMPOUNDS THAT ARE RELATED TO CANNABINOIDS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-06-07 to 2023-06-07 |
+| `session-2023-ch-445` | CONCERNING THE ENLARGEMENT OF CERTAIN INCOME TAX CREDITS FOR LOW- AND MIDDLE-INCOME WORKING INDIVIDUALS OR FAMILIES, AND, IN CONNECTION THEREWITH, REDUCING STATE INCOME TAX REVENUE BY INCREASING THE EARNED INCOME TAX CREDIT AND RESTRUCTURING THE CHILD TAX CREDIT TO ALLOW ALL LOW-INCOME TAXPAYERS WITH INCOME BELOW CERTAIN THRESHOLDS TO CLAIM THE CREDIT. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-446` | CONCERNING AN INCOME TAX CREDIT FOR EMPLOYER ASSISTANCE TO EMPLOYEES IN MAKING A HOME PURCHASE. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-447` | CONCERNING THE AFFORDABILITY OF EPINEPHRINE AUTO-INJECTORS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-448` | CONCERNING PREEMPTION OF LOCAL REGULATIONS LIMITING THE NUMBER OF BUILDING PERMITS ISSUED FOR DEVELOPMENT. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-449` | CONCERNING THE PAYMENT OF THE EXPENSES OF THE LEGISLATIVE DEPARTMENT. | 1 | 2023-04-17 to 2023-04-17 |
 
-The build made 173 commits:
+The build made 454 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 169 | first version of an act |
+| 450 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 123 laws in the record.
-- 293 tags.
+- 404 laws in the record.
+- 855 tags.
 
 ## Dates
 
@@ -259,15 +543,15 @@ When a law gives no date of its own, the default rule applies: Colo. Const. art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c67cf725e78465d28ce654b7164d3a11c68cd8bbbc45b10f469a2965c7e64730` (73532848 bytes).
+- Corpus: sha256 `96853a6d0e4b1bb3ad14cea8384546654def8ef65ddd8dab3f172410e5ca5bd8` (77571592 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-170 versions of 169 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 170 history commits and 293 tags (history tip `ab4003f7ef67e222b5e811992307f0ad0e3faac9`).
+No second build of this corpus has been compared yet.
 
 ## Decisions made by hand
 
@@ -323,6 +607,8 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - C.R.S. section 16-8.5-103 is restored verbatim from the OLLS CRS 2022 Title 16 ODT; its latest source-noted amendment took effect July 1, 2022; the published title snapshot is dated August 10, 2022.
 - Title 44, chapter 2 of the 2023 advance legislative service: SB 23-019 has a safety clause and was approved March 3, 2023; its changed subsections are applied on that date. Other Title 44 sections retain their unchanged 2022 text.
 - 2023 advance legislative service: 122 as-enacted chapters; 128 held individually. No reconstruction of consolidated CRS wording. Every admitted chapter equals an independent reading of official source XML; all deleted wording checked separately. Dates are explicit commencement dates or approval with safety clause.
+- 2023 advance legislative service gap: 120 further as-enacted chapters; 8 held individually. No reconstruction of consolidated CRS wording. Every admitted chapter equals an independent reading of official source XML; all deleted wording checked separately. Effective dates agree with the official General Assembly chapter listing and the source commencement clause.
+- Chapters 251–474 of the official 2023 session listing: 161 admitted and 63 held individually. Complete as-enacted acts are single-file text units; no consolidated CRS reconstruction. Every non-whitespace character matches an independent PDF reader. Deletions retain source geometric strikethrough. Source commencement clauses agree with listing dates; standard referendum conditions are retained verbatim; no retrieval-day dates.
 
 ## What AI did and did not do
 
@@ -385,3 +671,5 @@ Model use at data-build time:
 - none
 - none
 - A model wrote extraction and validation code; no model-authored law text or OCR.
+- A model wrote extraction and validation code; no model-authored law text or OCR.
+- GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
