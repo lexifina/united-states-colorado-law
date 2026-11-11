@@ -6278,6 +6278,76 @@
      "sha256": "b8ecc9278347ce17aecadb84531daa1aa4924faa0c2cb5efd128603b63fad8a9"
     }
    ]
+  },
+  {
+   "slug": "session-2023-ch-297",
+   "short": "2023 ch. 297",
+   "title": "CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING ENHANCED SENTENCING.",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB23-1292/297/download",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1292/297/download",
+     "sha256": "0067f2465fe71540df564f044280693d0d5c92d873aa96d339fd81aa7609965b"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-298",
+   "short": "2023 ch. 298",
+   "title": "CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING FELONY SENTENCING, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB23-1293/298/download",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1293/298/download",
+     "sha256": "25d2fcb8e92763ae23b899108770044d92203340003a969b58739e99b58c7d96"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-309",
+   "short": "2023 ch. 309",
+   "title": "CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING MOTOR VEHICLE OFFENSES COMMITTED BY A PERSON WHO IS NOT THE OWNER OF THE MOTOR VEHICLE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-097/309/download",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-097/309/download",
+     "sha256": "9acd74b1bb955e1d9db3dbcf33f613acb1c0b198d26763d7b0eb55273aea2aca"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-316",
+   "short": "2023 ch. 316",
+   "title": "CONCERNING THE DEFINITION OF SERIOUS BODILY INJURY IN SECTION 18-1-901, COLORADO REVISED STATUTES.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-034/316/download",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-034/316/download",
+     "sha256": "556746db7257ceba24de5a2f98ad6458e05e2b6176888ca7dd779032f4265fae"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-428",
+   "short": "2023 ch. 428",
+   "title": "CONCERNING CLARIFYING THAT WORKERS' COMPENSATION IS NOT THE EXCLUSIVE REMEDY FOR PERSONS AGGRIEVED BY VIOLATIONS OF THE \"COLORADO YOUTH EMPLOYMENT OPPORTUNITY ACT OF 1971\".",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB23-1196/428/download",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1196/428/download",
+     "sha256": "d442371cf2b04ee11e759f0730ea1407d1ce1e66237ae21978982ad6afdbd412"
+    }
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 # How this repository was made (Colorado)
 
-This file is written by the build on 2026-11-10, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -60,6 +60,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Colorado General Assembly, Office of Legislative Legal Services: 2023 advance legislative service, chapters 1–250 (Public.Resource.Org mirror) | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt> | 2026-11-11 | Public Domain Mark 1.0; edicts of government. |
 | Colorado General Assembly, Office of Legislative Legal Services: 2023 advance legislative service, chapters 1–250 (Public.Resource.Org mirror) | <https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt> | 2026-11-11 | Public Domain Mark 1.0; edicts of government. |
 | Colorado General Assembly: 2023 regular session laws, chapter effective dates | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 |  |
+| Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
@@ -516,20 +517,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-2023-ch-447` | CONCERNING THE AFFORDABILITY OF EPINEPHRINE AUTO-INJECTORS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-08-07 to 2023-08-07 |
 | `session-2023-ch-448` | CONCERNING PREEMPTION OF LOCAL REGULATIONS LIMITING THE NUMBER OF BUILDING PERMITS ISSUED FOR DEVELOPMENT. | 1 | 2023-08-07 to 2023-08-07 |
 | `session-2023-ch-449` | CONCERNING THE PAYMENT OF THE EXPENSES OF THE LEGISLATIVE DEPARTMENT. | 1 | 2023-04-17 to 2023-04-17 |
+| `session-2023-ch-297` | CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING ENHANCED SENTENCING. | 1 | 2023-07-01 to 2023-07-01 |
+| `session-2023-ch-298` | CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING FELONY SENTENCING, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-10-01 to 2023-10-01 |
+| `session-2023-ch-309` | CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING MOTOR VEHICLE OFFENSES COMMITTED BY A PERSON WHO IS NOT THE OWNER OF THE MOTOR VEHICLE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-07-01 to 2023-07-01 |
+| `session-2023-ch-316` | CONCERNING THE DEFINITION OF SERIOUS BODILY INJURY IN SECTION 18-1-901, COLORADO REVISED STATUTES. | 1 | 2023-07-01 to 2023-07-01 |
+| `session-2023-ch-428` | CONCERNING CLARIFYING THAT WORKERS' COMPENSATION IS NOT THE EXCLUSIVE REMEDY FOR PERSONS AGGRIEVED BY VIOLATIONS OF THE "COLORADO YOUTH EMPLOYMENT OPPORTUNITY ACT OF 1971". | 1 | 2023-07-01 to 2023-07-01 |
 
-The build made 452 commits:
+The build made 457 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 448 | first version of an act |
+| 453 | first version of an act |
 | 1 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 402 laws in the record.
-- 851 tags.
+- 407 laws in the record.
+- 861 tags.
 
 ## Dates
 
@@ -541,7 +547,7 @@ When a law gives no date of its own, the default rule applies: Colo. Const. art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6d3107318129f2092e125abd566f46865069931cd337ef489f17ec643340f32f` (77559995 bytes).
+- Corpus: sha256 `347234f93652796037cc7c1ba7bafa423df7e5aca45426546d387eadfbe73c12` (77647487 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -607,6 +613,7 @@ No second build of this corpus has been compared yet.
 - 2023 advance legislative service: 122 as-enacted chapters; 128 held individually. No reconstruction of consolidated CRS wording. Every admitted chapter equals an independent reading of official source XML; all deleted wording checked separately. Dates are explicit commencement dates or approval with safety clause.
 - 2023 advance legislative service gap: 120 further as-enacted chapters; 8 held individually. No reconstruction of consolidated CRS wording. Every admitted chapter equals an independent reading of official source XML; all deleted wording checked separately. Effective dates agree with the official General Assembly chapter listing and the source commencement clause.
 - Official 2023 chapters 251–474: 159 admitted; 65 held individually for date, text or image review. Complete as-enacted acts are single-file text units; no consolidated CRS reconstruction. Every admitted character stream matches independent PDF text extraction and every deletion flag is independently checked against source operators. All admitted commencement dates and metadata agree with the official PDF and chapter listing. No retrieval-day dates are used.
+- Five 2023 regular-session chapters with one explicit effective date followed by a safety clause. Each complete single-file as-enacted act agrees character for character with an independent PDF text reader; deletion marks match source drawings, approval and commencement dates agree with the official chapter listing. No OCR or retrieval-day date is used.
 
 ## What AI did and did not do
 
@@ -670,4 +677,5 @@ Model use at data-build time:
 - none
 - A model wrote extraction and validation code; no model-authored law text or OCR.
 - A model wrote extraction and validation code; no model-authored law text or OCR.
+- GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.

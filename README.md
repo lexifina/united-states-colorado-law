@@ -56,7 +56,7 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `title-43/` | Colorado Revised Statutes, Title 43: Transportation (402 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-44/` | Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities (463 sections) | 2 | 2022 edition baseline and SB 23-019, chapter 2 of the 2023 advance legislative service, effective 3 March 2023 |
 
-The Constitution and CRS title records contain 30,415 units, including the Title 44 amendment by SB 23-019. A further 401 separate as-enacted 2023 session laws contain 1,880 units. In total, this record contains 448 acts and 32,295 units. The official 2023 regular-session listing names 474 chapters: 401 are included and 73 remain held for date, text or image review. Other sessions and regulations are not included.
+The Constitution and CRS title records contain 30,415 units, including the Title 44 amendment by SB 23-019. A further 406 separate as-enacted 2023 session laws contain 1,885 units. In total, this record contains 453 acts and 32,300 units. The official 2023 regular-session listing names 474 chapters: 406 are included and 68 remain held for date, text or image review. Other sessions and regulations are not included.
 
 ## Where the text comes from
 
@@ -95,7 +95,7 @@ The Constitution and 2022 CRS title baselines are attributed to the publisher, t
 
 ## 2023 session laws as enacted
 
-This record additionally includes 401 separate as-enacted session laws from the 2023 regular session. The first 242 records use the OLLS advance legislative service; 159 later chapters use the official General Assembly chapter PDFs. These records preserve enacted amendment instructions, including deleted wording as strikethrough. The later chapters are complete single-file text units, with source paragraph blocks retained. They do not supply consolidated later CRS title text. Admitted commencement clauses agree with the official chapter listing; standard referendum conditions are retained in the text. Acts with unresolved staged or conditional commencement remain held. No retrieval-day dates are used. 73 chapters remain held for date, text or image review.
+This record additionally includes 406 separate as-enacted session laws from the 2023 regular session. The first 242 records use the OLLS advance legislative service; 164 later chapters use the official General Assembly chapter PDFs. These records preserve enacted amendment instructions, including deleted wording as strikethrough. The later chapters are complete single-file text units, with source paragraph blocks retained. They do not supply consolidated later CRS title text. Admitted commencement clauses agree with the official chapter listing; standard referendum conditions are retained in the text. Acts with unresolved staged or conditional commencement remain held. No retrieval-day dates are used. 68 chapters remain held for date, text or image review.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -500,3 +500,8 @@ This record additionally includes 401 separate as-enacted session laws from the 
 | `session-2023-ch-447/` | CONCERNING THE AFFORDABILITY OF EPINEPHRINE AUTO-INJECTORS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | As enacted; effective 2023-08-07; complete single-file act |
 | `session-2023-ch-448/` | CONCERNING PREEMPTION OF LOCAL REGULATIONS LIMITING THE NUMBER OF BUILDING PERMITS ISSUED FOR DEVELOPMENT. | 1 | As enacted; effective 2023-08-07; complete single-file act |
 | `session-2023-ch-449/` | CONCERNING THE PAYMENT OF THE EXPENSES OF THE LEGISLATIVE DEPARTMENT. | 1 | As enacted; effective 2023-04-17; complete single-file act |
+| `session-2023-ch-297/` | CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING ENHANCED SENTENCING. | 1 | As enacted; effective 2023-07-01; complete single-file act |
+| `session-2023-ch-298/` | CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING FELONY SENTENCING, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | As enacted; effective 2023-10-01; complete single-file act |
+| `session-2023-ch-309/` | CONCERNING THE ADOPTION OF THE 2023 RECOMMENDATIONS OF THE COLORADO COMMISSION ON CRIMINAL AND JUVENILE JUSTICE REGARDING MOTOR VEHICLE OFFENSES COMMITTED BY A PERSON WHO IS NOT THE OWNER OF THE MOTOR VEHICLE, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | As enacted; effective 2023-07-01; complete single-file act |
+| `session-2023-ch-316/` | CONCERNING THE DEFINITION OF SERIOUS BODILY INJURY IN SECTION 18-1-901, COLORADO REVISED STATUTES. | 1 | As enacted; effective 2023-07-01; complete single-file act |
+| `session-2023-ch-428/` | CONCERNING CLARIFYING THAT WORKERS' COMPENSATION IS NOT THE EXCLUSIVE REMEDY FOR PERSONS AGGRIEVED BY VIOLATIONS OF THE "COLORADO YOUTH EMPLOYMENT OPPORTUNITY ACT OF 1971". | 1 | As enacted; effective 2023-07-01; complete single-file act |

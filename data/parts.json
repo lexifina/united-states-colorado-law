@@ -715,6 +715,16 @@
     "session-2023-ch-449"
    ],
    "sha256": "0e256b3592c13b54458ae77d6d5d91c9a568f46827109c5203cd4d5771dfc47e"
+  },
+  "zzzzzz-q1599-session-laws-2023-simple-dates.json": {
+   "acts": [
+    "session-2023-ch-297",
+    "session-2023-ch-298",
+    "session-2023-ch-309",
+    "session-2023-ch-316",
+    "session-2023-ch-428"
+   ],
+   "sha256": "e31871e0f8288a10fb571490b60eff13cc062055345e9ffb58c779483d6bbc1f"
   }
  },
  "schema": 1
