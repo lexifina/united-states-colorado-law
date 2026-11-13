@@ -523,3 +523,5 @@ This record additionally includes 424 separate as-enacted session laws from the 
 | `session-2023-ch-417/` | CONCERNING REQUIREMENTS UNDER THE "FAIR CAMPAIGN PRACTICES ACT" FOR MUNICIPAL ELECTIONS. | 1 | As enacted; effective 2024-01-01; complete single-file act |
 | `session-2023-ch-419/` | CONCERNING ENACTMENT OF THE "DUE PROCESS ASSET FORFEITURE ACT", AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | As enacted; effective 2023-09-01; complete single-file act |
 | `session-2023-ch-425/` | CONCERNING THE REGULATION OF GUARANTEED ASSET PROTECTION AGREEMENTS. | 1 | As enacted; effective 2024-01-01; complete single-file act |
+
+The remaining 2023 chapter records include text-layer appropriation tables with column headings, subtotals and footnotes. Those chapters remain excluded until their layout and commencement evidence have been verified.
