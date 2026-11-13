@@ -1,0 +1,7 @@
+# CONCERNING PROCEDURES FOR THE ISSUANCE OF MARIJUANA LICENSES, AND, IN CONNECTION THEREWITH, CLARIFYING THAT THE STATE LICENSING AUTHORITY MAY REFUND LICENSING FEES WHEN AN APPLICATION IS DENIED AND ALLOWING APPLICANTS THE OPPORTUNITY TO RENEW A STATE LICENSE WHILE LOCAL JURISDICTION APPROVAL IS PENDING.
+
+2023 ch. 353 · 1 versions, from 2023-08-07 (latest in force: 2023-08-07) · <https://leg.colorado.gov/laws/session-laws/SB23-199/353/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |

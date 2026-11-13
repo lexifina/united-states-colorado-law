@@ -1,0 +1,7 @@
+# CONCERNING THE ADMINISTRATION OF STATE ASSISTANCE PROGRAMS TO MITIGATE THE RISK OF WILDFIRE, AND, IN CONNECTION THEREWITH, CREATING THE WILDFIRE MITIGATION CAPACITY DEVELOPMENT FUND AND THE HAZARD MITIGATION FUND; TRANSFERRING MONEY INTO SPECIALLY DESIGNED WILDFIRE FUNDS; AND MAKING AN APPROPRIATION.
+
+2021 ch. 238 · 1 versions, from 2021-06-15 (latest in force: 2021-06-15) · <https://leg.colorado.gov/laws/session-laws/SB21-258/238/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |
