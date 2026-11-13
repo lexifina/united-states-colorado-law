@@ -1,0 +1,7 @@
+# CONCERNING LICENSE PLATES, AND, IN CONNECTION THEREWITH, SPECIFYING THAT THE LICENSE PLATES OF A MOTOR VEHICLE THAT IS CLASSIFIED AS CLASS C PERSONAL PROPERTY EXPIRE UPON THE SALE OR TRANSFER OF THE MOTOR VEHICLE, AUTHORIZING THE ISSUANCE OF LICENSE PLATES IN PREVIOUSLY RETIRED STYLES, AND MAKING AN APPROPRIATION.
+
+2021 ch. 419 · 1 versions, from 2021-09-07 (latest in force: 2021-09-07) · <https://leg.colorado.gov/laws/session-laws/SB21-069/419/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |

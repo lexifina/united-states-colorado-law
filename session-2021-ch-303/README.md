@@ -1,0 +1,7 @@
+# CONCERNING CASH FUND SOLVENCY, AND, IN CONNECTION THEREWITH, CREATING THE CASH FUND SOLVENCY FUND TO ALLOW THE STATE CONTROLLER TO TRANSFER MONEY TO CERTAIN CASH FUNDS WITH ANTICIPATED CASH DEFICITS, WHICH AMOUNTS WILL BE LATER REPAID, TRANSFERRING MONEY TO THE MARIJUANA CASH FUND, AND MAKING AND REDUCING AN APPROPRIATION.
+
+2021 ch. 303 · 1 versions, from 2021-06-23 (latest in force: 2021-06-23) · <https://leg.colorado.gov/laws/session-laws/SB21-283/303/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |
