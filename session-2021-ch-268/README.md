@@ -1,0 +1,7 @@
+# CONCERNING THE CONDITIONS UNDER WHICH A FIREARM TRANSFER MAY BE PROHIBITED FOLLOWING A BACKGROUND CHECK, AND, IN CONNECTION THEREWITH, REQUIRING APPROVAL OF A FIREARM TRANSFER PRIOR TO A TRANSFER BY A LICENSED DEALER, ESTABLISHING GROUNDS FOR DENYING A TRANSFER, AND CLARIFYING THE PROCESS TO APPEAL A DENIED TRANSFER.
+
+2021 ch. 268 · 1 versions, from 2021-06-19 (latest in force: 2021-06-19) · <https://leg.colorado.gov/laws/session-laws/HB21-1298/268/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |

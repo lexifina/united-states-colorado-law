@@ -1,0 +1,17 @@
+{
+ "corpus": "us/colorado/acts",
+ "path": "united-states/colorado/acts",
+ "scope": "selected-acts",
+ "acts": 928,
+ "future_branch": "future",
+ "publisher": "Colorado General Assembly, Office of Legislative Legal Services",
+ "name": "Colorado",
+ "language": "en",
+ "coverage": "928 acts of Colorado with every dated version the source gives (929 versions), in force from 2021-01-20 to 2026-11-13",
+ "history": "in-force",
+ "history_from": "2021-01-20",
+ "record_to": "2026-11-13",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from Colorado General Assembly, Office of Legislative Legal Services.",
+ "in_force_trailer": "In-force"
+}
