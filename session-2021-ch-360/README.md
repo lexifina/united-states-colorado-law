@@ -1,0 +1,7 @@
+# CONCERNING THE IMPLEMENTATION OF THE 988 NATIONAL SUICIDE PREVENTION LIFELINE NETWORK IN COLORADO, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.
+
+2021 ch. 360 · 1 versions, from 2021-09-07 (latest in force: 2021-09-07) · <https://leg.colorado.gov/laws/session-laws/SB21-154/360/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |

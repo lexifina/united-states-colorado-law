@@ -1,0 +1,7 @@
+# CONCERNING THE CONTINUATION OF THE OFFICE OF CONSUMER COUNSEL, AND, IN CONNECTION THEREWITH, IMPLEMENTING THE RECOMMENDATIONS CONTAINED IN THE 2020 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY AGENCIES REGARDING THE OFFICE OF CONSUMER COUNSEL AND THE UTILITY CONSUMERS' BOARD, AND MAKING AN APPROPRIATION.
+
+2021 ch. 477 · 1 versions, from 2021-09-01 (latest in force: 2021-09-01) · <https://leg.colorado.gov/laws/session-laws/SB21-103/477/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |

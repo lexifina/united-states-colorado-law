@@ -1,0 +1,7 @@
+# CONCERNING THE PRACTICE OF MENTAL HEALTH PROFESSIONALS, AND, IN CONNECTION THEREWITH, CLARIFYING EDUCATION AND HOURS OF PRACTICE REQUIRED FOR LICENSURE OR CERTIFICATION AS AN ADDICTION COUNSELOR; AND ESTABLISHING SUPERVISION PRIVILEGES FOR CERTIFIED AND LICENSED ADDICTION COUNSELORS.
+
+2021 ch. 399 · 1 versions, from 2021-07-01 (latest in force: 2021-07-01) · <https://leg.colorado.gov/laws/session-laws/HB21-1305/399/download>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Complete enacted act | [act-text.md](act-text.md) | 0 |  |
