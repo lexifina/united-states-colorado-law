@@ -1233,6 +1233,14 @@ Model use at data-build time:
 - A model wrote extraction and validation code; no model-authored law text or OCR.
 - A model wrote extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
+
+## Date Sanity Audit, 13 November 2026
+
+Global-law's corpus checker was rerun against commit `c5de90917e332fa6bd7ddce2b54487462bca8bb0` for the Colorado date-sanity A6 review. It reported 0 commits in force before the act was made and 208 dated commits taking force on 7 August 2023.
+
+The 208 common-day commits are 2023 session laws. Colorado's official 2023 session-law listing contains 474 chapters. For those 208 commits, the listing records 206 chapters with an effective date of 08/07/2023, one chapter with 05/16/2023, and one chapter with 05/07/2023. Sampled official PDFs confirmed approval dates and the standard commencement clause making the acts effective at 12:01 a.m. on the day after the ninety-day period following final adjournment of the General Assembly.
+
+No law text changed in this audit. The remaining A6 same-day warning is retained as a checker warning because the date is common across many session laws, not because a source-supported correction was found.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic source extraction and validation code; no model-authored law text or OCR.
