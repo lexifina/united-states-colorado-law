@@ -61,7 +61,7 @@ The Constitution of the State of Colorado and the Colorado Revised Statutes as a
 | `title-43/` | Colorado Revised Statutes, Title 43: Transportation (402 sections) | 1 | As printed in the Colorado Revised Statutes 2022, dated 10 August 2022 (oldest version available) |
 | `title-44/` | Colorado Revised Statutes, Title 44: Revenue - Regulation of Activities (463 sections) | 2 | 2022 edition baseline and SB 23-019, chapter 2 of the 2023 advance legislative service, effective 3 March 2023 |
 
-The Constitution and CRS title records contain 30,415 units, including the Title 44 amendment by SB 23-019. A further 424 separate as-enacted 2023 session laws contain 1,903 units. In total, this record contains 471 acts and 32,318 units. The official 2023 regular-session listing names 474 chapters: 424 are included and 50 remain held for date, text or image review. Other sessions and regulations are not included.
+The Constitution and CRS title records contain 30,415 units, including the Title 44 amendment by SB 23-019. A further 441 separate as-enacted 2023 session laws contain 1,920 units. In total, this record contains 488 acts and 32,335 units. The official 2023 regular-session listing names 474 chapters: 441 are included and 33 remain held for date, text or image review. Other sessions and regulations are not included.
 
 ## Where the text comes from
 
@@ -100,7 +100,7 @@ The Constitution and 2022 CRS title baselines are attributed to the publisher, t
 
 ## 2023 session laws as enacted
 
-This record additionally includes 424 separate as-enacted session laws from the 2023 regular session. The first 242 records use the OLLS advance legislative service; 181 later chapters and one previously held first-250 chapter use the official General Assembly chapter PDFs. These records preserve enacted amendment instructions, including deleted wording as strikethrough. The later chapters are complete single-file text units, with source paragraph blocks retained. They do not supply consolidated later CRS title text. Admitted commencement clauses agree with the official chapter listing; standard referendum conditions are retained in the text. Acts with unresolved staged or conditional commencement remain held. No retrieval-day dates are used. 50 chapters remain held for date, text or image review.
+This record additionally includes 441 separate as-enacted session laws from the 2023 regular session. The first 242 records use the OLLS advance legislative service; 198 later chapters and one previously held first-250 chapter use the official General Assembly chapter PDFs. These records preserve enacted amendment instructions, including deleted wording as strikethrough. The later chapters are complete single-file text units, with source paragraph blocks retained. They do not supply consolidated later CRS title text. Admitted commencement clauses agree with the official chapter listing; standard referendum conditions are retained in the text. Acts with unresolved staged or conditional commencement remain held. No retrieval-day dates are used. 33 chapters remain held for date, text or image review.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -255,7 +255,7 @@ This record additionally includes 424 separate as-enacted session laws from the 
 | `session-2023-ch-151/` | Concerning tenant screening documentation for residential leases. | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-152/` | Concerning increasing consumer protections in various medical transactions. | 1 | As enacted; effective 2023-05-04 |
 | `session-2023-ch-154/` | Concerning prescription drugs for the treatment of chronic pain. | 1 | As enacted; effective 2023-05-04 |
-| `session-2023-ch-155/` | – | 1 | As enacted; effective 2023-08-07 |
+| `session-2023-ch-155/` | 2023 chapter 155 (House Bill 23-1218) | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-156/` | Concerning changes to the hospital community benefit, and, in connection therewith, making an appropriation. | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-157/` | Concerning seeking federal authorization for medicaid reimbursement for services provided by a community health worker, and, in connection therewith, making an appropriation. | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-158/` | Concerning prescription drug benefits contract term requirements, and, in connection therewith, making an appropriation. | 1 | As enacted; effective 2023-08-07 |
@@ -268,7 +268,7 @@ This record additionally includes 424 separate as-enacted session laws from the 
 | `session-2023-ch-165/` | Concerning measures to promote reductions in greenhouse gas emissions in Colorado, and, in connection therewith, making an appropriation. | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-166/` | Concerning the implementation of measures to advance thermal energy service. | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-167/` | Concerning tax policy that advances decarbonization, and, in connection therewith, extending tax credits for the purchase or lease of electric vehicles; creating tax credits for industrial facilities to implement greenhouse gas emissions reduction improvements, for expenditures made in connection with geothermal energy projects, for production of geothermal electricity generation, for the deployment of heat pump technology, for retail sales of electric bicycles, and for construction of sustainable aviation fuel production facilities; creating a temporary specific ownership tax rate reduction on a portion of the sale of electric medium-and heavy-duty trucks; temporarily decreasing the severance tax credit for oil and gas production, requiring the revenue that is attributable to the decrease be deposited in the decarbonization tax credits administration cash fund, and creating the cash fund; and making an appropriation. | 1 | As enacted; effective 2023-05-11 |
-| `session-2023-ch-168/` | – | 1 | As enacted; effective 2023-08-07 |
+| `session-2023-ch-168/` | 2023 chapter 168 (House Bill 23-1174) | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-169/` | Concerning the conditions covered under the warranty of habitability for residential premises, and, in connection therewith, specifying a landlord's requirements to remediate a residential premises that is damaged due to an environmental public health event, expanding what constitutes retaliation by a landlord, and describing situations in which a tenant may terminate a lease after the premises has been damaged due to an environmental public health event. | 1 | As enacted; effective 2023-05-12 |
 | `session-2023-ch-170/` | Concerning fair access to insurance coverage for persons unable to obtain insurance coverage for their real property. | 1 | As enacted; effective 2023-08-07 |
 | `session-2023-ch-171/` | Concerning a sales and use tax exemption for construction and building materials used for repairing and rebuilding residential structures damaged or destroyed by a declared wildfire disaster in 2020, 2021, or 2022, and, in connection therewith, making an appropriation. | 1 | As enacted; effective 2023-05-12 |
@@ -528,3 +528,22 @@ This record additionally includes 424 separate as-enacted session laws from the 
 | `session-2023-ch-417/` | CONCERNING REQUIREMENTS UNDER THE "FAIR CAMPAIGN PRACTICES ACT" FOR MUNICIPAL ELECTIONS. | 1 | As enacted; effective 2024-01-01; complete single-file act |
 | `session-2023-ch-419/` | CONCERNING ENACTMENT OF THE "DUE PROCESS ASSET FORFEITURE ACT", AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | As enacted; effective 2023-09-01; complete single-file act |
 | `session-2023-ch-425/` | CONCERNING THE REGULATION OF GUARANTEED ASSET PROTECTION AGREEMENTS. | 1 | As enacted; effective 2024-01-01; complete single-file act |
+| `session-2023-ch-450/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF AGRICULTURE. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-451/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF CORRECTIONS. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-452/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF EARLY CHILDHOOD. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-453/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF EDUCATION. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-456/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF HIGHER EDUCATION. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-458/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE JUDICIAL DEPARTMENT. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-459/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LABOR AND EMPLOYMENT. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-460/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LAW. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-461/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LEGISLATURE. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-462/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LOCAL AFFAIRS. | 1 | As enacted; effective 2023-03-03; complete single-file act |
+| `session-2023-ch-463/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF MILITARY AND VETERANS AFFAIRS. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-465/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF PERSONNEL. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-468/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF REGULATORY AGENCIES. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-469/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF REVENUE. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-470/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF STATE. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-471/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF TRANSPORTATION. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+| `session-2023-ch-472/` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF THE TREASURY. | 1 | As enacted; effective 2023-02-28; complete single-file act |
+
+The additional chapter records preserve text-layer appropriation tables with their headings and columns. Source underlines and table rules remain distinguished from deleted wording. These records contain the complete enacted chapter, including its commencement and applicability clauses.

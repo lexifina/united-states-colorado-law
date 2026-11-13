@@ -63,6 +63,7 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
+| Colorado General Assembly, OLLS official 2023 session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -541,20 +542,39 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-2023-ch-417` | CONCERNING REQUIREMENTS UNDER THE "FAIR CAMPAIGN PRACTICES ACT" FOR MUNICIPAL ELECTIONS. | 1 | 2024-01-01 to 2024-01-01 |
 | `session-2023-ch-419` | CONCERNING ENACTMENT OF THE "DUE PROCESS ASSET FORFEITURE ACT", AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2023-09-01 to 2023-09-01 |
 | `session-2023-ch-425` | CONCERNING THE REGULATION OF GUARANTEED ASSET PROTECTION AGREEMENTS. | 1 | 2024-01-01 to 2024-01-01 |
+| `session-2023-ch-450` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF AGRICULTURE. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-451` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF CORRECTIONS. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-452` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF EARLY CHILDHOOD. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-453` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF EDUCATION. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-456` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF HIGHER EDUCATION. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-458` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE JUDICIAL DEPARTMENT. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-459` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LABOR AND EMPLOYMENT. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-460` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LAW. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-461` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LEGISLATURE. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-462` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LOCAL AFFAIRS. | 1 | 2023-03-03 to 2023-03-03 |
+| `session-2023-ch-463` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF MILITARY AND VETERANS AFFAIRS. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-465` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF PERSONNEL. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-468` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF REGULATORY AGENCIES. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-469` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF REVENUE. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-470` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF STATE. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-471` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF TRANSPORTATION. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-472` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF THE TREASURY. | 1 | 2023-02-28 to 2023-02-28 |
 
-The build made 475 commits:
+The build made 492 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 471 | first version of an act |
-| 1 | one law on its in-force day |
+| 47 | baseline texts where the record starts |
+| 442 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 3 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 425 laws in the record.
-- 897 tags.
+- 442 laws in the record.
+- 931 tags.
 
 ## Dates
 
@@ -566,8 +586,8 @@ When a law gives no date of its own, the default rule applies: Colo. Const. art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f0daf028455dbb7f51fba339c5c1a36275e240c18b544cd800b56357e30e67fb` (77909438 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `28e71e5bf594ba546173bf43fee50223a283d3abdd5adce06515684f58f8884d` (78638906 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -634,10 +654,11 @@ No second build of this corpus has been compared yet.
 - Official 2023 chapters 251–474: 159 admitted; 65 held individually for date, text or image review. Complete as-enacted acts are single-file text units; no consolidated CRS reconstruction. Every admitted character stream matches independent PDF text extraction and every deletion flag is independently checked against source operators. All admitted commencement dates and metadata agree with the official PDF and chapter listing. No retrieval-day dates are used.
 - Five 2023 regular-session chapters with one explicit effective date followed by a safety clause. Each complete single-file as-enacted act agrees character for character with an independent PDF text reader; deletion marks match source drawings, approval and commencement dates agree with the official chapter listing. No OCR or retrieval-day date is used.
 - 18 complete as-enacted 2023 chapters admitted after inspection of every remaining chapter. Applicability clauses are preserved verbatim alongside commencement; staged and conditional whole-act dates remain excluded. Every non-whitespace character agrees with an independent PDF reader, all deletion drawings match source characters, and dates agree with the official chapter listing. No OCR or retrieval-day date used.
+- 17 formerly held chapters admitted with source-position text tables, including headers and empty columns; underlines distinguished geometrically from deletions. All non-whitespace characters and reading order agree with independent PDF extraction. Dates agree with source commencement and official listing.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -700,3 +721,4 @@ Model use at data-build time:
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
+- GPT-6 wrote deterministic source extraction and validation code; no model-authored law text or OCR.

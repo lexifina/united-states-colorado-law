@@ -748,6 +748,28 @@
     "session-2023-ch-425"
    ],
    "sha256": "f4e139f5d0bc43189719e0c81be061ae4910ac95ba8fbe8990f90e3af05c17ca"
+  },
+  "zzzzzzzz-q1615-session-laws-2023-layout.json": {
+   "acts": [
+    "session-2023-ch-450",
+    "session-2023-ch-451",
+    "session-2023-ch-452",
+    "session-2023-ch-453",
+    "session-2023-ch-456",
+    "session-2023-ch-458",
+    "session-2023-ch-459",
+    "session-2023-ch-460",
+    "session-2023-ch-461",
+    "session-2023-ch-462",
+    "session-2023-ch-463",
+    "session-2023-ch-465",
+    "session-2023-ch-468",
+    "session-2023-ch-469",
+    "session-2023-ch-470",
+    "session-2023-ch-471",
+    "session-2023-ch-472"
+   ],
+   "sha256": "f1463e88ac8547fc292a4d2d858a16a399dbcebbd381fb8b8d0e416d912bd37c"
   }
  },
  "schema": 1

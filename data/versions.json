@@ -9,6 +9,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 354,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.constitution.co.odt",
      "sha256": "961320f811cba7054613c58371ba2023d88bfd45e0a5a7793edafa361039a9e8"
@@ -23,6 +26,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 748,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.01.odt",
      "sha256": "8ab2b8760f94d79821c01c2112ae36b041d461e12c6e8d5909fc644639a44f89"
@@ -37,6 +43,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 229,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.02.odt",
      "sha256": "06939cf74e0a6ecb41c8a762bb071d86398b80fc594b63d25f1916221e6bb03e"
@@ -51,6 +60,9 @@
    "versions": [
     {
      "from": "2021-09-07",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 41,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.03.odt",
      "sha256": "136510753a1f232f6ce66603d22b25fad90e4936c35442090ec670cde5ed8e4c"
@@ -65,6 +77,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 646,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.04.odt",
      "sha256": "8fbd381666223e32760af6832a16a106d9df26f09e2677bbd54d5c3c4e33eddf"
@@ -79,6 +94,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 394,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.05.odt",
      "sha256": "3928d75aac9607e541ce9242911df2c1ccfada5de87360863da08f6b089f4dec"
@@ -93,6 +111,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 331,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.06.odt",
      "sha256": "f02b0203f1a745b9db0c9392a3db859c56ce8428dd4bf7670f5c696d718e2a2f"
@@ -107,6 +128,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1047,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.07.odt",
      "sha256": "d44a65b7fb4c9bec05d5a02b30bb96ab44e20a2027df9d09625a0f1092f83da9"
@@ -121,6 +145,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 877,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.08.odt",
      "sha256": "56ad4ab7bdfcf703979eb64429c5295b1a01789d4f3698e8457fedd41e8839f2"
@@ -135,6 +162,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 98,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.09.odt",
      "sha256": "d67bed81fdabe80194e09eef0d6f36bb5d6ebe47407e6b5e9419cf490359d6f9"
@@ -149,6 +179,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1232,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.10.odt",
      "sha256": "9722e79402d24bc7743a066bcc8d51583624a5fba86606bbb3a4791fa698e181"
@@ -163,6 +196,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 657,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.11.odt",
      "sha256": "a9a6894a73579cfcb5aef054d37c9a20cdbf630a0603e6c1e4595feb08def57a"
@@ -177,6 +213,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1132,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.12.odt",
      "sha256": "175db4d053f219d47c8f6a0494212931895138e02f272c03fe3aa964d76c9239"
@@ -191,6 +230,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1140,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.13.odt",
      "sha256": "edf93943e4684bcfae8c821d961ad015d0ea7722bda6a9a49ec99a11561dc0c9"
@@ -205,6 +247,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 308,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.14.odt",
      "sha256": "08fe54c4171d133ed00208c488bec27e6b9879f772137e359f465eb9699a0ce8"
@@ -219,6 +264,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1034,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.15.odt",
      "sha256": "2e2eade0d3e2831aa4b3f19ab89cd3ef63fdeccccfc1b4bd5af926990b84d26b"
@@ -233,6 +281,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 494,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.16.odt",
      "sha256": "a10a4c7c182d07129ffd281e96cee39e38a750f2dda046d6e3fab7db90eb69b6"
@@ -247,6 +298,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 248,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.17.odt",
      "sha256": "5fff0c59a879dcd6e331b349d2b0967e2a150525cdaea83fc4dae7dc538a0e03"
@@ -261,6 +315,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 850,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.18.odt",
      "sha256": "3ac54382b0b853624c13ea842a8eb5da9a66d3c96cb027df566472ade2a5fb5c"
@@ -275,6 +332,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 374,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.19.odt",
      "sha256": "5c0fbcfcc94303e4d3a5b388a9700a79793fc61c8c8acb108479eeb75b531e67"
@@ -289,6 +349,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.20.odt",
      "sha256": "79d05e7e73ef4795fc984135d9d06b3dc89944d4a7ba2a71e0e1949001b2720d"
@@ -303,6 +366,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.21.odt",
      "sha256": "1795a60631258be38f7382c341b50afa2c39f38e1b68f6bd079b070bf534966a"
@@ -317,6 +383,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1104,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.22.odt",
      "sha256": "86e8655676d40970b2c612c7f4e1d6637a31ee1a4f9c0ab056a7f69c54b3a8cf"
@@ -331,6 +400,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 963,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.23.odt",
      "sha256": "3a19b10c1c4ed58eef6c65a7f48eb467b7344f2c3f0469bc5c0c4f8bfbef18e2"
@@ -345,6 +417,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 2866,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.24.odt",
      "sha256": "8f8c292c747bf0a4b74799f14c4f0e79705b195bde44dd5c6430493456822eac"
@@ -359,6 +434,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 382,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.25.5.odt",
      "sha256": "bdf80aaca4f077f8457462de9e83f93557b3b549305709e79468487ed3511c99"
@@ -373,6 +451,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1473,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.25.odt",
      "sha256": "b2956796cd8e36b1e86ac6ce64551ecaa83c57061f9d579ba94821a09c5574d6"
@@ -387,6 +468,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 163,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.26.5.odt",
      "sha256": "eec10cd3330fb2a3f7f1be7757c33be10c69a26d761c62488937c73816e7c933"
@@ -401,6 +485,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 427,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.26.odt",
      "sha256": "acbd6bb20cabdf3048be025a658412c29233e77a1d8e084fff052b05923e1973"
@@ -415,6 +502,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 276,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.27.odt",
      "sha256": "29961eb9be80a84384197a2b47df57ecc3b526e09d611fbecb5dd50321f18e3b"
@@ -429,6 +519,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 310,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.28.odt",
      "sha256": "d76cc2558906e6c627a5f44e0c754e01465130ec9ae4944fc8b00047e3f026ac"
@@ -443,6 +536,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 542,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.29.odt",
      "sha256": "64fcd3b1f070595c6993e570664189094ae748664f88d1583c161553917f134b"
@@ -457,6 +553,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 746,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.30.odt",
      "sha256": "2ac85624d7bd1a6934eb245d5a94482d63d11b3267270988f0761998cbebd6ee"
@@ -471,6 +570,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1025,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.31.odt",
      "sha256": "438cea4d1c831ec05abf8634b05fee52cc0cafa78a2b0a164e2ff7d796609fcd"
@@ -485,6 +587,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 773,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.32.odt",
      "sha256": "136e7ca58d4356d45848107e2c664d070b6ef164cc905d8816cd9047d99abd96"
@@ -499,6 +604,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 315,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.33.odt",
      "sha256": "5a4410295a63a0462019e3f8da704c9b14e6c950ca35a4dc49a645c4db0306f4"
@@ -513,6 +621,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 305,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.34.odt",
      "sha256": "a8c6a3d166affa51d62f687d05fe601045abce395340f219a4a11ffce2c07e7d"
@@ -527,6 +638,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1021,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.35.odt",
      "sha256": "20f5ff2e11834d1c24df2750e7ca535fb59998eee4fa7312b6a9c341e49d8e89"
@@ -541,6 +655,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 158,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.36.odt",
      "sha256": "fb0b81475c8ce7e003dcb98099cabbec8efc18fd61ffb96faafe630a5de1ac96"
@@ -555,6 +672,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1164,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.37.odt",
      "sha256": "e57a34aac23ce72fddd6023d283a78680d8b1ed682d9cf9bdec7b329bd2c3157"
@@ -569,6 +689,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 1103,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.38.odt",
      "sha256": "716b72b23d3dc0ca84755dc40dead1082a5e4644874c458b9c27ed9a0d8e32cd"
@@ -583,6 +706,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 907,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.39.odt",
      "sha256": "af64a2e9cbe3442219ff8675838bca9e14884a947ab81bfe12e812aa527e1a04"
@@ -597,6 +723,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 480,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.40.odt",
      "sha256": "e76f6f809fdcc87ba7dfa2014a086d2e83b8bbc92524456528fe9e3551653547"
@@ -611,6 +740,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.41.odt",
      "sha256": "517911b2cd1d8c85861ba78a06d2421d5f3cf54d3f6f3c02cb3f9aa75b1aac21"
@@ -625,6 +757,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 721,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.42.odt",
      "sha256": "8dd739bc3405818449867235524fb557aef1089fe09cbab43fc791b5e963ef42"
@@ -639,6 +774,9 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 402,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.43.odt",
      "sha256": "cae278922f0ef4e744ba1b10155bc101f91ed9f66cc407adc89f7f123be5eb4b"
@@ -653,12 +791,18 @@
    "versions": [
     {
      "from": "2022-08-10",
+     "to": "2023-03-02",
+     "status": "replaced",
+     "text_as_of": null,
      "units": 463,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.title.44.odt",
      "sha256": "d261454665e9e4397624bd8eee6f404d08d2ad64cc24adeecdb7c823005f0ecd"
     },
     {
      "from": "2023-03-03",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
      "units": 463,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -673,6 +817,9 @@
    "versions": [
     {
      "from": "2023-02-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -687,6 +834,9 @@
    "versions": [
     {
      "from": "2023-03-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -701,6 +851,9 @@
    "versions": [
     {
      "from": "2023-03-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -715,6 +868,9 @@
    "versions": [
     {
      "from": "2023-03-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -729,6 +885,9 @@
    "versions": [
     {
      "from": "2023-03-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -743,6 +902,9 @@
    "versions": [
     {
      "from": "2023-03-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -757,6 +919,9 @@
    "versions": [
     {
      "from": "2023-03-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -771,6 +936,9 @@
    "versions": [
     {
      "from": "2023-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -785,6 +953,9 @@
    "versions": [
     {
      "from": "2023-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -799,6 +970,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -813,6 +987,9 @@
    "versions": [
     {
      "from": "2023-03-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -827,6 +1004,9 @@
    "versions": [
     {
      "from": "2023-03-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -841,6 +1021,9 @@
    "versions": [
     {
      "from": "2023-03-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -855,6 +1038,9 @@
    "versions": [
     {
      "from": "2023-03-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -869,6 +1055,9 @@
    "versions": [
     {
      "from": "2023-03-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -883,6 +1072,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -897,6 +1089,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -911,6 +1106,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -925,6 +1123,9 @@
    "versions": [
     {
      "from": "2023-03-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 41,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -939,6 +1140,9 @@
    "versions": [
     {
      "from": "2023-03-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -953,6 +1157,9 @@
    "versions": [
     {
      "from": "2023-03-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -967,6 +1174,9 @@
    "versions": [
     {
      "from": "2023-03-31",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -981,6 +1191,9 @@
    "versions": [
     {
      "from": "2023-03-31",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -995,6 +1208,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1009,6 +1225,9 @@
    "versions": [
     {
      "from": "2023-03-31",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1023,6 +1242,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1037,6 +1259,9 @@
    "versions": [
     {
      "from": "2023-04-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1051,6 +1276,9 @@
    "versions": [
     {
      "from": "2023-04-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1065,6 +1293,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1079,6 +1310,9 @@
    "versions": [
     {
      "from": "2023-04-14",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 29,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1093,6 +1327,9 @@
    "versions": [
     {
      "from": "2023-04-14",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1107,6 +1344,9 @@
    "versions": [
     {
      "from": "2023-04-14",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1121,6 +1361,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1135,6 +1378,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1149,6 +1395,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1163,6 +1412,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1177,6 +1429,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1191,6 +1446,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1205,6 +1463,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1219,6 +1480,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1233,6 +1497,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1247,6 +1514,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 21,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1261,6 +1531,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1275,6 +1548,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1289,6 +1565,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1303,6 +1582,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1317,6 +1599,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1331,6 +1616,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1345,6 +1633,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1359,6 +1650,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1373,6 +1667,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1387,6 +1684,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1401,6 +1701,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1415,6 +1718,9 @@
    "versions": [
     {
      "from": "2023-04-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1429,6 +1735,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1443,6 +1752,9 @@
    "versions": [
     {
      "from": "2023-04-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1457,6 +1769,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1471,6 +1786,9 @@
    "versions": [
     {
      "from": "2023-04-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1485,6 +1803,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1499,6 +1820,9 @@
    "versions": [
     {
      "from": "2023-04-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1513,6 +1837,9 @@
    "versions": [
     {
      "from": "2023-04-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1527,6 +1854,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1541,6 +1871,9 @@
    "versions": [
     {
      "from": "2023-04-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1555,6 +1888,9 @@
    "versions": [
     {
      "from": "2023-04-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1569,6 +1905,9 @@
    "versions": [
     {
      "from": "2023-04-27",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1583,6 +1922,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1597,6 +1939,9 @@
    "versions": [
     {
      "from": "2023-04-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1611,6 +1956,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1625,6 +1973,9 @@
    "versions": [
     {
      "from": "2023-04-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1639,6 +1990,9 @@
    "versions": [
     {
      "from": "2023-04-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1653,6 +2007,9 @@
    "versions": [
     {
      "from": "2023-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1667,6 +2024,9 @@
    "versions": [
     {
      "from": "2023-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1681,6 +2041,9 @@
    "versions": [
     {
      "from": "2023-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1695,6 +2058,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 13,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1709,6 +2075,9 @@
    "versions": [
     {
      "from": "2023-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1723,6 +2092,9 @@
    "versions": [
     {
      "from": "2023-05-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1737,6 +2109,9 @@
    "versions": [
     {
      "from": "2023-05-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1751,6 +2126,9 @@
    "versions": [
     {
      "from": "2024-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1765,6 +2143,9 @@
    "versions": [
     {
      "from": "2023-05-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1779,6 +2160,9 @@
    "versions": [
     {
      "from": "2023-05-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1793,6 +2177,9 @@
    "versions": [
     {
      "from": "2023-05-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1807,6 +2194,9 @@
    "versions": [
     {
      "from": "2023-05-04",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1821,6 +2211,9 @@
    "versions": [
     {
      "from": "2023-05-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1835,6 +2228,9 @@
    "versions": [
     {
      "from": "2023-05-10",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1849,6 +2245,9 @@
    "versions": [
     {
      "from": "2023-05-11",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 26,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1863,6 +2262,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1877,6 +2279,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1891,6 +2296,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1905,6 +2313,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1919,6 +2330,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1933,6 +2347,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1947,6 +2364,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1961,6 +2381,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1975,6 +2398,9 @@
    "versions": [
     {
      "from": "2023-05-12",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -1989,6 +2415,9 @@
    "versions": [
     {
      "from": "2023-05-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2003,6 +2432,9 @@
    "versions": [
     {
      "from": "2023-05-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2017,6 +2449,9 @@
    "versions": [
     {
      "from": "2023-05-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 32,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2031,6 +2466,9 @@
    "versions": [
     {
      "from": "2023-05-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 17,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2045,6 +2483,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2059,6 +2500,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2073,6 +2517,9 @@
    "versions": [
     {
      "from": "2023-05-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 18,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2087,6 +2534,9 @@
    "versions": [
     {
      "from": "2023-05-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2101,6 +2551,9 @@
    "versions": [
     {
      "from": "2023-05-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2115,6 +2568,9 @@
    "versions": [
     {
      "from": "2023-05-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2129,6 +2585,9 @@
    "versions": [
     {
      "from": "2023-05-16",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 50,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2143,6 +2602,9 @@
    "versions": [
     {
      "from": "2023-05-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2157,6 +2619,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2171,6 +2636,9 @@
    "versions": [
     {
      "from": "2023-05-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2185,6 +2653,9 @@
    "versions": [
     {
      "from": "2023-05-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2199,6 +2670,9 @@
    "versions": [
     {
      "from": "2023-05-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2213,6 +2687,9 @@
    "versions": [
     {
      "from": "2023-05-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2227,6 +2704,9 @@
    "versions": [
     {
      "from": "2023-05-18",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2241,6 +2721,9 @@
    "versions": [
     {
      "from": "2023-05-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2255,6 +2738,9 @@
    "versions": [
     {
      "from": "2023-05-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2269,6 +2755,9 @@
    "versions": [
     {
      "from": "2023-05-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2283,6 +2772,9 @@
    "versions": [
     {
      "from": "2023-05-20",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2297,6 +2789,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 46,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2311,6 +2806,9 @@
    "versions": [
     {
      "from": "2023-05-22",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2325,6 +2823,9 @@
    "versions": [
     {
      "from": "2023-05-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 24,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2339,6 +2840,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 14,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2353,6 +2857,9 @@
    "versions": [
     {
      "from": "2023-05-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2367,6 +2874,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 47,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2381,6 +2891,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2395,6 +2908,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2409,6 +2925,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2423,6 +2942,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2437,6 +2959,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2451,6 +2976,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2465,6 +2993,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2479,6 +3010,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2493,6 +3027,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2507,6 +3044,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2521,6 +3061,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2535,6 +3078,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2549,6 +3095,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2563,6 +3112,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2577,6 +3129,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2591,6 +3146,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2605,6 +3163,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2619,6 +3180,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2633,6 +3197,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2647,6 +3214,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2661,6 +3231,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2675,6 +3248,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2689,6 +3265,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2703,6 +3282,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2717,6 +3299,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2731,6 +3316,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2745,6 +3333,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2759,6 +3350,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2773,6 +3367,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2787,6 +3384,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2801,6 +3401,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2815,6 +3418,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2829,6 +3435,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2843,6 +3452,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2857,6 +3469,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2871,6 +3486,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2885,6 +3503,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2899,6 +3520,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2913,6 +3537,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2927,6 +3554,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2941,6 +3571,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2955,6 +3588,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2969,6 +3605,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2983,6 +3622,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -2997,6 +3639,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3011,6 +3656,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3025,6 +3673,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3039,6 +3690,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3053,6 +3707,9 @@
    "versions": [
     {
      "from": "2023-04-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3067,6 +3724,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3081,6 +3741,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3095,6 +3758,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3109,6 +3775,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 15,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3123,6 +3792,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3137,6 +3809,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3151,6 +3826,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3165,6 +3843,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3179,6 +3860,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3193,6 +3877,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3207,6 +3894,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3221,6 +3911,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3235,6 +3928,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3249,6 +3945,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 91,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3263,6 +3962,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3277,6 +3979,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3291,6 +3996,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3305,6 +4013,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3319,6 +4030,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3333,6 +4047,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3347,6 +4064,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3361,6 +4081,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3375,6 +4098,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3389,6 +4115,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3403,6 +4132,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3417,6 +4149,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3431,6 +4166,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3445,6 +4183,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3459,6 +4200,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 31,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3473,6 +4217,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3487,6 +4234,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3501,6 +4251,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3515,6 +4268,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3529,6 +4285,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3543,6 +4302,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3557,6 +4319,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3571,6 +4336,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3585,6 +4353,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3599,6 +4370,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3613,6 +4387,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3627,6 +4404,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3641,6 +4421,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3655,6 +4438,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3669,6 +4455,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3683,6 +4472,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3697,6 +4489,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3711,6 +4506,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 11,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3725,6 +4523,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3739,6 +4540,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3753,6 +4557,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3767,6 +4574,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3781,6 +4591,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3795,6 +4608,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 9,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3809,6 +4625,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3823,6 +4642,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3837,6 +4659,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3851,6 +4676,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 8,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3865,6 +4693,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3879,6 +4710,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3893,6 +4727,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3907,6 +4744,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3921,6 +4761,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3935,6 +4778,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3949,6 +4795,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3963,6 +4812,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 5,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3977,6 +4829,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 6,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -3991,6 +4846,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 4,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -4005,6 +4863,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 7,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -4019,6 +4880,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 10,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -4033,6 +4897,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 3,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -4047,6 +4914,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 12,
      "source_url": "https://archive.org/download/gov.co.crs.bulk/r83.2023.06/gov.co.crs.als.2023.odt",
      "sha256": "f9cca760df76c650bd72bb7532ffe11d31005419c133f79d33004276943110c7"
@@ -4061,6 +4931,9 @@
    "versions": [
     {
      "from": "2023-05-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-210/251/download",
      "sha256": "21e7765bd40cfa05226e6244e49587f67427ceca9766edcc8ad98d8234d1faf6"
@@ -4075,6 +4948,9 @@
    "versions": [
     {
      "from": "2023-05-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-265/252/download",
      "sha256": "bca94564c3f7932005376b9cd8bfd5b1d8483c95dfbdc94a0dbaeaeeb8b8a59c"
@@ -4089,6 +4965,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-282/253/download",
      "sha256": "ad692d74744e69762c764c681592bfbb03e762de33a50c25c8ca6455d9e312cd"
@@ -4103,6 +4982,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1057/254/download",
      "sha256": "06f48c7ffcca67848a52ba7896073d5c4ac90d65d8d6808b0f6c6495b5e43ce5"
@@ -4117,6 +4999,9 @@
    "versions": [
     {
      "from": "2023-05-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1105/255/download",
      "sha256": "5581078d7d7e74ddd40f9751eddf6f3a2382edbbff1c882610d3e6162df9c1b5"
@@ -4131,6 +5016,9 @@
    "versions": [
     {
      "from": "2023-05-24",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1241/256/download",
      "sha256": "7edca34f04a7dcb43a7607c44272685e239657458a5a6896754271d0f8adf3b5"
@@ -4145,6 +5033,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-304/259/download",
      "sha256": "f4775493bae8b8a1680119854f10f90b2425675893ba9713835216c5acaf5722"
@@ -4159,6 +5050,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1184/260/download",
      "sha256": "0ff7e33d89498e9903a46c09c3dffa9f98cb75a7d8e3f744a6a5558ab283ca15"
@@ -4173,6 +5067,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1077/262/download",
      "sha256": "16629473e2607d849cec7e8d597e429686ef275753684bdfff0bf2f6264abecc"
@@ -4187,6 +5084,9 @@
    "versions": [
     {
      "from": "2023-05-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1199/263/download",
      "sha256": "4c6b9ff73be0323f22dcfaf3f5bb77ae15c4c1e6ff75e26303e905fc321b8fa3"
@@ -4201,6 +5101,9 @@
    "versions": [
     {
      "from": "2023-05-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1107/264/download",
      "sha256": "b5295e139776924f5e1194100fe2314ed9f3fb2fb39061d3a913d45f13f8179b"
@@ -4215,6 +5118,9 @@
    "versions": [
     {
      "from": "2023-05-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1108/265/download",
      "sha256": "e234c8af860193370494f384dccd06e54666b43d603a5397d78c11cafbb55c8d"
@@ -4229,6 +5135,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1136/268/download",
      "sha256": "9347d1f5a20110ca4d1f6c7ca6ebafd24244d141560fb8b2a34b857cd7a27abc"
@@ -4243,6 +5152,9 @@
    "versions": [
     {
      "from": "2023-05-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1296/269/download",
      "sha256": "cf942be2086f37769ecf46e31c90290ed134a7cd49a579f6025bc3b46f5ceb76"
@@ -4257,6 +5169,9 @@
    "versions": [
     {
      "from": "2023-05-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1032/271/download",
      "sha256": "abeb02838093399b1fdfa2056be847063cf27479f26ef3237db05a518bc99f2f"
@@ -4271,6 +5186,9 @@
    "versions": [
     {
      "from": "2023-05-25",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1168/272/download",
      "sha256": "22030b305dfb30d3c76830ffa14e3b18e866ee81ea07b17add4e446f873b6cb5"
@@ -4285,6 +5203,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1263/273/download",
      "sha256": "1b720dd2053ee8c3ce45face1baaa18c653e4aeae5b1f7875a5cb0e2b241b7e3"
@@ -4299,6 +5220,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-014/274/download",
      "sha256": "0a0770fd0ff11b0adfbd3875c4f5387e91025233546b55388fb06bfab7182ef6"
@@ -4313,6 +5237,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-284/276/download",
      "sha256": "7781187ad42de654ea8d981ea0a295737e7601f5fb01281c54db05429fd6e50d"
@@ -4327,6 +5254,9 @@
    "versions": [
     {
      "from": "2023-05-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1215/277/download",
      "sha256": "79032664e57cfdd7a452618da887bbf87e9758ae343e6f458b45046ceb7f531a"
@@ -4341,6 +5271,9 @@
    "versions": [
     {
      "from": "2023-05-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1228/278/download",
      "sha256": "65a69dc31336f90ef850a905b87a6f11b5a8776d6f62db0b117abb01870d2872"
@@ -4355,6 +5288,9 @@
    "versions": [
     {
      "from": "2023-05-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-288/279/download",
      "sha256": "4a9f1ac1ef9b4635a01f49e3eb99200c71635e2342998565654671fa6300d02b"
@@ -4369,6 +5305,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-196/280/download",
      "sha256": "d43a43810644a37a97f5859bd045db9e94de6b351e5ba7cd9d457f278515727a"
@@ -4383,6 +5322,9 @@
    "versions": [
     {
      "from": "2023-05-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1197/281/download",
      "sha256": "cd7b51f31a0df90bb7c67154ddd19450d4463f8514636efe6c8837fb3a4c6dfc"
@@ -4397,6 +5339,9 @@
    "versions": [
     {
      "from": "2023-05-30",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1153/283/download",
      "sha256": "2f6a838a69f64f1dfa858903716e94d702bedf9cadcd35874b974ff241195f64"
@@ -4411,6 +5356,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1161/285/download",
      "sha256": "2737e85630adcd7e3356b437a937412739d3ba25d3c068602864bd7caa9211f0"
@@ -4425,6 +5373,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1162/286/download",
      "sha256": "884788dec110f8c21e94a8029b0ea25ee2ecd967acb582787d9b8942d56d8b84"
@@ -4439,6 +5390,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1249/287/download",
      "sha256": "0b1c8b88b468b426e49828b019671e9c91252cc1dd5eb7b07d8f4284fb3fda35"
@@ -4453,6 +5407,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1270/288/download",
      "sha256": "b8eef747c050aa60c55f116f44b38a2f23910d31d6bef76a2212ce9c778be37e"
@@ -4467,6 +5424,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1278/291/download",
      "sha256": "9bae0cff7623f421d783e63af249e72a028c98e9a0a6a3098e21cfaa0e44e6aa"
@@ -4481,6 +5441,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1279/292/download",
      "sha256": "ff2d94ac824af4ddd7bda8270e9c43b75c597be431e0474ff7ccb6a2f1e1d6c5"
@@ -4495,6 +5458,9 @@
    "versions": [
     {
      "from": "2024-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1283/293/download",
      "sha256": "7a33e413595b5c2379c6743b19cfe765345233c5fa31d51d4f99b85b5f8b9a2d"
@@ -4509,6 +5475,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1284/294/download",
      "sha256": "ab5554042cfbb391ce3a37c83db21552af438f64d361285d48105df8e0f0ff52"
@@ -4523,6 +5492,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1285/295/download",
      "sha256": "a422fe4b5a399eb1f274163ac27ccddcbcb58c185e5e358d54fa92c24b844e2e"
@@ -4537,6 +5509,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1291/296/download",
      "sha256": "760286ede31c399467681fd1bc4a3a3085f6aa960a411119e3854fd6d836aa4e"
@@ -4551,6 +5526,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1295/299/download",
      "sha256": "22d5b5b82b7a6670ddde0600f8eb1c9a8bb395395e75debd5f0e1a1fa76eee4d"
@@ -4565,6 +5543,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1298/300/download",
      "sha256": "066b2e9c4cb4f447ad5e1ccf6998ca9b467783bd7d6ad2da978539416f11e0f6"
@@ -4579,6 +5560,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1299/301/download",
      "sha256": "1a7573baf695dae07bb0f1f123dc826acc6acfb9542403b671f1943ebb130996"
@@ -4593,6 +5577,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1300/302/download",
      "sha256": "eb9f9b8b2f0df8c7b7fc4593275f6470b94fb1c40b70b2360bbe8fd27822eb63"
@@ -4607,6 +5594,9 @@
    "versions": [
     {
      "from": "2023-06-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1305/304/download",
      "sha256": "70401cb0be8cd7779879b66f33e63ce7633f4bd20d476e52cab3f44ae6e458c0"
@@ -4621,6 +5611,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-252/305/download",
      "sha256": "043c172cb7594737d804c06765de4fa31231cb491a26b63e2502d713443d697c"
@@ -4635,6 +5628,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1226/306/download",
      "sha256": "eea18ac9c403920c5bc27ce0345a94f064a559199bd7dad704180a4896a58b7e"
@@ -4649,6 +5645,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-193/307/download",
      "sha256": "a0de819f535606f38ad3ac4eacbaec4f01664284bb9aaa9f8b09e19e912cb313"
@@ -4663,6 +5662,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1280/308/download",
      "sha256": "6f65ce95b333da1ab6640d8d9d4281c94da7e59c4c299da75ee0bfc0e6fb86c9"
@@ -4677,6 +5679,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-257/310/download",
      "sha256": "c71ec79753f0e7f82d89dfae9d916289dcb15cfcb8325efce7078255d201eda9"
@@ -4691,6 +5696,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-007/312/download",
      "sha256": "451a4ed6d7ed58cc057c2f2ecaa9199027227484e70c4cee5aba432ace003e02"
@@ -4705,6 +5713,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-017/313/download",
      "sha256": "20ef746bf5bf84d664f1366d9545c8c70223871ca7f1e05d6525ded2ef82b200"
@@ -4719,6 +5730,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-025/314/download",
      "sha256": "bd926a1829a6eefc1e85ed4b6110f2062ba1c200a2f1a87b025b4105ca93707d"
@@ -4733,6 +5747,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-029/315/download",
      "sha256": "46b072c903688e591a568d84cc113864ac1355fd87c1c67dd7e7ea90f0f49fa4"
@@ -4747,6 +5764,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-035/317/download",
      "sha256": "a09d27abeff175fd8a7646b1ecec9765b08b3a582703d1192c494331a32e8127"
@@ -4761,6 +5781,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-044/318/download",
      "sha256": "7425bdb22357af4a834a8abc571a961e36f647f0f34fa490137cfad8bf7b0c34"
@@ -4775,6 +5798,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-049/319/download",
      "sha256": "2ee00bdcbd8ea4998ac7c9a5675a69c2b2b52134a266a72d7ae58d22261ec533"
@@ -4789,6 +5815,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-054/321/download",
      "sha256": "6df2056c0a00bcb9a551b84f7697a269811844ce684b85769f38718cd5adc7f7"
@@ -4803,6 +5832,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-056/322/download",
      "sha256": "17a46a86141ae0f4b196772b042967d8b3e5bdd17201179001d995f45ecd0ad3"
@@ -4817,6 +5849,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-058/323/download",
      "sha256": "329be6544f82846db186ac51a714b1906014a1dde358f3dd60a2d2c200702ad0"
@@ -4831,6 +5866,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-067/324/download",
      "sha256": "7fc266139cd2f634ca9cf211b6a7a3a952efb9bbf800633990e8bfc1b8357c03"
@@ -4845,6 +5883,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-076/325/download",
      "sha256": "d039661eb9d989d4462b5653ac72a5374448e5ae23ec9d33c291b6e0d1a48688"
@@ -4859,6 +5900,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-159/328/download",
      "sha256": "07e62b5f590a13398b8effbe2b975db1b0823e2cf0a3a045ed31c600b8a1cbe4"
@@ -4873,6 +5917,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-165/329/download",
      "sha256": "245250932337b7e5a975de8b45c2670e99725e605f08ec0839b29df26b9bd5ad"
@@ -4887,6 +5934,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-175/331/download",
      "sha256": "0ff538c41fded6e043b080d974a0eec06d927dcd0154e7177b74368c86952449"
@@ -4901,6 +5951,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-179/332/download",
      "sha256": "9133ed52fca55570fdc48d0227b70c2cb94702d3a544454cd2252c8825afa4cb"
@@ -4915,6 +5968,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-186/333/download",
      "sha256": "abc3ae7fb6687bad592cdae78984957d687dff6c7b1d57232eed5ab7d1553b57"
@@ -4929,6 +5985,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-258/334/download",
      "sha256": "728213740afc5e5471acd261633100626602ce933413f57130d4d56e20559be0"
@@ -4943,6 +6002,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1271/335/download",
      "sha256": "6f1ba50da3db17493770ee62110003e598206996ca0cb989e9723cc540847769"
@@ -4957,6 +6019,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-269/336/download",
      "sha256": "d5ce9ff361f0478585edadce9b91d0f2c81c2da4d642a9b54bdbf1002835e187"
@@ -4971,6 +6036,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1290/337/download",
      "sha256": "d4c639234b88fc195aee2248eb534d8aab2cc4bc4adf37070ccd54d1439762cc"
@@ -4985,6 +6053,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1008/338/download",
      "sha256": "48323c51b3115384568b4085be0e3f9b405aaa83ea1905b792e4cc03fd31b9f6"
@@ -4999,6 +6070,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1061/340/download",
      "sha256": "aaba9e5d4f998ac1c08940fbe5419fa7a8eb12c90e1e97a46127dc1aac2ff0a5"
@@ -5013,6 +6087,9 @@
    "versions": [
     {
      "from": "2023-06-02",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1286/341/download",
      "sha256": "dba6c551874c6564a36e72b2d675bee615e25897a8102f5b0e25d0a25af02170"
@@ -5027,6 +6104,9 @@
    "versions": [
     {
      "from": "2023-06-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1220/342/download",
      "sha256": "4d574ce3b2169284a11867cb07981636c3a8bc900fb772a8a7e4f5243a0d0761"
@@ -5041,6 +6121,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-298/343/download",
      "sha256": "eaf051efc83a6b97d9e69f45b67ae0c38ed8b170905d0494f5e9c36b8c5eda74"
@@ -5055,6 +6138,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-031/344/download",
      "sha256": "3cf874d491eead5c54da271163bd6db26a2175415c8d2321c07fd47560441a72"
@@ -5069,6 +6155,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-082/346/download",
      "sha256": "7794e670665d8352ba210326706668392be849f8cb5942054b7c57aa7d3ab9e3"
@@ -5083,6 +6172,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-108/348/download",
      "sha256": "b27cca850810b75575e649ad0a5d50353172e56751a4a568f761e0485c40607a"
@@ -5097,6 +6189,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-164/349/download",
      "sha256": "a69a19326dab95729b839424b589d6203785217f78b70b47af43b28f62e028b2"
@@ -5111,6 +6206,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-192/350/download",
      "sha256": "b3657e443e0e911dacbd9263bfa15b38f8e727e740d6231acf9ddbb3b1e1eeb5"
@@ -5125,6 +6223,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-198/352/download",
      "sha256": "5118f73dd5c1b082618b27775baaef513875b77aaff1f48486a706922d7a6b21"
@@ -5139,6 +6240,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-203/355/download",
      "sha256": "550e448056b5a94adb4535752f1ce7656480d0c6720627b930ec101eb47020f7"
@@ -5153,6 +6257,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-208/357/download",
      "sha256": "88ecfafc49f45acb61b7010ec4e62e9c3ebb38c67abbde324deb8284b2e0106a"
@@ -5167,6 +6274,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-212/358/download",
      "sha256": "3f757eb1c0937e507b671463c0a66fc10d6ea0fea5a46baec5f8b39f4d274afb"
@@ -5181,6 +6291,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-247/359/download",
      "sha256": "487088dc8c475567a4dc206713e5924e1d2a5241053027668fb4e237f483baa6"
@@ -5195,6 +6308,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-248/360/download",
      "sha256": "118424baef8831ac5f905a09b0839f26f1c065292ceb7b66e0863613ca7130f7"
@@ -5209,6 +6325,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-251/361/download",
      "sha256": "99293f1b199c9804ae5670b1f6cd32c607e2dba0f696529af9667251f3d3c0c3"
@@ -5223,6 +6342,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-261/362/download",
      "sha256": "b1eeb46f15ad38504d76e613896d49652f8a4155c259ef2b0e4b3366640a4bec"
@@ -5237,6 +6359,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1003/363/download",
      "sha256": "51816f46f0bcdfd3472daaa659e6ed700342aa0e0af8dd91dcc4e1f1a1ba5fb5"
@@ -5251,6 +6376,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1013/364/download",
      "sha256": "e66ea32a9bdbde7464b9fe98fcc3ce31f4ff7eb51a25dbb99036a7b0bebfb72c"
@@ -5265,6 +6393,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1017/365/download",
      "sha256": "e893dfcd44c35eec487101d3eacb90f973fc3f00640253fba686cefff95e5b3e"
@@ -5279,6 +6410,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1019/366/download",
      "sha256": "08f881f52d2733ce83b2a2732f3596ae5fb09566261f31114143ec37cd811bb2"
@@ -5293,6 +6427,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1024/367/download",
      "sha256": "251c6d222b1a3b1c546985e36088c464769bd400e7096f92db172b0c826e8b98"
@@ -5307,6 +6444,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1048/368/download",
      "sha256": "8ef973112eba42a192332a7ada829f38f3327d45887c0f977e2322ff4559f4f8"
@@ -5321,6 +6461,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1056/369/download",
      "sha256": "89efccadc668df9bb344be3379ac6634019b3bfa3b973aaf4b0b2c5eb92a3498"
@@ -5335,6 +6478,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1076/370/download",
      "sha256": "f4e299257ab4c1c531380562b77e0c90e1be693476642197673e0ae7a3cdf8f2"
@@ -5349,6 +6495,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1084/371/download",
      "sha256": "8d90f6c2b9d79b210c6ce43e80b78bcc57afd94af12c947bd56919cb5279d9a4"
@@ -5363,6 +6512,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1102/373/download",
      "sha256": "e8f3fdcc6573f2d11f251f15081fa5dde9a36d925388cf70fe679da44e81914e"
@@ -5377,6 +6529,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1257/376/download",
      "sha256": "7b7c8059d5344088786002df36abda55ef7410da0b3bea8b20dc5d49f9d065f0"
@@ -5391,6 +6546,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1269/377/download",
      "sha256": "a9f3b521af3585cd116d6dc1c8219119938344761feeddee9119101dec243559"
@@ -5405,6 +6563,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1306/378/download",
      "sha256": "0f5f74bf7f0246f7ebd014830cc6be6caf965f680ab6b7133dd2f42380ea157d"
@@ -5419,6 +6580,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1309/379/download",
      "sha256": "7a3acb45f8333f46af90ed10d0b7d4021917fd5d8273f8b86b6106451a898108"
@@ -5433,6 +6597,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1287/380/download",
      "sha256": "6420d1794b05d4765ea0c6725192a31b80baa44e2ded14cc11d37266d23444d9"
@@ -5447,6 +6614,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1304/381/download",
      "sha256": "c056ce9c4bd7014a6d4446a673e00f178f9fe7355a12d2c876f8b4015bd87925"
@@ -5461,6 +6631,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-177/383/download",
      "sha256": "a592c997f03c6e63299df01a03ef6662e865a5fe5fbbb84ba420004d4d1ca361"
@@ -5475,6 +6648,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-270/384/download",
      "sha256": "eea964829e2ead2423662933b89d3717b1863874467168a41ae07a2f876dc70a"
@@ -5489,6 +6665,9 @@
    "versions": [
     {
      "from": "2023-06-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1274/385/download",
      "sha256": "34ceb508eb6819165a919fdf1535f875126d683eb2af423cab3cee9c3b26c4e6"
@@ -5503,6 +6682,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-163/386/download",
      "sha256": "d35531f353edd0837de4a221b0745a1eabdcb9058c7c76620da757c3a5905aa5"
@@ -5517,6 +6699,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-003/387/download",
      "sha256": "f91d9e1cb8d402fc6593a2b6a5945069fdcced239566c67d3a962737d516ce07"
@@ -5531,6 +6716,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-149/388/download",
      "sha256": "f49a72f961813b2efa023c8eae874a304533259e8fa94dbc1081cba52596063c"
@@ -5545,6 +6733,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-296/390/download",
      "sha256": "72e66938030f5e99c086b6bd994a575e42c9c57a72cb12f6ddeb1d42d5e4ca2e"
@@ -5559,6 +6750,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-028/391/download",
      "sha256": "b968566f6115e1a33272b22a76140f33c8ba1a1de9b00fee7fe61d8d1df1f359"
@@ -5573,6 +6767,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-088/392/download",
      "sha256": "cc2a4d858efa8b8b2a0fb13088abd27ce63c215f0f172800adb7e74e9a2e0201"
@@ -5587,6 +6784,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-111/393/download",
      "sha256": "34cf9f53df4e8aee4623a3a69dd17688c76c20afe56f83e43cbf2544478be0ec"
@@ -5601,6 +6801,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1130/394/download",
      "sha256": "a0a631f6b0b0a8fce0310cd17d7a3cd59bf1dfc81de06c4a2085c45a4f8d76bb"
@@ -5615,6 +6818,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-254/395/download",
      "sha256": "cb7acf79fec21505188350bf6aeff014d421f24a046da37ce8724eb9726b3eed"
@@ -5629,6 +6835,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-263/396/download",
      "sha256": "79c28576612ddf4b7d332bb0e695152bd579b8cf82a9590338ac3fdae8ac7f3a"
@@ -5643,6 +6852,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-267/397/download",
      "sha256": "7162547ef9d6d584657b4f1670cda96d677fc8a08cf989f4ecb514e4e03942e6"
@@ -5657,6 +6869,9 @@
    "versions": [
     {
      "from": "2023-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-268/398/download",
      "sha256": "c5d9f4a820374646eef1c28666268ba16dc46dc0dfa9f87c6b3ae162f55969e0"
@@ -5671,6 +6886,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-278/400/download",
      "sha256": "342e5cbe8c5a24e0446474404cc47a35db2bf5477ea615797e505b9724ff06c6"
@@ -5685,6 +6903,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1294/401/download",
      "sha256": "7e7b962ae6f817552bba15ee28b48432884ba70393b50d277eb6a1f6d972085d"
@@ -5699,6 +6920,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-272/403/download",
      "sha256": "500d9283de77218f17316a77ba67522cb13f39ed3c4acc317f6e1219e4460a7d"
@@ -5713,6 +6937,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-280/404/download",
      "sha256": "0338c5151c318bcc6deb19ef3f0e1f87a8469deaa0cc0ff1b2eb9ec0e0036b4b"
@@ -5727,6 +6954,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-281/405/download",
      "sha256": "519ade462ec71c07611dc11954c454ebc8796c9897094cbc1a7294a20726d271"
@@ -5741,6 +6971,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-286/406/download",
      "sha256": "501a0c95361d6a2c55de4e7382cb3c8304056e5e6935ad448cfa1b4cdaa5adb2"
@@ -5755,6 +6988,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-293/407/download",
      "sha256": "284df69b4c11d85520b56a7d53beef67ecc3c9afdc262cf89fa3129180e65995"
@@ -5769,6 +7005,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-294/408/download",
      "sha256": "eff7a3e0f53f953adec87079e0b4b0b2fe2b55f0d5c573d0370a0b7850511c6c"
@@ -5783,6 +7022,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-297/409/download",
      "sha256": "6cf64db567f615bf7edc7b1e00062ff2f3813422eefa0f866eee6ab8e0ddf5da"
@@ -5797,6 +7039,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-299/410/download",
      "sha256": "b50f2175ae91b02ecceb81ccec87f454bbe046e2f53475013e4b964e4c604fd8"
@@ -5811,6 +7056,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-302/411/download",
      "sha256": "ab32d77f5773ea95ca60e11c78532e9d47986efdf31aadaf8d0482d21abe38bb"
@@ -5825,6 +7073,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-306/412/download",
      "sha256": "e062b2170e7b5ff6873b26ca990d5c39843da0297f0343a653ef73490664b24f"
@@ -5839,6 +7090,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1100/413/download",
      "sha256": "5af01d5cd874390be9ed9ef5eec900f0eab2b4dd6b17d22eab306157bf70fe85"
@@ -5853,6 +7107,9 @@
    "versions": [
     {
      "from": "2023-06-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1120/414/download",
      "sha256": "06bd65ce0d83630708556c3231f29c010d4b6c7f04d7b113202ccfb35a1401a0"
@@ -5867,6 +7124,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1186/415/download",
      "sha256": "a902583a98f50cd8dd2f3c5280fd001ad96a57194611e8bf20dd1b90c899c0ab"
@@ -5881,6 +7141,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1068/416/download",
      "sha256": "c5202c97de47e75551d9b1949750bffaef6642c96bfa58ef5c7beb0ede1480b9"
@@ -5895,6 +7158,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-249/418/download",
      "sha256": "9ee66a83b746e7ec30e0135f3d68e8ae728b20d57d858e8006ff8da1aa3143fa"
@@ -5909,6 +7175,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1132/420/download",
      "sha256": "963a936a7e3b0d0323277ac96afb6dbde6dfa3c5e5b5e9714a2aeba71bfa6316"
@@ -5923,6 +7192,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1133/421/download",
      "sha256": "bbe895cd728bfa5fd61b9b8504a8221891bd4cdd976e09736ea3c0e6f8d35905"
@@ -5937,6 +7209,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1135/422/download",
      "sha256": "6555689bb360e6ea40caa4fa326d10bc1db1cd23067817d9610c2447a4ac6862"
@@ -5951,6 +7226,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1158/424/download",
      "sha256": "5d568c2f6411acba18c5a1a9959f31e69f10096f7826e9667fc720f02682d3f9"
@@ -5965,6 +7243,9 @@
    "versions": [
     {
      "from": "2023-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1182/426/download",
      "sha256": "e7988378bb38c144215034d90c6d505c5def88eacea1c9d32c544716b52d2d52"
@@ -5979,6 +7260,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1192/427/download",
      "sha256": "4b072c0d2e5c7e770b56cae5415d4a368f1d27eb740622a7d503890209b1d85e"
@@ -5993,6 +7277,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1200/429/download",
      "sha256": "7f7b8d588c3123b181426b2f0da798bc56ee288ec0271e0d5a7061c1806bbe52"
@@ -6007,6 +7294,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1205/430/download",
      "sha256": "20d193841105790aeeb6c9c2f23bffabb3f9cbe11b2c2062cb7ea54df0d12058"
@@ -6021,6 +7311,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1216/431/download",
      "sha256": "bb8a8c8c9c5ffc8e99c2870171f73829195961387960d669fe7b842399151e5d"
@@ -6035,6 +7328,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1250/432/download",
      "sha256": "75efcdaea501d02828932de7143277f921c6d9241c7a179eb459dea1bc4af3ff"
@@ -6049,6 +7345,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1223/433/download",
      "sha256": "bbf3a2915fb948e68ee93608c30b72bc6cddfb419e1cd10219c30c28708cfaf2"
@@ -6063,6 +7362,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1235/434/download",
      "sha256": "959666d9cc7efa21fe1eb9e27595876da72cfa18f4f6057bccbad6918c36e2c9"
@@ -6077,6 +7379,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1242/435/download",
      "sha256": "2647ed1f16e71136a7d6f4df1e3e73784abebb7383b6fadf9d83c5f11cb5c11f"
@@ -6091,6 +7396,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1244/436/download",
      "sha256": "63ac49b2579b5d5ce5fa9ae522ada2ddcc0d8af3a3db749418373065dca126eb"
@@ -6105,6 +7413,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1251/437/download",
      "sha256": "f97f9f1c14eedb4c71af7d2ee0846fc29f12e698d930d7da7128f60e986ea23b"
@@ -6119,6 +7430,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1253/438/download",
      "sha256": "e481812d1882052bc1e17ab84cae2068fb303e7f9b5652ee3ba3cbf1fcaaa4fc"
@@ -6133,6 +7447,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1262/439/download",
      "sha256": "233c5c7b903023aee89611e3f4c486b654cccfa8b574d45fe1de20587bbdedaf"
@@ -6147,6 +7464,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1266/440/download",
      "sha256": "6689595ad95e93eb66094c636e19740cf70c6db30f1e7f1f6e8af723954e7ebe"
@@ -6161,6 +7481,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1297/441/download",
      "sha256": "f093bb96776228379a18c54d2cca018d010a2809839369e70bf9b8244d574f58"
@@ -6175,6 +7498,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1307/442/download",
      "sha256": "8b47c16e2749ad88cbda7525ced8a095c59fbb45e415e4a078df4c2dd6d64f2d"
@@ -6189,6 +7515,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-277/443/download",
      "sha256": "8cce3cea28bcf8217a623cb5b255be651b5dc0a98e55ef94f43a04d1bee2c07f"
@@ -6203,6 +7532,9 @@
    "versions": [
     {
      "from": "2023-06-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-271/444/download",
      "sha256": "ee2c89528a8f344a7dca4014641d368b1bec19c79c6d1ea21d229b58c2c96aae"
@@ -6217,6 +7549,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1112/445/download",
      "sha256": "f8e6d3515beb8e8c73988a4fa3b3d3efd14e6688c9ee8caf370aab203a0d2132"
@@ -6231,6 +7566,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1189/446/download",
      "sha256": "dddbce9cfc3f494407fc1ab035ea44bbdf8473d28cbedf921e36d36ac2817367"
@@ -6245,6 +7583,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1002/447/download",
      "sha256": "428a8c3192590c6a43581f04f7681f3568b3be859a9810200f6eb3638883600c"
@@ -6259,6 +7600,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1255/448/download",
      "sha256": "89f6c52da09d1fea8b5f6bf5be145fef8ce2550e6392eb784bd61d86913b9f4e"
@@ -6273,6 +7617,9 @@
    "versions": [
     {
      "from": "2023-04-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-197/449/download",
      "sha256": "b8ecc9278347ce17aecadb84531daa1aa4924faa0c2cb5efd128603b63fad8a9"
@@ -6287,6 +7634,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1292/297/download",
      "sha256": "0067f2465fe71540df564f044280693d0d5c92d873aa96d339fd81aa7609965b"
@@ -6301,6 +7651,9 @@
    "versions": [
     {
      "from": "2023-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1293/298/download",
      "sha256": "25d2fcb8e92763ae23b899108770044d92203340003a969b58739e99b58c7d96"
@@ -6315,6 +7668,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-097/309/download",
      "sha256": "9acd74b1bb955e1d9db3dbcf33f613acb1c0b198d26763d7b0eb55273aea2aca"
@@ -6329,6 +7685,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-034/316/download",
      "sha256": "556746db7257ceba24de5a2f98ad6458e05e2b6176888ca7dd779032f4265fae"
@@ -6343,6 +7702,9 @@
    "versions": [
     {
      "from": "2023-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1196/428/download",
      "sha256": "d442371cf2b04ee11e759f0730ea1407d1ce1e66237ae21978982ad6afdbd412"
@@ -6357,6 +7719,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-178/207/download",
      "sha256": "d49c3970b58596a1e8032bbedfb8291710305b3931add4de12f1cdef40cac8e8"
@@ -6371,6 +7736,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1222/267/download",
      "sha256": "e1e689b90c917cb30650876ad64650d2d2936940c61c5d5fca8b4acdb15cde38"
@@ -6385,6 +7753,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1275/289/download",
      "sha256": "f74f0c2b08e16b9ceefa038292f81bb8202d403b1f46df345991ef8574576e0f"
@@ -6399,6 +7770,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-053/320/download",
      "sha256": "0bd6e199bfd418e00a3ed01d7bbc220956b95d9aff5af845f4c7224a683e6a54"
@@ -6413,6 +7787,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-148/326/download",
      "sha256": "203993ae6f9dfbabda59aeab0f4bd5e5968dd8a6b2e527de2124cd1536937b87"
@@ -6427,6 +7804,9 @@
    "versions": [
     {
      "from": "2024-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1041/339/download",
      "sha256": "b64a3bc77c66d6fd5e023df8879daf42ebd697f6ded12a31d1184e41080011c4"
@@ -6441,6 +7821,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-105/347/download",
      "sha256": "1844b94f72a8540cbe59a266c50e614f855a386687f1c47ddeec60d3c7d015c1"
@@ -6455,6 +7838,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-195/351/download",
      "sha256": "000a1fef3d2deedea1d722d04bfdfdeef9640c73c7557fcd0d2bd95561313f5f"
@@ -6469,6 +7855,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-199/353/download",
      "sha256": "98dc3cd37fc0cdd493d1e9c8826f5981db1d2f6185261a3c6974b548f4dbab23"
@@ -6483,6 +7872,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-206/356/download",
      "sha256": "0be26d8090145aa04e0c4eeb21efbed7f170d041b91c103f3bbd3b2a5a44b579"
@@ -6497,6 +7889,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1095/372/download",
      "sha256": "8550f181a9d3eaedbd8edf63637db0b56e5fd80f1cd1ac67b8a8b5081e15d92a"
@@ -6511,6 +7906,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1126/374/download",
      "sha256": "f977250f2a0f450e7567e66638b8e2ba22119523e410c75bf420178a7b7bdff9"
@@ -6525,6 +7923,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1267/382/download",
      "sha256": "dba413024ef74d1d24a85f8df0a83b703c720a10211395fb244c2d913aa12821"
@@ -6539,6 +7940,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-172/389/download",
      "sha256": "13390e8cca18046d22df35c1bb68b52284371a558343edd72b1634d2bfc85360"
@@ -6553,6 +7957,9 @@
    "versions": [
     {
      "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-184/402/download",
      "sha256": "c234df1ee2c1042b2e75fa3b80275c1f876ff2409fb976a4ee091a80c0596183"
@@ -6567,6 +7974,9 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1245/417/download",
      "sha256": "8134b752ea8f0b93b1200d62b5c94afc6795962249660ef69e424d740bcb76c9"
@@ -6581,6 +7991,9 @@
    "versions": [
     {
      "from": "2023-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1086/419/download",
      "sha256": "702f885148b14698f1dec66be9c331c6c9762a7b96fdfe50c1b303caeac8944a"
@@ -6595,9 +8008,301 @@
    "versions": [
     {
      "from": "2024-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
      "units": 1,
      "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1181/425/download",
      "sha256": "9c9f803d2602186f99b84ea6a5e579c81ee89964cf594d8a477c3868c4826749"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-450",
+   "short": "2023 ch. 450",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF AGRICULTURE.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-112/450/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-112/450/download",
+     "sha256": "f42ca86fdca339823433e3fd6ef8c490ba26c1bec10afda7605e57f0346d6a7e"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-451",
+   "short": "2023 ch. 451",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF CORRECTIONS.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-113/451/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-113/451/download",
+     "sha256": "17aa971e6a0f49296f78416ab7d2f2bbe07949032ae35b72993ea87f0b57f057"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-452",
+   "short": "2023 ch. 452",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF EARLY CHILDHOOD.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-114/452/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-114/452/download",
+     "sha256": "56f1d40e2fb1b18a1d8af5cfc012b9859f0d649ea8a5134534f83f8114723f01"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-453",
+   "short": "2023 ch. 453",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF EDUCATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-115/453/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-115/453/download",
+     "sha256": "fa8d1ae362eaab2e0287ce1079e17ed294ff41dfcd111c7c79901c1da2a678e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-456",
+   "short": "2023 ch. 456",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF HIGHER EDUCATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-118/456/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-118/456/download",
+     "sha256": "9dd6183c8a7b2e02b1d106c157e1251cf6177f2bef7aaebcc942b7099e77d1b5"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-458",
+   "short": "2023 ch. 458",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE JUDICIAL DEPARTMENT.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-120/458/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-120/458/download",
+     "sha256": "b6d1a711c0612c32747e4c11b9a9403a9e52ea428f2a0f1dea9b9f614ecd4838"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-459",
+   "short": "2023 ch. 459",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LABOR AND EMPLOYMENT.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-121/459/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-121/459/download",
+     "sha256": "90ca280863ed3810bd29332a69106c4e525c7bf686178279fb751efb390f8969"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-460",
+   "short": "2023 ch. 460",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LAW.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-122/460/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-122/460/download",
+     "sha256": "29b0e545d7e6a1ba4f3fc53dc411194fd5083d86da405bd3ce6960f9cbaa7618"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-461",
+   "short": "2023 ch. 461",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LEGISLATURE.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-123/461/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-123/461/download",
+     "sha256": "a269cce4b24a04f8fa2542e8a421be0fa8b40538d268328b2f35f55f964c7021"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-462",
+   "short": "2023 ch. 462",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF LOCAL AFFAIRS.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-124/462/download",
+   "versions": [
+    {
+     "from": "2023-03-03",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-124/462/download",
+     "sha256": "d65dcc200fd7a8440dbcef3e33e1ea59f8d533e901003c9720d4ad87eb1658f2"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-463",
+   "short": "2023 ch. 463",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF MILITARY AND VETERANS AFFAIRS.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-125/463/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-125/463/download",
+     "sha256": "de1cfaa60e693f4535c0da9ab0237839f5f18df66967b233cf901a69cae69447"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-465",
+   "short": "2023 ch. 465",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF PERSONNEL.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-127/465/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-127/465/download",
+     "sha256": "649c975a5a293eb59980dd174340fd8ef216876f6a6fb3ca4d71a0f9f32870f9"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-468",
+   "short": "2023 ch. 468",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF REGULATORY AGENCIES.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-130/468/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-130/468/download",
+     "sha256": "af40029f4f96a7e400b2ab24d02db25f53a1a15acbe6a771f07acc6365b6a3f0"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-469",
+   "short": "2023 ch. 469",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF REVENUE.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-131/469/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-131/469/download",
+     "sha256": "3bee9c972da6fe926b033837be540d7d76a50029d536411f4ae42d7acf449bad"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-470",
+   "short": "2023 ch. 470",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF STATE.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-132/470/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-132/470/download",
+     "sha256": "76691ecc58b3d4ff8d859b767aee4683eb9a611182396629c43557ec540370de"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-471",
+   "short": "2023 ch. 471",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF TRANSPORTATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-133/471/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-133/471/download",
+     "sha256": "7dcd6cc0cd34a9467f9afe3a3cab16f95eda2fe2ee7df9d945f5f73ff116f4c0"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-472",
+   "short": "2023 ch. 472",
+   "title": "CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF THE TREASURY.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-134/472/download",
+   "versions": [
+    {
+     "from": "2023-02-28",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-134/472/download",
+     "sha256": "d7395290c1a0a7e02d744fc46af8fa0571feab5303360d0146ef2c76523e5c2f"
     }
    ]
   }
