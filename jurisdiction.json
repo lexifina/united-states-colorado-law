@@ -4,7 +4,7 @@
  "name": "Colorado",
  "level": "state",
  "repo": "https://github.com/lexifina/united-states-colorado-law",
- "build": "built: Colorado Constitution and Colorado Revised Statutes 2022 (47 acts; Title 3 source-dated 2021-09-07) plus Title 44 amendment by SB 23-019 effective 2023-03-03; 441 as-enacted 2023 regular-session laws; 33 chapters held for date, text or image review; 434 complete as-enacted 2021 chapter laws added as historical corrections; 70 source chapters held",
+ "build": "built: Colorado Constitution and Colorado Revised Statutes 2022 (47 acts; Title 3 source-dated 2021-09-07) plus Title 44 amendment by SB 23-019 effective 2023-03-03; 441 as-enacted 2023 regular-session laws; 33 chapters held for date, text or image review; 437 complete as-enacted 2021 chapter laws added as historical corrections; 67 source chapters held",
  "register_date": "2026-11-02",
  "parent": "united-states"
 }

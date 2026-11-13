@@ -550,7 +550,9 @@ The additional chapter records preserve text-layer appropriation tables with the
 
 ## Older as-enacted session laws
 
-This history additionally records 434 complete as-enacted chapters of the 2021 regular session, with deletion marks retained. The official session listing contains 504 chapters; 70 chapters are held for source, layout, image or commencement review. The original CRS title summaries above describe the previously recorded editions; these chapter additions do not reconstruct older consolidated title text. One source version commencing in 2027 is withdrawn from this historical batch and retained for future handling.
+This record additionally contains 437 complete as-enacted chapters of the 2021 regular session, with deletion marks retained. The official listing has 504 chapters; 67 chapters remain held for date or text review. These records do not reconstruct older consolidated CRS titles. One source version commencing in 2027 is withdrawn from this historical batch and retained for future handling.
+
+The operative PDF commencement clause prevails over conflicting catalog dates for chapters 198, 252 and 349: respectively 1 September 2021, 17 June 2021 and 1 October 2021.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -988,3 +990,6 @@ This history additionally records 434 complete as-enacted chapters of the 2021 r
 | `session-2021-ch-123/` | CONCERNING THE CONVERSION OF HUMAN REMAINS TO BASIC ELEMENTS WITHIN A CONTAINER USING AN ACCELERATED PROCESS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | As enacted; effective 2021-09-07 |
 | `session-2021-ch-134/` | CONCERNING THE EXTENSION OF THE DEADLINE FOR THE EXPENDITURE OF MONEY FROM THE CARE SUBFUND IN THE GENERAL FUND THAT CORRESPONDS TO THE EXTENSION FOR ALLOWABLE STATE EXPENDITURES FROM THE FEDERAL CORONAVIRUS RELIEF FUND. | 1 | As enacted; effective 2021-05-13 |
 | `session-2021-ch-367/` | CONCERNING THE USE OF RANKED CHOICE VOTING IN NONPARTISAN ELECTIONS. | 1 | As enacted; effective 2022-07-01 |
+| `session-2021-ch-198/` | CONCERNING THE CONTINUATION OF THE FOREST HEALTH ADVISORY COUNCIL, AND, IN CONNECTION THEREWITH, IMPLEMENTING THE RECOMMENDATION CONTAINED IN THE 2020 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY AGENCIES TO CONTINUE THE ADVISORY COUNCIL AND CONTINUING IT FOR FIVE YEARS. | 1 | As enacted; effective 2021-09-01 |
+| `session-2021-ch-252/` | CONCERNING THE EXPANSION OF THE JUSTICE REINVESTMENT CRIME PREVENTION INITIATIVE, AND, IN CONNECTION THEREWITH, CREATING A SMALL BUSINESS GRANT PROGRAM FOR JUSTICE-SYSTEM-INVOLVED PERSONS AND MAKING AN APPROPRIATION. | 1 | As enacted; effective 2021-06-17 |
+| `session-2021-ch-349/` | CONCERNING RIGHTS RELATED TO RESIDENTIAL RENTAL AGREEMENTS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | As enacted; effective 2021-10-01 |

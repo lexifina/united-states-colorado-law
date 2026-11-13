@@ -995,21 +995,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-2021-ch-123` | CONCERNING THE CONVERSION OF HUMAN REMAINS TO BASIC ELEMENTS WITHIN A CONTAINER USING AN ACCELERATED PROCESS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2021-09-07 to 2021-09-07 |
 | `session-2021-ch-134` | CONCERNING THE EXTENSION OF THE DEADLINE FOR THE EXPENDITURE OF MONEY FROM THE CARE SUBFUND IN THE GENERAL FUND THAT CORRESPONDS TO THE EXTENSION FOR ALLOWABLE STATE EXPENDITURES FROM THE FEDERAL CORONAVIRUS RELIEF FUND. | 1 | 2021-05-13 to 2021-05-13 |
 | `session-2021-ch-367` | CONCERNING THE USE OF RANKED CHOICE VOTING IN NONPARTISAN ELECTIONS. | 1 | 2022-07-01 to 2022-07-01 |
+| `session-2021-ch-198` | CONCERNING THE CONTINUATION OF THE FOREST HEALTH ADVISORY COUNCIL, AND, IN CONNECTION THEREWITH, IMPLEMENTING THE RECOMMENDATION CONTAINED IN THE 2020 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY AGENCIES TO CONTINUE THE ADVISORY COUNCIL AND CONTINUING IT FOR FIVE YEARS. | 1 | 2021-09-01 to 2021-09-01 |
+| `session-2021-ch-252` | CONCERNING THE EXPANSION OF THE JUSTICE REINVESTMENT CRIME PREVENTION INITIATIVE, AND, IN CONNECTION THEREWITH, CREATING A SMALL BUSINESS GRANT PROGRAM FOR JUSTICE-SYSTEM-INVOLVED PERSONS AND MAKING AN APPROPRIATION. | 1 | 2021-06-17 to 2021-06-17 |
+| `session-2021-ch-349` | CONCERNING RIGHTS RELATED TO RESIDENTIAL RENTAL AGREEMENTS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION. | 1 | 2021-10-01 to 2021-10-01 |
 
-The build made 928 commits:
+The build made 931 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | baseline texts where the record starts |
 | 442 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
-| 439 | corrections to the existing record |
+| 442 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 877 laws in the record.
+- 880 laws in the record.
 - 931 tags.
 
 ## Dates
@@ -1022,7 +1025,7 @@ When a law gives no date of its own, the default rule applies: Colo. Const. art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8e966f9ebf0705da7f5d173e09de1c651e0f8ea2c31c9d56c09a6ba7a9476c61` (84384884 bytes).
+- Corpus: sha256 `eaade04d2be3d9d751cbcb4801d31d1ad726a8359d9009c36955406236b15bef` (84439425 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1091,7 +1094,7 @@ No second build of this corpus has been compared yet.
 - Five 2023 regular-session chapters with one explicit effective date followed by a safety clause. Each complete single-file as-enacted act agrees character for character with an independent PDF text reader; deletion marks match source drawings, approval and commencement dates agree with the official chapter listing. No OCR or retrieval-day date is used.
 - 18 complete as-enacted 2023 chapters admitted after inspection of every remaining chapter. Applicability clauses are preserved verbatim alongside commencement; staged and conditional whole-act dates remain excluded. Every non-whitespace character agrees with an independent PDF reader, all deletion drawings match source characters, and dates agree with the official chapter listing. No OCR or retrieval-day date used.
 - 17 formerly held chapters admitted with source-position text tables, including headers and empty columns; underlines distinguished geometrically from deletions. All non-whitespace characters and reading order agree with independent PDF extraction. Dates agree with source commencement and official listing.
-- Added 435 as-enacted 2021 chapter records as labelled historical corrections. Other sessions and consolidated editions are outside this batch.
+- Added 438 as-enacted 2021 chapter records as labelled historical corrections. Other sessions and consolidated editions are outside this batch.
 
 ## What AI did and did not do
 

@@ -15700,6 +15700,57 @@
      "sha256": "0b6e15f382b17e6b6da4c967d7c493864938407d49fa970bab4bce276431e0d7"
     }
    ]
+  },
+  {
+   "slug": "session-2021-ch-198",
+   "short": "2021 ch. 198",
+   "title": "CONCERNING THE CONTINUATION OF THE FOREST HEALTH ADVISORY COUNCIL, AND, IN CONNECTION THEREWITH, IMPLEMENTING THE RECOMMENDATION CONTAINED IN THE 2020 SUNSET REPORT BY THE DEPARTMENT OF REGULATORY AGENCIES TO CONTINUE THE ADVISORY COUNCIL AND CONTINUING IT FOR FIVE YEARS.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB21-136/198/download",
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB21-136/198/download",
+     "sha256": "1d122ff7eabc87fc9cbfcc4b9f2ecca971c49d9b6b3bca13a1ed73b359a86a2c"
+    }
+   ]
+  },
+  {
+   "slug": "session-2021-ch-252",
+   "short": "2021 ch. 252",
+   "title": "CONCERNING THE EXPANSION OF THE JUSTICE REINVESTMENT CRIME PREVENTION INITIATIVE, AND, IN CONNECTION THEREWITH, CREATING A SMALL BUSINESS GRANT PROGRAM FOR JUSTICE-SYSTEM-INVOLVED PERSONS AND MAKING AN APPROPRIATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB21-1215/252/download",
+   "versions": [
+    {
+     "from": "2021-06-17",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/HB21-1215/252/download",
+     "sha256": "32d2f4805a10936784d5918d80d6410d12fd7ee396c7d2dbf964106ba83f0227"
+    }
+   ]
+  },
+  {
+   "slug": "session-2021-ch-349",
+   "short": "2021 ch. 349",
+   "title": "CONCERNING RIGHTS RELATED TO RESIDENTIAL RENTAL AGREEMENTS, AND, IN CONNECTION THEREWITH, MAKING AN APPROPRIATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB21-173/349/download",
+   "versions": [
+    {
+     "from": "2021-10-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB21-173/349/download",
+     "sha256": "31807aba06dd18282305b240352d2854ae716486efab6e3a8f7752966f41b224"
+    }
+   ]
   }
  ]
 }
