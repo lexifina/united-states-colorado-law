@@ -1,0 +1,4034 @@
+{
+  "1": {
+    "chapter": 1,
+    "bill": "HB21-1001",
+    "effective": "01/20/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1001/1/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "2": {
+    "chapter": 2,
+    "bill": "HB21-1003",
+    "effective": "01/20/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1003/2/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "3": {
+    "chapter": 3,
+    "bill": "HB21-1004",
+    "effective": "01/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1004/3/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "4": {
+    "chapter": 4,
+    "bill": "SB21-003",
+    "effective": "01/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-003/4/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "5": {
+    "chapter": 5,
+    "bill": "HB21-1002",
+    "effective": "01/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1002/5/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "6": {
+    "chapter": 6,
+    "bill": "SB21-001",
+    "effective": "01/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-001/6/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "7": {
+    "chapter": 7,
+    "bill": "SB21-002",
+    "effective": "01/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-002/7/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "8": {
+    "chapter": 8,
+    "bill": "SB21-109",
+    "effective": "03/12/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-109/8/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "9": {
+    "chapter": 9,
+    "bill": "SB21-053",
+    "effective": "03/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-053/9/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "10": {
+    "chapter": 10,
+    "bill": "HB21-1161",
+    "effective": "03/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1161/10/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "11": {
+    "chapter": 11,
+    "bill": "SB21-110",
+    "effective": "03/19/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-110/11/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "12": {
+    "chapter": 12,
+    "bill": "SB21-055",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-055/12/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "13": {
+    "chapter": 13,
+    "bill": "SB21-083",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-083/13/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "14": {
+    "chapter": 14,
+    "bill": "SB21-019",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-019/14/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "15": {
+    "chapter": 15,
+    "bill": "SB21-065",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-065/15/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "16": {
+    "chapter": 16,
+    "bill": "SB21-112",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-112/16/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "17": {
+    "chapter": 17,
+    "bill": "SB21-113",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-113/17/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "18": {
+    "chapter": 18,
+    "bill": "SB21-054",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-054/18/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "19": {
+    "chapter": 19,
+    "bill": "SB21-111",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-111/19/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "20": {
+    "chapter": 20,
+    "bill": "SB21-068",
+    "effective": "03/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-068/20/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "21": {
+    "chapter": 21,
+    "bill": "SB21-090",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-090/21/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "22": {
+    "chapter": 22,
+    "bill": "SB21-024",
+    "effective": "03/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-024/22/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "23": {
+    "chapter": 23,
+    "bill": "SB21-070",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-070/23/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "24": {
+    "chapter": 24,
+    "bill": "HB21-1025",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1025/24/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "25": {
+    "chapter": 25,
+    "bill": "HB21-1083",
+    "effective": "04/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1083/25/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=1",
+    "year": 2021
+  },
+  "26": {
+    "chapter": 26,
+    "bill": "HB21-1075",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1075/26/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "27": {
+    "chapter": 27,
+    "bill": "HB21-1054",
+    "effective": "04/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1054/27/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "28": {
+    "chapter": 28,
+    "bill": "SB21-073",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-073/28/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "29": {
+    "chapter": 29,
+    "bill": "SB21-012",
+    "effective": "04/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-012/29/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "30": {
+    "chapter": 30,
+    "bill": "SB21-096",
+    "effective": "04/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-096/30/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "31": {
+    "chapter": 31,
+    "bill": "SB21-102",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-102/31/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "32": {
+    "chapter": 32,
+    "bill": "SB21-121",
+    "effective": "04/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-121/32/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "33": {
+    "chapter": 33,
+    "bill": "SB21-122",
+    "effective": "04/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-122/33/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "34": {
+    "chapter": 34,
+    "bill": "SB21-141",
+    "effective": "04/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-141/34/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "35": {
+    "chapter": 35,
+    "bill": "SB21-157",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-157/35/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "36": {
+    "chapter": 36,
+    "bill": "HB21-1126",
+    "effective": "04/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1126/36/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "37": {
+    "chapter": 37,
+    "bill": "HB21-1137",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1137/37/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "38": {
+    "chapter": 38,
+    "bill": "SB21-078",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-078/38/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "39": {
+    "chapter": 39,
+    "bill": "HB21-1106",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1106/39/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "40": {
+    "chapter": 40,
+    "bill": "HB21-1063",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1063/40/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "41": {
+    "chapter": 41,
+    "bill": "HB21-1124",
+    "effective": "04/19/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1124/41/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "42": {
+    "chapter": 42,
+    "bill": "SB21-026",
+    "effective": "11/11/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-026/42/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "43": {
+    "chapter": 43,
+    "bill": "HB21-1072",
+    "effective": "04/19/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1072/43/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "44": {
+    "chapter": 44,
+    "bill": "HB21-1076",
+    "effective": "04/19/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1076/44/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "45": {
+    "chapter": 45,
+    "bill": "HB21-1130",
+    "effective": "04/20/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1130/45/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "46": {
+    "chapter": 46,
+    "bill": "SB21-004",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-004/46/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "47": {
+    "chapter": 47,
+    "bill": "HB21-1152",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1152/47/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "48": {
+    "chapter": 48,
+    "bill": "HB21-1097",
+    "effective": "04/22/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1097/48/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "49": {
+    "chapter": 49,
+    "bill": "HB21-1119",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1119/49/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "50": {
+    "chapter": 50,
+    "bill": "SB21-084",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-084/50/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=2",
+    "year": 2021
+  },
+  "51": {
+    "chapter": 51,
+    "bill": "SB21-020",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-020/51/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "52": {
+    "chapter": 52,
+    "bill": "HB21-1052",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1052/52/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "53": {
+    "chapter": 53,
+    "bill": "SB21-145",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-145/53/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "54": {
+    "chapter": 54,
+    "bill": "HB21-1154",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1154/54/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "55": {
+    "chapter": 55,
+    "bill": "HB21-1177",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1177/55/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "56": {
+    "chapter": 56,
+    "bill": "SB21-117",
+    "effective": "04/26/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-117/56/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "57": {
+    "chapter": 57,
+    "bill": "SB21-123",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-123/57/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "58": {
+    "chapter": 58,
+    "bill": "SB21-124",
+    "effective": "09/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-124/58/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "59": {
+    "chapter": 59,
+    "bill": "SB21-040",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-040/59/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "60": {
+    "chapter": 60,
+    "bill": "SB21-107",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-107/60/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "61": {
+    "chapter": 61,
+    "bill": "SB21-075",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-075/61/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "62": {
+    "chapter": 62,
+    "bill": "SB21-218",
+    "effective": "04/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-218/62/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "63": {
+    "chapter": 63,
+    "bill": "HB21-1061",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1061/63/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "64": {
+    "chapter": 64,
+    "bill": "SB21-066",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-066/64/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "65": {
+    "chapter": 65,
+    "bill": "HB21-1131",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1131/65/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "66": {
+    "chapter": 66,
+    "bill": "SB21-144",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-144/66/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "67": {
+    "chapter": 67,
+    "bill": "SB21-224",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-224/67/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "68": {
+    "chapter": 68,
+    "bill": "SB21-225",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-225/68/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "69": {
+    "chapter": 69,
+    "bill": "SB21-227",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-227/69/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "70": {
+    "chapter": 70,
+    "bill": "HB21-1047",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1047/70/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "71": {
+    "chapter": 71,
+    "bill": "HB21-1146",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1146/71/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "72": {
+    "chapter": 72,
+    "bill": "HB21-1147",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1147/72/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "73": {
+    "chapter": 73,
+    "bill": "HB21-1204",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1204/73/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "74": {
+    "chapter": 74,
+    "bill": "SB21-079",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-079/74/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "75": {
+    "chapter": 75,
+    "bill": "SB21-130",
+    "effective": "04/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-130/75/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=3",
+    "year": 2021
+  },
+  "76": {
+    "chapter": 76,
+    "bill": "SB21-207",
+    "effective": "04/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-207/76/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "77": {
+    "chapter": 77,
+    "bill": "SB21-209",
+    "effective": "04/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-209/77/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "78": {
+    "chapter": 78,
+    "bill": "SB21-210",
+    "effective": "04/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-210/78/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "79": {
+    "chapter": 79,
+    "bill": "SB21-216",
+    "effective": "04/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-216/79/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "80": {
+    "chapter": 80,
+    "bill": "SB21-219",
+    "effective": "04/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-219/80/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "81": {
+    "chapter": 81,
+    "bill": "SB21-220",
+    "effective": "04/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-220/81/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "82": {
+    "chapter": 82,
+    "bill": "HB21-1102",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1102/82/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "83": {
+    "chapter": 83,
+    "bill": "HB21-1187",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1187/83/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "84": {
+    "chapter": 84,
+    "bill": "SB21-206",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-206/84/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "85": {
+    "chapter": 85,
+    "bill": "SB21-208",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-208/85/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "86": {
+    "chapter": 86,
+    "bill": "SB21-211",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-211/86/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "87": {
+    "chapter": 87,
+    "bill": "SB21-212",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-212/87/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "88": {
+    "chapter": 88,
+    "bill": "SB21-213",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-213/88/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "89": {
+    "chapter": 89,
+    "bill": "SB21-214",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-214/89/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "90": {
+    "chapter": 90,
+    "bill": "SB21-217",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-217/90/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "91": {
+    "chapter": 91,
+    "bill": "SB21-221",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-221/91/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "92": {
+    "chapter": 92,
+    "bill": "SB21-222",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-222/92/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "93": {
+    "chapter": 93,
+    "bill": "SB21-223",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-223/93/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "94": {
+    "chapter": 94,
+    "bill": "SB21-228",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-228/94/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "95": {
+    "chapter": 95,
+    "bill": "HB21-1136",
+    "effective": "05/04/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1136/95/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "96": {
+    "chapter": 96,
+    "bill": "SB21-056",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-056/96/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "97": {
+    "chapter": 97,
+    "bill": "SB21-215",
+    "effective": "05/05/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-215/97/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "98": {
+    "chapter": 98,
+    "bill": "SB21-067",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-067/98/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "99": {
+    "chapter": 99,
+    "bill": "HB21-1169",
+    "effective": "05/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1169/99/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "100": {
+    "chapter": 100,
+    "bill": "SB21-099",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-099/100/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=4",
+    "year": 2021
+  },
+  "101": {
+    "chapter": 101,
+    "bill": "SB21-153",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-153/101/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "102": {
+    "chapter": 102,
+    "bill": "SB21-192",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-192/102/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "103": {
+    "chapter": 103,
+    "bill": "HB21-1022",
+    "effective": "05/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1022/103/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "104": {
+    "chapter": 104,
+    "bill": "HB21-1018",
+    "effective": "05/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1018/104/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "105": {
+    "chapter": 105,
+    "bill": "HB21-1066",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1066/105/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "106": {
+    "chapter": 106,
+    "bill": "HB21-1123",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1123/106/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "107": {
+    "chapter": 107,
+    "bill": "HB21-1138",
+    "effective": "05/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1138/107/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "108": {
+    "chapter": 108,
+    "bill": "HB21-1148",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1148/108/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "109": {
+    "chapter": 109,
+    "bill": "HB21-1155",
+    "effective": "05/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1155/109/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "110": {
+    "chapter": 110,
+    "bill": "SB21-093",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-093/110/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "111": {
+    "chapter": 111,
+    "bill": "SB21-097",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-097/111/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "112": {
+    "chapter": 112,
+    "bill": "SB21-133",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-133/112/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "113": {
+    "chapter": 113,
+    "bill": "SB21-139",
+    "effective": "05/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-139/113/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "114": {
+    "chapter": 114,
+    "bill": "SB21-179",
+    "effective": "05/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-179/114/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "115": {
+    "chapter": 115,
+    "bill": "SB21-195",
+    "effective": "05/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-195/115/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "116": {
+    "chapter": 116,
+    "bill": "HB21-1031",
+    "effective": "05/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1031/116/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "117": {
+    "chapter": 117,
+    "bill": "HB21-1156",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1156/117/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "118": {
+    "chapter": 118,
+    "bill": "HB21-1157",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1157/118/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "119": {
+    "chapter": 119,
+    "bill": "HB21-1158",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1158/119/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "120": {
+    "chapter": 120,
+    "bill": "HB21-1218",
+    "effective": "09/01/2027",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1218/120/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "121": {
+    "chapter": 121,
+    "bill": "HB21-1009",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1009/121/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "122": {
+    "chapter": 122,
+    "bill": "HB21-1019",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1019/122/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "123": {
+    "chapter": 123,
+    "bill": "SB21-006",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-006/123/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "124": {
+    "chapter": 124,
+    "bill": "SB21-152",
+    "effective": "05/10/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-152/124/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "125": {
+    "chapter": 125,
+    "bill": "HB21-1048",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1048/125/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=5",
+    "year": 2021
+  },
+  "126": {
+    "chapter": 126,
+    "bill": "HB21-1060",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1060/126/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "127": {
+    "chapter": 127,
+    "bill": "HB21-1129",
+    "effective": "05/10/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1129/127/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "128": {
+    "chapter": 128,
+    "bill": "HB21-1153",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1153/128/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "129": {
+    "chapter": 129,
+    "bill": "HB21-1165",
+    "effective": "05/10/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1165/129/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "130": {
+    "chapter": 130,
+    "bill": "HB21-1178",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1178/130/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "131": {
+    "chapter": 131,
+    "bill": "SB21-167",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-167/131/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "132": {
+    "chapter": 132,
+    "bill": "SB21-013",
+    "effective": "05/13/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-013/132/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "133": {
+    "chapter": 133,
+    "bill": "SB21-160",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-160/133/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "134": {
+    "chapter": 134,
+    "bill": "SB21-178",
+    "effective": "05/13/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-178/134/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "135": {
+    "chapter": 135,
+    "bill": "SB21-198",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-198/135/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "136": {
+    "chapter": 136,
+    "bill": "SB21-059",
+    "effective": "10/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-059/136/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "137": {
+    "chapter": 137,
+    "bill": "SB21-135",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-135/137/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "138": {
+    "chapter": 138,
+    "bill": "HB21-1151",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1151/138/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "139": {
+    "chapter": 139,
+    "bill": "SB21-092",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-092/139/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "140": {
+    "chapter": 140,
+    "bill": "SB21-100",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-100/140/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "141": {
+    "chapter": 141,
+    "bill": "SB21-104",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-104/141/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "142": {
+    "chapter": 142,
+    "bill": "SB21-143",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-143/142/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "143": {
+    "chapter": 143,
+    "bill": "SB21-171",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-171/143/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "144": {
+    "chapter": 144,
+    "bill": "HB21-1013",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1013/144/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "145": {
+    "chapter": 145,
+    "bill": "HB21-1055",
+    "effective": "05/17/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1055/145/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "146": {
+    "chapter": 146,
+    "bill": "HB21-1167",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1167/146/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "147": {
+    "chapter": 147,
+    "bill": "HB21-1188",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1188/147/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "148": {
+    "chapter": 148,
+    "bill": "HB21-1193",
+    "effective": "09/01/2027",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1193/148/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "149": {
+    "chapter": 149,
+    "bill": "HB21-1207",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1207/149/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "150": {
+    "chapter": 150,
+    "bill": "SB21-226",
+    "effective": "05/17/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-226/150/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=6",
+    "year": 2021
+  },
+  "151": {
+    "chapter": 151,
+    "bill": "HB21-1114",
+    "effective": "05/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1114/151/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "152": {
+    "chapter": 152,
+    "bill": "HB21-1190",
+    "effective": "05/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1190/152/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "153": {
+    "chapter": 153,
+    "bill": "HB21-1107",
+    "effective": "05/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1107/153/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "154": {
+    "chapter": 154,
+    "bill": "HB21-1112",
+    "effective": "05/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1112/154/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "155": {
+    "chapter": 155,
+    "bill": "SB21-008",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-008/155/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "156": {
+    "chapter": 156,
+    "bill": "HB21-1108",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1108/156/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "157": {
+    "chapter": 157,
+    "bill": "HB21-1090",
+    "effective": "05/20/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1090/157/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "158": {
+    "chapter": 158,
+    "bill": "HB21-1057",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1057/158/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "159": {
+    "chapter": 159,
+    "bill": "HB21-1008",
+    "effective": "05/20/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1008/159/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "160": {
+    "chapter": 160,
+    "bill": "HB21-1045",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1045/160/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "161": {
+    "chapter": 161,
+    "bill": "HB21-1046",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1046/161/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "162": {
+    "chapter": 162,
+    "bill": "HB21-1223",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1223/162/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "163": {
+    "chapter": 163,
+    "bill": "HB21-1226",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1226/163/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "164": {
+    "chapter": 164,
+    "bill": "HB21-1160",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1160/164/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "165": {
+    "chapter": 165,
+    "bill": "HB21-1044",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1044/165/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "166": {
+    "chapter": 166,
+    "bill": "HB21-1241",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1241/166/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "167": {
+    "chapter": 167,
+    "bill": "SB21-022",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-022/167/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "168": {
+    "chapter": 168,
+    "bill": "SB21-142",
+    "effective": "05/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-142/168/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "169": {
+    "chapter": 169,
+    "bill": "SB21-155",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-155/169/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "170": {
+    "chapter": 170,
+    "bill": "SB21-162",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-162/170/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "171": {
+    "chapter": 171,
+    "bill": "SB21-188",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-188/171/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "172": {
+    "chapter": 172,
+    "bill": "SB21-191",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-191/172/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "173": {
+    "chapter": 173,
+    "bill": "HB21-1095",
+    "effective": "06/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1095/173/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "174": {
+    "chapter": 174,
+    "bill": "SB21-147",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-147/174/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "175": {
+    "chapter": 175,
+    "bill": "HB21-1091",
+    "effective": "05/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1091/175/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=7",
+    "year": 2021
+  },
+  "176": {
+    "chapter": 176,
+    "bill": "HB21-1132",
+    "effective": "05/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1132/176/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "177": {
+    "chapter": 177,
+    "bill": "HB21-1139",
+    "effective": "05/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1139/177/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "178": {
+    "chapter": 178,
+    "bill": "HB21-1249",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1249/178/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "179": {
+    "chapter": 179,
+    "bill": "HB21-1099",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1099/179/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "180": {
+    "chapter": 180,
+    "bill": "HB21-1212",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1212/180/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "181": {
+    "chapter": 181,
+    "bill": "HB21-1056",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1056/181/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "182": {
+    "chapter": 182,
+    "bill": "HB21-1186",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1186/182/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "183": {
+    "chapter": 183,
+    "bill": "HB21-1051",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1051/183/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "184": {
+    "chapter": 184,
+    "bill": "HB21-1067",
+    "effective": "05/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1067/184/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "185": {
+    "chapter": 185,
+    "bill": "HB21-1173",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1173/185/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "186": {
+    "chapter": 186,
+    "bill": "SB21-077",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-077/186/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "187": {
+    "chapter": 187,
+    "bill": "HB21-1103",
+    "effective": "05/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1103/187/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "188": {
+    "chapter": 188,
+    "bill": "SB21-015",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-015/188/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "189": {
+    "chapter": 189,
+    "bill": "SB21-030",
+    "effective": "05/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-030/189/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "190": {
+    "chapter": 190,
+    "bill": "SB21-064",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-064/190/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "191": {
+    "chapter": 191,
+    "bill": "HB21-1143",
+    "effective": "05/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1143/191/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "192": {
+    "chapter": 192,
+    "bill": "HB21-1227",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1227/192/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "193": {
+    "chapter": 193,
+    "bill": "HB21-1256",
+    "effective": "05/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1256/193/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "194": {
+    "chapter": 194,
+    "bill": "SB21-021",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-021/194/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "195": {
+    "chapter": 195,
+    "bill": "SB21-082",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-082/195/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "196": {
+    "chapter": 196,
+    "bill": "SB21-101",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-101/196/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "197": {
+    "chapter": 197,
+    "bill": "SB21-115",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-115/197/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "198": {
+    "chapter": 198,
+    "bill": "SB21-136",
+    "effective": "05/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-136/198/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "199": {
+    "chapter": 199,
+    "bill": "HB21-1224",
+    "effective": "05/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1224/199/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "200": {
+    "chapter": 200,
+    "bill": "HB21-1059",
+    "effective": "05/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1059/200/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=8",
+    "year": 2021
+  },
+  "201": {
+    "chapter": 201,
+    "bill": "HB21-1133",
+    "effective": "05/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1133/201/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "202": {
+    "chapter": 202,
+    "bill": "HB21-1117",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1117/202/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "203": {
+    "chapter": 203,
+    "bill": "HB21-1084",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1084/203/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "204": {
+    "chapter": 204,
+    "bill": "HB21-1116",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1116/204/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "205": {
+    "chapter": 205,
+    "bill": "HB21-1217",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1217/205/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "206": {
+    "chapter": 206,
+    "bill": "HB21-1231",
+    "effective": "05/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1231/206/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "207": {
+    "chapter": 207,
+    "bill": "SB21-011",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-011/207/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "208": {
+    "chapter": 208,
+    "bill": "SB21-035",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-035/208/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "209": {
+    "chapter": 209,
+    "bill": "HB21-1221",
+    "effective": "06/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1221/209/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "210": {
+    "chapter": 210,
+    "bill": "HB21-1259",
+    "effective": "06/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1259/210/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "211": {
+    "chapter": 211,
+    "bill": "HB21-1236",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1236/211/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "212": {
+    "chapter": 212,
+    "bill": "HB21-1220",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1220/212/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "213": {
+    "chapter": 213,
+    "bill": "HB21-1222",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1222/213/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "214": {
+    "chapter": 214,
+    "bill": "HB21-1016",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1016/214/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "215": {
+    "chapter": 215,
+    "bill": "HB21-1100",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1100/215/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "216": {
+    "chapter": 216,
+    "bill": "HB21-1168",
+    "effective": "06/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1168/216/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "217": {
+    "chapter": 217,
+    "bill": "HB21-1237",
+    "effective": "06/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1237/217/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "218": {
+    "chapter": 218,
+    "bill": "HB21-1245",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1245/218/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "219": {
+    "chapter": 219,
+    "bill": "HB21-1247",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1247/219/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "220": {
+    "chapter": 220,
+    "bill": "SB21-272",
+    "effective": "06/10/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-272/220/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "221": {
+    "chapter": 221,
+    "bill": "SB21-288",
+    "effective": "06/11/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-288/221/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "222": {
+    "chapter": 222,
+    "bill": "SB21-268",
+    "effective": "06/11/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-268/222/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "223": {
+    "chapter": 223,
+    "bill": "HB21-1164",
+    "effective": "06/11/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1164/223/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "224": {
+    "chapter": 224,
+    "bill": "SB21-251",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-251/224/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "225": {
+    "chapter": 225,
+    "bill": "HB21-1253",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1253/225/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=9",
+    "year": 2021
+  },
+  "226": {
+    "chapter": 226,
+    "bill": "SB21-230",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-230/226/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "227": {
+    "chapter": 227,
+    "bill": "SB21-231",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-231/227/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "228": {
+    "chapter": 228,
+    "bill": "HB21-1285",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1285/228/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "229": {
+    "chapter": 229,
+    "bill": "HB21-1263",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1263/229/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "230": {
+    "chapter": 230,
+    "bill": "SB21-241",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-241/230/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "231": {
+    "chapter": 231,
+    "bill": "HB21-1265",
+    "effective": "06/14/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1265/231/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "232": {
+    "chapter": 232,
+    "bill": "SB21-235",
+    "effective": "06/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-235/232/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "233": {
+    "chapter": 233,
+    "bill": "SB21-204",
+    "effective": "06/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-204/233/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "234": {
+    "chapter": 234,
+    "bill": "HB21-1166",
+    "effective": "06/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1166/234/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "235": {
+    "chapter": 235,
+    "bill": "SB21-234",
+    "effective": "06/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-234/235/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "236": {
+    "chapter": 236,
+    "bill": "SB21-229",
+    "effective": "06/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-229/236/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "237": {
+    "chapter": 237,
+    "bill": "SB21-240",
+    "effective": "06/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-240/237/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "238": {
+    "chapter": 238,
+    "bill": "SB21-258",
+    "effective": "06/15/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-258/238/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "239": {
+    "chapter": 239,
+    "bill": "HB21-1115",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1115/239/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "240": {
+    "chapter": 240,
+    "bill": "SB21-175",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-175/240/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "241": {
+    "chapter": 241,
+    "bill": "HB21-1232",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1232/241/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "242": {
+    "chapter": 242,
+    "bill": "SB21-252",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-252/242/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "243": {
+    "chapter": 243,
+    "bill": "SB21-236",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-236/243/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "244": {
+    "chapter": 244,
+    "bill": "SB21-201",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-201/244/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "245": {
+    "chapter": 245,
+    "bill": "HB21-1104",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1104/245/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "246": {
+    "chapter": 246,
+    "bill": "SB21-185",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-185/246/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "247": {
+    "chapter": 247,
+    "bill": "HB21-1149",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1149/247/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "248": {
+    "chapter": 248,
+    "bill": "SB21-202",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-202/248/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "249": {
+    "chapter": 249,
+    "bill": "HB21-1234",
+    "effective": "06/16/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1234/249/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "250": {
+    "chapter": 250,
+    "bill": "SB21-260",
+    "effective": "06/17/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-260/250/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=10",
+    "year": 2021
+  },
+  "251": {
+    "chapter": 251,
+    "bill": "HB21-1270",
+    "effective": "06/17/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1270/251/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "252": {
+    "chapter": 252,
+    "bill": "HB21-1215",
+    "effective": "06/07/0221",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1215/252/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "253": {
+    "chapter": 253,
+    "bill": "SB21-118",
+    "effective": "06/17/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-118/253/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "254": {
+    "chapter": 254,
+    "bill": "SB21-265",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-265/254/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "255": {
+    "chapter": 255,
+    "bill": "SB21-281",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-281/255/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "256": {
+    "chapter": 256,
+    "bill": "HB21-1021",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1021/256/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "257": {
+    "chapter": 257,
+    "bill": "HB21-1267",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1267/257/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "258": {
+    "chapter": 258,
+    "bill": "HB21-1268",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1268/258/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "259": {
+    "chapter": 259,
+    "bill": "HB21-1277",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1277/259/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "260": {
+    "chapter": 260,
+    "bill": "HB21-1291",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1291/260/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "261": {
+    "chapter": 261,
+    "bill": "SB21-156",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-156/261/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "262": {
+    "chapter": 262,
+    "bill": "HB21-1219",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1219/262/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "263": {
+    "chapter": 263,
+    "bill": "HB21-1274",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1274/263/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "264": {
+    "chapter": 264,
+    "bill": "HB21-1287",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1287/264/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "265": {
+    "chapter": 265,
+    "bill": "HB21-1258",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1258/265/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "266": {
+    "chapter": 266,
+    "bill": "SB21-239",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-239/266/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "267": {
+    "chapter": 267,
+    "bill": "SB21-151",
+    "effective": "06/18/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-151/267/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "268": {
+    "chapter": 268,
+    "bill": "HB21-1298",
+    "effective": "06/19/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1298/268/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "269": {
+    "chapter": 269,
+    "bill": "SB21-256",
+    "effective": "06/19/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-256/269/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "270": {
+    "chapter": 270,
+    "bill": "HB21-1299",
+    "effective": "06/19/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1299/270/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "271": {
+    "chapter": 271,
+    "bill": "HB21-1302",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1302/271/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "272": {
+    "chapter": 272,
+    "bill": "HB21-1318",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1318/272/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "273": {
+    "chapter": 273,
+    "bill": "SB21-249",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-249/273/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "274": {
+    "chapter": 274,
+    "bill": "HB21-1326",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1326/274/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "275": {
+    "chapter": 275,
+    "bill": "SB21-244",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-244/275/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=11",
+    "year": 2021
+  },
+  "276": {
+    "chapter": 276,
+    "bill": "SB21-267",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-267/276/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "277": {
+    "chapter": 277,
+    "bill": "HB21-1309",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1309/277/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "278": {
+    "chapter": 278,
+    "bill": "SB21-203",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-203/278/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "279": {
+    "chapter": 279,
+    "bill": "HB21-1181",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1181/279/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "280": {
+    "chapter": 280,
+    "bill": "SB21-261",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-261/280/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "281": {
+    "chapter": 281,
+    "bill": "SB21-291",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-291/281/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "282": {
+    "chapter": 282,
+    "bill": "SB21-250",
+    "effective": "06/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-250/282/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "283": {
+    "chapter": 283,
+    "bill": "SB21-246",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-246/283/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "284": {
+    "chapter": 284,
+    "bill": "HB21-1200",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1200/284/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "285": {
+    "chapter": 285,
+    "bill": "SB21-098",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-098/285/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "286": {
+    "chapter": 286,
+    "bill": "HB21-1145",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1145/286/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "287": {
+    "chapter": 287,
+    "bill": "SB21-166",
+    "effective": "06/22/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-166/287/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "288": {
+    "chapter": 288,
+    "bill": "SB21-237",
+    "effective": "09/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-237/288/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "289": {
+    "chapter": 289,
+    "bill": "HB21-1225",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1225/289/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "290": {
+    "chapter": 290,
+    "bill": "HB21-1027",
+    "effective": "06/22/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1027/290/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "291": {
+    "chapter": 291,
+    "bill": "SB21-292",
+    "effective": "06/22/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-292/291/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "292": {
+    "chapter": 292,
+    "bill": "HB21-1228",
+    "effective": "06/22/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1228/292/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "293": {
+    "chapter": 293,
+    "bill": "HB21-1255",
+    "effective": "06/22/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1255/293/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "294": {
+    "chapter": 294,
+    "bill": "HB21-1257",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1257/294/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "295": {
+    "chapter": 295,
+    "bill": "HB21-1065",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1065/295/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "296": {
+    "chapter": 296,
+    "bill": "SB21-129",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-129/296/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "297": {
+    "chapter": 297,
+    "bill": "SB21-032",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-032/297/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "298": {
+    "chapter": 298,
+    "bill": "HB21-1311",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1311/298/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "299": {
+    "chapter": 299,
+    "bill": "HB21-1312",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1312/299/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "300": {
+    "chapter": 300,
+    "bill": "HB21-1327",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1327/300/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=12",
+    "year": 2021
+  },
+  "301": {
+    "chapter": 301,
+    "bill": "SB21-293",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-293/301/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "302": {
+    "chapter": 302,
+    "bill": "SB21-128",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-128/302/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "303": {
+    "chapter": 303,
+    "bill": "SB21-283",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-283/303/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "304": {
+    "chapter": 304,
+    "bill": "HB21-1301",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1301/304/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "305": {
+    "chapter": 305,
+    "bill": "HB21-1319",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1319/305/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "306": {
+    "chapter": 306,
+    "bill": "HB21-1216",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1216/306/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "307": {
+    "chapter": 307,
+    "bill": "HB21-1304",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1304/307/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "308": {
+    "chapter": 308,
+    "bill": "HB21-1264",
+    "effective": "06/23/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1264/308/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "309": {
+    "chapter": 309,
+    "bill": "HB21-1007",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1007/309/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "310": {
+    "chapter": 310,
+    "bill": "HB21-1306",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1306/310/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "311": {
+    "chapter": 311,
+    "bill": "HB21-1015",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1015/311/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "312": {
+    "chapter": 312,
+    "bill": "HB21-1142",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1142/312/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "313": {
+    "chapter": 313,
+    "bill": "HB21-1317",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1317/313/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "314": {
+    "chapter": 314,
+    "bill": "SB21-094",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-094/314/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "315": {
+    "chapter": 315,
+    "bill": "SB21-148",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-148/315/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "316": {
+    "chapter": 316,
+    "bill": "SB21-289",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-289/316/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "317": {
+    "chapter": 317,
+    "bill": "SB21-243",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-243/317/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "318": {
+    "chapter": 318,
+    "bill": "SB21-232",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-232/318/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "319": {
+    "chapter": 319,
+    "bill": "SB21-253",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-253/319/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "320": {
+    "chapter": 320,
+    "bill": "HB21-1064",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1064/320/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "321": {
+    "chapter": 321,
+    "bill": "HB21-1128",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1128/321/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "322": {
+    "chapter": 322,
+    "bill": "HB21-1211",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1211/322/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "323": {
+    "chapter": 323,
+    "bill": "HB21-1261",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1261/323/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "324": {
+    "chapter": 324,
+    "bill": "HB21-1272",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1272/324/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "325": {
+    "chapter": 325,
+    "bill": "HB21-1316",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1316/325/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=13",
+    "year": 2021
+  },
+  "326": {
+    "chapter": 326,
+    "bill": "HB21-1286",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1286/326/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "327": {
+    "chapter": 327,
+    "bill": "HB21-1284",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1284/327/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "328": {
+    "chapter": 328,
+    "bill": "SB21-264",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-264/328/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "329": {
+    "chapter": 329,
+    "bill": "SB21-072",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-072/329/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "330": {
+    "chapter": 330,
+    "bill": "HB21-1238",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1238/330/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "331": {
+    "chapter": 331,
+    "bill": "HB21-1260",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1260/331/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "332": {
+    "chapter": 332,
+    "bill": "HB21-1242",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1242/332/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "333": {
+    "chapter": 333,
+    "bill": "SB21-189",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-189/333/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "334": {
+    "chapter": 334,
+    "bill": "HB21-1189",
+    "effective": "06/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1189/334/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "335": {
+    "chapter": 335,
+    "bill": "HB21-1248",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1248/335/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "336": {
+    "chapter": 336,
+    "bill": "HB21-1323",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1323/336/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "337": {
+    "chapter": 337,
+    "bill": "SB21-087",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-087/337/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "338": {
+    "chapter": 338,
+    "bill": "HB21-1269",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1269/338/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "339": {
+    "chapter": 339,
+    "bill": "HB21-1141",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1141/339/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "340": {
+    "chapter": 340,
+    "bill": "HB21-1094",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1094/340/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "341": {
+    "chapter": 341,
+    "bill": "SB21-274",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-274/341/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "342": {
+    "chapter": 342,
+    "bill": "SB21-276",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-276/342/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "343": {
+    "chapter": 343,
+    "bill": "SB21-277",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-277/343/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "344": {
+    "chapter": 344,
+    "bill": "SB21-278",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-278/344/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "345": {
+    "chapter": 345,
+    "bill": "HB21-1073",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1073/345/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "346": {
+    "chapter": 346,
+    "bill": "SB21-242",
+    "effective": "06/26/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-242/346/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "347": {
+    "chapter": 347,
+    "bill": "HB21-1329",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1329/347/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "348": {
+    "chapter": 348,
+    "bill": "HB21-1121",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1121/348/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "349": {
+    "chapter": 349,
+    "bill": "SB21-173",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-173/349/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "350": {
+    "chapter": 350,
+    "bill": "HB21-1150",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1150/350/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=14",
+    "year": 2021
+  },
+  "351": {
+    "chapter": 351,
+    "bill": "SB21-199",
+    "effective": "07/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-199/351/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "352": {
+    "chapter": 352,
+    "bill": "HB21-1194",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1194/352/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "353": {
+    "chapter": 353,
+    "bill": "SB21-131",
+    "effective": "06/25/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-131/353/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "354": {
+    "chapter": 354,
+    "bill": "HB21-1030",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1030/354/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "355": {
+    "chapter": 355,
+    "bill": "HB21-1085",
+    "effective": "06/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1085/355/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "356": {
+    "chapter": 356,
+    "bill": "HB21-1271",
+    "effective": "06/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1271/356/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "357": {
+    "chapter": 357,
+    "bill": "SB21-060",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-060/357/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "358": {
+    "chapter": 358,
+    "bill": "SB21-245",
+    "effective": "06/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-245/358/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "359": {
+    "chapter": 359,
+    "bill": "HB21-1243",
+    "effective": "06/27/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1243/359/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "360": {
+    "chapter": 360,
+    "bill": "SB21-154",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-154/360/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "361": {
+    "chapter": 361,
+    "bill": "HB21-1281",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1281/361/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "362": {
+    "chapter": 362,
+    "bill": "SB21-137",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-137/362/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "363": {
+    "chapter": 363,
+    "bill": "HB21-1328",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1328/363/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "364": {
+    "chapter": 364,
+    "bill": "HB21-1276",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1276/364/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "365": {
+    "chapter": 365,
+    "bill": "SB21-279",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-279/365/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "366": {
+    "chapter": 366,
+    "bill": "HB21-1011",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1011/366/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "367": {
+    "chapter": 367,
+    "bill": "HB21-1071",
+    "effective": "07/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1071/367/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "368": {
+    "chapter": 368,
+    "bill": "SB21-262",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-262/368/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "369": {
+    "chapter": 369,
+    "bill": "SB21-029",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-029/369/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "370": {
+    "chapter": 370,
+    "bill": "SB21-116",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-116/370/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "371": {
+    "chapter": 371,
+    "bill": "HB21-1289",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1289/371/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "372": {
+    "chapter": 372,
+    "bill": "SB21-280",
+    "effective": "06/28/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-280/372/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "373": {
+    "chapter": 373,
+    "bill": "HB21-1262",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1262/373/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "374": {
+    "chapter": 374,
+    "bill": "SB21-248",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-248/374/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "375": {
+    "chapter": 375,
+    "bill": "HB21-1010",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1010/375/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=15",
+    "year": 2021
+  },
+  "376": {
+    "chapter": 376,
+    "bill": "HB21-1325",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1325/376/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "377": {
+    "chapter": 377,
+    "bill": "HB21-1330",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1330/377/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "378": {
+    "chapter": 378,
+    "bill": "SB21-057",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-057/378/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "379": {
+    "chapter": 379,
+    "bill": "HB21-1134",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1134/379/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "380": {
+    "chapter": 380,
+    "bill": "SB21-039",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-039/380/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "381": {
+    "chapter": 381,
+    "bill": "HB21-1206",
+    "effective": "06/29/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1206/381/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "382": {
+    "chapter": 382,
+    "bill": "HB21-1006",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1006/382/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "383": {
+    "chapter": 383,
+    "bill": "SB21-119",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-119/383/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "384": {
+    "chapter": 384,
+    "bill": "HB21-1050",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1050/384/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "385": {
+    "chapter": 385,
+    "bill": "HB21-1233",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1233/385/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "386": {
+    "chapter": 386,
+    "bill": "HB21-1296",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1296/386/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "387": {
+    "chapter": 387,
+    "bill": "SB21-259",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-259/387/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "388": {
+    "chapter": 388,
+    "bill": "SB21-263",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-263/388/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "389": {
+    "chapter": 389,
+    "bill": "HB21-1201",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1201/389/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "390": {
+    "chapter": 390,
+    "bill": "SB21-081",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-081/390/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "391": {
+    "chapter": 391,
+    "bill": "SB21-254",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-254/391/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "392": {
+    "chapter": 392,
+    "bill": "HB21-1235",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1235/392/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "393": {
+    "chapter": 393,
+    "bill": "SB21-275",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-275/393/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "394": {
+    "chapter": 394,
+    "bill": "SB21-282",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-282/394/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "395": {
+    "chapter": 395,
+    "bill": "SB21-286",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-286/395/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "396": {
+    "chapter": 396,
+    "bill": "HB21-1028",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1028/396/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "397": {
+    "chapter": 397,
+    "bill": "HB21-1111",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1111/397/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "398": {
+    "chapter": 398,
+    "bill": "HB21-1195",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1195/398/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "399": {
+    "chapter": 399,
+    "bill": "HB21-1305",
+    "effective": "07/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1305/399/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "400": {
+    "chapter": 400,
+    "bill": "HB21-1290",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1290/400/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=16",
+    "year": 2021
+  },
+  "401": {
+    "chapter": 401,
+    "bill": "SB21-238",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-238/401/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "402": {
+    "chapter": 402,
+    "bill": "HB21-1110",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1110/402/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "403": {
+    "chapter": 403,
+    "bill": "SB21-095",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-095/403/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "404": {
+    "chapter": 404,
+    "bill": "SB21-038",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-038/404/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "405": {
+    "chapter": 405,
+    "bill": "HB21-1122",
+    "effective": "06/30/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1122/405/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "406": {
+    "chapter": 406,
+    "bill": "HB21-1014",
+    "effective": "07/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1014/406/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "407": {
+    "chapter": 407,
+    "bill": "HB21-1171",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1171/407/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "408": {
+    "chapter": 408,
+    "bill": "HB21-1174",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1174/408/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "409": {
+    "chapter": 409,
+    "bill": "HB21-1229",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1229/409/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "410": {
+    "chapter": 410,
+    "bill": "HB21-1239",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1239/410/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "411": {
+    "chapter": 411,
+    "bill": "HB21-1266",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1266/411/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "412": {
+    "chapter": 412,
+    "bill": "HB21-1273",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1273/412/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "413": {
+    "chapter": 413,
+    "bill": "HB21-1293",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1293/413/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "414": {
+    "chapter": 414,
+    "bill": "HB21-1294",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1294/414/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "415": {
+    "chapter": 415,
+    "bill": "HB21-1310",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1310/415/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "416": {
+    "chapter": 416,
+    "bill": "HB21-1313",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1313/416/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "417": {
+    "chapter": 417,
+    "bill": "SB21-017",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-017/417/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "418": {
+    "chapter": 418,
+    "bill": "SB21-018",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-018/418/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "419": {
+    "chapter": 419,
+    "bill": "SB21-069",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-069/419/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "420": {
+    "chapter": 420,
+    "bill": "SB21-174",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-174/420/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "421": {
+    "chapter": 421,
+    "bill": "SB21-287",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-287/421/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "422": {
+    "chapter": 422,
+    "bill": "SB21-233",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-233/422/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "423": {
+    "chapter": 423,
+    "bill": "SB21-266",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-266/423/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "424": {
+    "chapter": 424,
+    "bill": "SB21-269",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-269/424/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "425": {
+    "chapter": 425,
+    "bill": "HB21-1320",
+    "effective": "07/02/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1320/425/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=17",
+    "year": 2021
+  },
+  "426": {
+    "chapter": 426,
+    "bill": "SB21-290",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-290/426/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "427": {
+    "chapter": 427,
+    "bill": "SB21-158",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-158/427/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "428": {
+    "chapter": 428,
+    "bill": "SB21-016",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-016/428/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "429": {
+    "chapter": 429,
+    "bill": "SB21-181",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-181/429/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "430": {
+    "chapter": 430,
+    "bill": "SB21-009",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-009/430/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "431": {
+    "chapter": 431,
+    "bill": "SB21-027",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-027/431/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "432": {
+    "chapter": 432,
+    "bill": "SB21-025",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-025/432/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "433": {
+    "chapter": 433,
+    "bill": "SB21-193",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-193/433/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "434": {
+    "chapter": 434,
+    "bill": "SB21-194",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-194/434/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "435": {
+    "chapter": 435,
+    "bill": "HB21-1198",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1198/435/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "436": {
+    "chapter": 436,
+    "bill": "SB21-169",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-169/436/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "437": {
+    "chapter": 437,
+    "bill": "HB21-1307",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1307/437/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "438": {
+    "chapter": 438,
+    "bill": "HB21-1005",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1005/438/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "439": {
+    "chapter": 439,
+    "bill": "HB21-1068",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1068/439/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "440": {
+    "chapter": 440,
+    "bill": "HB21-1162",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1162/440/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "441": {
+    "chapter": 441,
+    "bill": "HB21-1324",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1324/441/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "442": {
+    "chapter": 442,
+    "bill": "SB21-088",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-088/442/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "443": {
+    "chapter": 443,
+    "bill": "SB21-126",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-126/443/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "444": {
+    "chapter": 444,
+    "bill": "SB21-255",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-255/444/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "445": {
+    "chapter": 445,
+    "bill": "SB21-284",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-284/445/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "446": {
+    "chapter": 446,
+    "bill": "HB21-1069",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1069/446/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "447": {
+    "chapter": 447,
+    "bill": "HB21-1140",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1140/447/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "448": {
+    "chapter": 448,
+    "bill": "HB21-1209",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1209/448/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "449": {
+    "chapter": 449,
+    "bill": "HB21-1230",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1230/449/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "450": {
+    "chapter": 450,
+    "bill": "HB21-1251",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1251/450/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=18",
+    "year": 2021
+  },
+  "451": {
+    "chapter": 451,
+    "bill": "HB21-1279",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1279/451/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "452": {
+    "chapter": 452,
+    "bill": "HB21-1297",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1297/452/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "453": {
+    "chapter": 453,
+    "bill": "HB21-1322",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1322/453/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "454": {
+    "chapter": 454,
+    "bill": "HB21-1303",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1303/454/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "455": {
+    "chapter": 455,
+    "bill": "HB21-1214",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1214/455/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "456": {
+    "chapter": 456,
+    "bill": "SB21-138",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-138/456/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "457": {
+    "chapter": 457,
+    "bill": "HB21-1280",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1280/457/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "458": {
+    "chapter": 458,
+    "bill": "HB21-1250",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1250/458/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "459": {
+    "chapter": 459,
+    "bill": "SB21-146",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-146/459/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "460": {
+    "chapter": 460,
+    "bill": "HB21-1314",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1314/460/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "461": {
+    "chapter": 461,
+    "bill": "HB21-1315",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1315/461/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "462": {
+    "chapter": 462,
+    "bill": "SB21-271",
+    "effective": "03/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-271/462/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "463": {
+    "chapter": 463,
+    "bill": "SB21-071",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-071/463/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "464": {
+    "chapter": 464,
+    "bill": "HB21-1208",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1208/464/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "465": {
+    "chapter": 465,
+    "bill": "SB21-108",
+    "effective": "07/06/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-108/465/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "466": {
+    "chapter": 466,
+    "bill": "HB21-1292",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1292/466/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "467": {
+    "chapter": 467,
+    "bill": "SB21-063",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-063/467/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "468": {
+    "chapter": 468,
+    "bill": "HB21-1077",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1077/468/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "469": {
+    "chapter": 469,
+    "bill": "HB21-1180",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1180/469/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "470": {
+    "chapter": 470,
+    "bill": "HB21-1275",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1275/470/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "471": {
+    "chapter": 471,
+    "bill": "HB21-1278",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1278/471/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "472": {
+    "chapter": 472,
+    "bill": "HB21-1283",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1283/472/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "473": {
+    "chapter": 473,
+    "bill": "HB21-1300",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1300/473/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "474": {
+    "chapter": 474,
+    "bill": "HB21-1321",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1321/474/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "475": {
+    "chapter": 475,
+    "bill": "SB21-076",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-076/475/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=19",
+    "year": 2021
+  },
+  "476": {
+    "chapter": 476,
+    "bill": "SB21-091",
+    "effective": "07/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-091/476/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "477": {
+    "chapter": 477,
+    "bill": "SB21-103",
+    "effective": "09/01/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-103/477/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "478": {
+    "chapter": 478,
+    "bill": "SB21-257",
+    "effective": "07/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-257/478/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "479": {
+    "chapter": 479,
+    "bill": "SB21-270",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-270/479/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "480": {
+    "chapter": 480,
+    "bill": "HB21-1012",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1012/480/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "481": {
+    "chapter": 481,
+    "bill": "HB21-1101",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1101/481/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "482": {
+    "chapter": 482,
+    "bill": "HB21-1282",
+    "effective": "01/01/2022",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1282/482/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "483": {
+    "chapter": 483,
+    "bill": "SB21-190",
+    "effective": "07/01/2023",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-190/483/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "484": {
+    "chapter": 484,
+    "bill": "HB21-1087",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1087/484/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "485": {
+    "chapter": 485,
+    "bill": "SB21-172",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-172/485/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "486": {
+    "chapter": 486,
+    "bill": "SB21-106",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-106/486/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "487": {
+    "chapter": 487,
+    "bill": "HB21-1288",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1288/487/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "488": {
+    "chapter": 488,
+    "bill": "HB21-1105",
+    "effective": "09/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1105/488/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "489": {
+    "chapter": 489,
+    "bill": "HB21-1109",
+    "effective": "07/07/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/HB21-1109/489/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "490": {
+    "chapter": 490,
+    "bill": "SB21-058",
+    "effective": "05/24/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-058/490/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "491": {
+    "chapter": 491,
+    "bill": "SB21-196",
+    "effective": "04/26/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-196/491/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "492": {
+    "chapter": 492,
+    "bill": "SB21-041",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-041/492/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "493": {
+    "chapter": 493,
+    "bill": "SB21-042",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-042/493/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "494": {
+    "chapter": 494,
+    "bill": "SB21-043",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-043/494/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "495": {
+    "chapter": 495,
+    "bill": "SB21-044",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-044/495/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "496": {
+    "chapter": 496,
+    "bill": "SB21-045",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-045/496/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "497": {
+    "chapter": 497,
+    "bill": "SB21-046",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-046/497/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "498": {
+    "chapter": 498,
+    "bill": "SB21-047",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-047/498/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "499": {
+    "chapter": 499,
+    "bill": "SB21-048",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-048/499/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "500": {
+    "chapter": 500,
+    "bill": "SB21-049",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-049/500/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=20",
+    "year": 2021
+  },
+  "501": {
+    "chapter": 501,
+    "bill": "SB21-050",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-050/501/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=21",
+    "year": 2021
+  },
+  "502": {
+    "chapter": 502,
+    "bill": "SB21-051",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-051/502/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=21",
+    "year": 2021
+  },
+  "503": {
+    "chapter": 503,
+    "bill": "SB21-052",
+    "effective": "03/21/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-052/503/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=21",
+    "year": 2021
+  },
+  "504": {
+    "chapter": 504,
+    "bill": "SB21-205",
+    "effective": "05/17/2021",
+    "url": "https://leg.colorado.gov/laws/session-laws/SB21-205/504/download",
+    "listing_url": "https://leg.colorado.gov/laws/session-laws?sess=2021a&page=21",
+    "year": 2021
+  }
+}
