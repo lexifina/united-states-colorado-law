@@ -769,7 +769,15 @@
     "session-2023-ch-471",
     "session-2023-ch-472"
    ],
-   "sha256": "f1463e88ac8547fc292a4d2d858a16a399dbcebbd381fb8b8d0e416d912bd37c"
+   "sha256": "fb4fe6e0641a3254a1d55d1159b6a8973c80e7974359e01f7393389df1004585"
+  },
+  "zzzzzzzzz-q1892-session-laws-2023-listing-conflicts.json": {
+   "acts": [
+    "session-2023-ch-202",
+    "session-2023-ch-250",
+    "session-2023-ch-423"
+   ],
+   "sha256": "fda1caad28d8b55fb8de7b1d1a53840364087700cf5d435ffe33e06bcddb96ac"
   }
  },
  "schema": 1

@@ -1,6 +1,6 @@
 # How this repository was made (Colorado)
 
-This file is written by the build on 2026-11-11, the day the source data was retrieved.
+This file is written by the build on 2026-11-13, the day the source data was retrieved.
 
 ## Sources
 
@@ -64,6 +64,7 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 | Colorado General Assembly, OLLS 2023 regular-session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
 | Colorado General Assembly, OLLS official 2023 session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-11 | Edicts of government; enacted legislation is public domain. |
+| Colorado General Assembly, OLLS official 2023 session chapter PDFs | <https://leg.colorado.gov/laws/session-laws?sess=2023a> | 2026-11-13 | Edicts of government; enacted legislation is public domain. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -559,22 +560,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-2023-ch-470` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF STATE. | 1 | 2023-02-28 to 2023-02-28 |
 | `session-2023-ch-471` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF TRANSPORTATION. | 1 | 2023-02-28 to 2023-02-28 |
 | `session-2023-ch-472` | CONCERNING A SUPPLEMENTAL APPROPRIATION TO THE DEPARTMENT OF THE TREASURY. | 1 | 2023-02-28 to 2023-02-28 |
+| `session-2023-ch-202` | CONCERNING REMOVING THE REQUIREMENT FOR A STUDENT TO REGISTER FOR THE UNITED STATES SELECTIVE SERVICE SYSTEM TO ENROLL IN A STATE-SUPPORTED INSTITUTION OF HIGHER EDUCATION. | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-250` | CONCERNING REMOVAL OF THE DATE RESTRICTION IN THE DEFINITION OF "ELIGIBLE BORROWER" USED TO DETERMINE A BUSINESS'S ELIGIBILITY FOR A SMALL BUSINESS RECOVERY LOAN UNDER THE "CLIMBER ACT". | 1 | 2023-08-07 to 2023-08-07 |
+| `session-2023-ch-423` | CONCERNING PROCEDURES RELATED TO ADULT COMPETENCY PROCEEDINGS. | 1 | 2024-07-01 to 2024-07-01 |
 
-The build made 492 commits:
+The build made 495 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 47 | baseline texts where the record starts |
-| 442 | named laws, court decisions and treaties |
+| 445 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 3 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-13.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 442 laws in the record.
-- 931 tags.
+- 445 laws in the record.
+- 937 tags.
 
 ## Dates
 
@@ -586,7 +590,7 @@ When a law gives no date of its own, the default rule applies: Colo. Const. art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `28e71e5bf594ba546173bf43fee50223a283d3abdd5adce06515684f58f8884d` (78638906 bytes).
+- Corpus: sha256 `ddc668943e37d2a9e5cf53d47704aae72620b19985d0b31b30e3b7273ec8b1cf` (78693574 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -655,6 +659,7 @@ No second build of this corpus has been compared yet.
 - Five 2023 regular-session chapters with one explicit effective date followed by a safety clause. Each complete single-file as-enacted act agrees character for character with an independent PDF text reader; deletion marks match source drawings, approval and commencement dates agree with the official chapter listing. No OCR or retrieval-day date is used.
 - 18 complete as-enacted 2023 chapters admitted after inspection of every remaining chapter. Applicability clauses are preserved verbatim alongside commencement; staged and conditional whole-act dates remain excluded. Every non-whitespace character agrees with an independent PDF reader, all deletion drawings match source characters, and dates agree with the official chapter listing. No OCR or retrieval-day date used.
 - 17 formerly held chapters admitted with source-position text tables, including headers and empty columns; underlines distinguished geometrically from deletions. All non-whitespace characters and reading order agree with independent PDF extraction. Dates agree with source commencement and official listing.
+- q-1892 admits only chapters 202, 250, and 423, where the official act text gives one whole-act in-force date that conflicts with the listing row; the source act text date is used.
 
 ## What AI did and did not do
 
@@ -722,3 +727,4 @@ Model use at data-build time:
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.
 - GPT-6 wrote deterministic source extraction and validation code; no model-authored law text or OCR.
+- GPT-6 wrote deterministic extraction and validation code; no model-authored law text or OCR.

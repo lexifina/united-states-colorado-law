@@ -1,10 +1,5 @@
 # Colorado: law history in git
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Colorado law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
-</picture>
-
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Colorado, United States, which global-law reads at `united-states/colorado/acts/`.
 
 The Constitution of the State of Colorado and the Colorado Revised Statutes as a git repository: one file per section, one paragraph per line, so `git blame` works line by line. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).

@@ -9908,8 +9908,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-112/450/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -9929,8 +9929,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-113/451/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -9950,8 +9950,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-114/452/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -9971,8 +9971,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-115/453/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -9992,8 +9992,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-118/456/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10013,8 +10013,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-120/458/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10034,8 +10034,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-121/459/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10055,8 +10055,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-122/460/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10076,8 +10076,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-123/461/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10097,8 +10097,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-124/462/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10118,8 +10118,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-125/463/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10139,8 +10139,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-127/465/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10160,8 +10160,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-130/468/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10181,8 +10181,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-131/469/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10202,8 +10202,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-132/470/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10223,8 +10223,8 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-133/471/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   },
   {
@@ -10244,8 +10244,71 @@
    "url": "https://leg.colorado.gov/laws/session-laws/SB23-134/472/download",
    "images": 0,
    "images_omitted": 0,
-   "images_source": null,
-   "images_complete": false,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
+  },
+  {
+   "slug": "session-2023-ch-202",
+   "path": "session-2023-ch-202",
+   "id": "2023 chapter 202 (HB23-1261)",
+   "eli": null,
+   "title": "CONCERNING REMOVING THE REQUIREMENT FOR A STUDENT TO REGISTER FOR THE UNITED STATES SELECTIVE SERVICE SYSTEM TO ENROLL IN A STATE-SUPPORTED INSTITUTION OF HIGHER EDUCATION.",
+   "short": "2023 ch. 202",
+   "law_kind": "act",
+   "enacted": "2023-05-16",
+   "published": null,
+   "in_force": "2023-08-07",
+   "repealed": null,
+   "repealed_by": null,
+   "status": "in force",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB23-1261/202/download",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
+  },
+  {
+   "slug": "session-2023-ch-250",
+   "path": "session-2023-ch-250",
+   "id": "2023 chapter 250 (SB23-209)",
+   "eli": null,
+   "title": "CONCERNING REMOVAL OF THE DATE RESTRICTION IN THE DEFINITION OF \"ELIGIBLE BORROWER\" USED TO DETERMINE A BUSINESS'S ELIGIBILITY FOR A SMALL BUSINESS RECOVERY LOAN UNDER THE \"CLIMBER ACT\".",
+   "short": "2023 ch. 250",
+   "law_kind": "act",
+   "enacted": "2023-05-24",
+   "published": null,
+   "in_force": "2023-08-07",
+   "repealed": null,
+   "repealed_by": null,
+   "status": "in force",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-209/250/download",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
+   "complete": false
+  },
+  {
+   "slug": "session-2023-ch-423",
+   "path": "session-2023-ch-423",
+   "id": "2023 chapter 423 (HB23-1138)",
+   "eli": null,
+   "title": "CONCERNING PROCEDURES RELATED TO ADULT COMPETENCY PROCEEDINGS.",
+   "short": "2023 ch. 423",
+   "law_kind": "act",
+   "enacted": "2023-06-07",
+   "published": null,
+   "in_force": "2024-07-01",
+   "repealed": null,
+   "repealed_by": null,
+   "status": "in force",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB23-1138/423/download",
+   "images": 0,
+   "images_omitted": 0,
+   "images_source": 0,
+   "images_complete": true,
    "complete": false
   }
  ]

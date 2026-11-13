@@ -8305,6 +8305,57 @@
      "sha256": "d7395290c1a0a7e02d744fc46af8fa0571feab5303360d0146ef2c76523e5c2f"
     }
    ]
+  },
+  {
+   "slug": "session-2023-ch-202",
+   "short": "2023 ch. 202",
+   "title": "CONCERNING REMOVING THE REQUIREMENT FOR A STUDENT TO REGISTER FOR THE UNITED STATES SELECTIVE SERVICE SYSTEM TO ENROLL IN A STATE-SUPPORTED INSTITUTION OF HIGHER EDUCATION.",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB23-1261/202/download",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1261/202/download",
+     "sha256": "3bc34c6d2db5513ab267680d6c6e913c2e4b67586e7ddf47037660aa1109b593"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-250",
+   "short": "2023 ch. 250",
+   "title": "CONCERNING REMOVAL OF THE DATE RESTRICTION IN THE DEFINITION OF \"ELIGIBLE BORROWER\" USED TO DETERMINE A BUSINESS'S ELIGIBILITY FOR A SMALL BUSINESS RECOVERY LOAN UNDER THE \"CLIMBER ACT\".",
+   "url": "https://leg.colorado.gov/laws/session-laws/SB23-209/250/download",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/SB23-209/250/download",
+     "sha256": "54833c87c0e66337eabf8f160f9ca184229742b13aa3f444ebbba1a5d159fb56"
+    }
+   ]
+  },
+  {
+   "slug": "session-2023-ch-423",
+   "short": "2023 ch. 423",
+   "title": "CONCERNING PROCEDURES RELATED TO ADULT COMPETENCY PROCEEDINGS.",
+   "url": "https://leg.colorado.gov/laws/session-laws/HB23-1138/423/download",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://leg.colorado.gov/laws/session-laws/HB23-1138/423/download",
+     "sha256": "2fa351999850a6511571afc08d24c84a9e774ef74fe3c543fdcc79e35bed550d"
+    }
+   ]
   }
  ]
 }
